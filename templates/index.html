@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.12/css/bootstrap-select.min.css">
+{% endblock %}
+
+
+{% block body %}
+
+    <div class="container">
+        <h1>University Rankings</h1>
+
+    </div>
+
+
+    <script>
+        let data = {{ data | safe }};
+    </script>
+    <script src="../static/js/main.js" type="text/javascript"></script>
+
+
+{% endblock %}
