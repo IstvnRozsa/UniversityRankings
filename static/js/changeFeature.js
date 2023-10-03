@@ -15,7 +15,14 @@ combobox.on('change', function () {
     // Get the selected value
     let selectedFeature = d3.select(this).property('value');
 
-    drawBarchart(universities,"location",selectedFeature,"#bar-chart-location");
-    drawBarchart(universities,"location",selectedFeature,"#bar-chart-universities");
+
+    let topUniversities = sortValues(selectedFeature, universities).slice(0, 5);
+    drawBarchart(topUniversities, "institution", selectedFeature, "#bar-chart-universities");
+
+    let scoresByLocation = groupByLocation("location", selectedFeature);
+    let scoresByLocationSorted = sortValues(selectedFeature, scoresByLocation).slice(0, 5);
+    drawBarchart(scoresByLocationSorted, "location", selectedFeature, "#bar-chart-location");
+
+
 });
 

@@ -80,39 +80,40 @@ function drawBarchart(universities, x, y, id) {
         .call(d3.axisLeft(yScale));
 }
 
-function sortUniversities(feature, universities) {
+function sortValues(feature, universities) {
     //sort the dataset based on the feature
     universities.sort(function (a, b) {
         return b[feature] - a[feature];
     });
+    return universities;
 }
 
-sortUniversities("score ranked", universities);
-let topUniversities = universities.slice(0, 5);
+
+let topUniversities = sortValues("score scaled", universities).slice(0,5);
 drawBarchart(topUniversities, "institution", "score scaled", "#bar-chart-universities");
 
-function groupByLocation(scoreRank) {
+function groupByLocation(categoryName, totalPropertyName) {
 
-    let groupedData = universities.reduce((accumulator, currentValue) => {
-        const {institution, location, scoreRank} = currentValue;
-        // Check if the location exists in the accumulator object
-        if (!accumulator[location]) {
-            accumulator[location] = {location, totalScoreRank: 0, institutions: []};
-        }
-        // Add the score rank to the totalScoreRank for the location
-        accumulator[location].totalScoreRank += scoreRank;
-        // Add the current object to the members array for the location
-        accumulator[location].institutions.push({institution, scoreRank});
-        return accumulator;
-    }, {});
+    var groupedData = universities.reduce(function(acc, obj) {
+    var key = obj[categoryName];
+    if (!acc[key]) {
+        acc[key] = {};
+        acc[key][categoryName] = key;
+        acc[key][totalPropertyName] = 0;
+    }
+    acc[key][totalPropertyName] += obj[totalPropertyName];
+    return acc;
+}, {});
 
-// Convert the groupedData object back to an array of objects
-    const result = Object.values(groupedData).slice(0, 5);
+// Convert the groupedData object back to an array
+var result = Object.values(groupedData);
 
     console.log(result);
     return result;
 }
 
-let groupedUniversities = groupByLocation("score ranked");
-drawBarchart(groupedUniversities, "location", "totalScoreRank", "#bar-chart-location");
+let scoresByLocation = groupByLocation("location","score scaled");
+let scoresByLocationSorted = sortValues("score scaled", scoresByLocation).slice(0,5);
+drawBarchart(scoresByLocationSorted, "location", "score scaled", "#bar-chart-location");
+
 
