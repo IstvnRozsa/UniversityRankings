@@ -48,13 +48,14 @@ function drawBarchart(universities, x, y, id) {
         .append("rect")
         .attr("class", "bar")
         .attr("fill", "#007bff")
-        .attr("id", d => d["Rank"])
+        .attr("id", d => "ID" + d["Rank"])
         .attr("x", d => xScale(d[x]))
         .attr("y", d => yScale(d[y]))
         .attr("width", xScale.bandwidth())
         .attr("height", d => innerHeight - yScale(d[y]))
         .on("click", function (d) {
-            console.log(this.id)
+            console.log(this.id);
+            handleClick(this.id);
         })
 
     chart.selectAll(".bar-label")

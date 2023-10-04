@@ -16,6 +16,7 @@
         <select id="combobox" class="selectpicker"></select>
         <div id="bar-chart-universities"></div>
         <div id="bar-chart-location"></div>
+        <div id="world-map"></div>
     </div>
 
 
@@ -23,8 +24,10 @@
         let universities = {{ universities | safe }};
         let features = {{ features | safe }};
     </script>
-    <script src="../static/js/main.js" type="text/javascript"></script>
+    <script src="../static/js/barCharts.js" type="text/javascript"></script>
     <script src="../static/js/changeFeature.js" type="text/javascript"></script>
+    <script src="../static/js/changeUniversity.js" type="text/javascript"></script>
+    <script src="../static/js/worldMap.js" type="text/javascript"></script>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
