@@ -1,9 +1,9 @@
 // Get a reference to the combobox element
-let combobox = d3.select('#combobox');
+let combobox = d3.select('#combobox-uni-feature');
 
 // Populate the combobox with values from the list
 combobox.selectAll('option')
-    .data(features)
+    .data(uni_features)
     .enter()
     .append('option')
     .text(function (d) {
@@ -13,13 +13,13 @@ combobox.selectAll('option')
 // Handle the change event of the combobox
 combobox.on('change', function () {
     // Get the selected value
-    let selectedFeature = d3.select(this).property('value');
+    let selectedUniFeature = d3.select(this).property('value');
 
 
-    drawBarchart(universities, "institution", selectedFeature, "#bar-chart-universities", 8);
+    drawBarchart(universities, "institution", selectedUniFeature, "#bar-chart-universities", 8);
 
-    let scoresByLocation = groupByLocation("location", selectedFeature);
-    drawBarchart(scoresByLocation, "location", selectedFeature, "#bar-chart-location", 8, 1);
+    let scoresByLocation = groupByLocation("location", selectedUniFeature);
+    drawBarchart(scoresByLocation, "location", selectedUniFeature, "#bar-chart-location", 8, 1);
 
 
 });

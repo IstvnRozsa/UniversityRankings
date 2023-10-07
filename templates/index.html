@@ -12,22 +12,51 @@
 {% block body %}
 
     <div class="container">
-        <h1>University Rankings</h1>
-        <select id="combobox" class="selectpicker"></select>
-        <div id="bar-chart-universities"></div>
-        <div id="bar-chart-location"></div>
+        <div class="row">
+            <div class="col">
+                <h1>University Rankings</h1>
+                <p>Lorem ipsum</p>
+            </div>
+            <div class="col">
+                <select id="combobox-uni-feature" class="selectpicker"></select>
+                <div id="bar-chart-universities"></div>
+                <div id="bar-chart-location"></div>
+            </div>
+        </div>
+
+
+        <div class="descrition">
+            <h1>Countries</h1>
+            <p>Lorem ipsum</p>
+        </div>
         <div id="world-map"></div>
+
+        <select id="combobox-year" class="selectpicker"></select>
+        <select id="combobox-feature1" class="selectpicker"></select>
+        <select id="combobox-feature2" class="selectpicker"></select>
+        <div id="country-scatter-plot"></div>
     </div>
 
 
     <script>
         let universities = {{ universities | safe }};
-        let features = {{ features | safe }};
+        console.log(universities);
+        let uni_features = {{ uni_features | safe }};
+        console.log(uni_features);
+        let countries = {{ countries | safe }};
+        console.log("Countries: ", countries);
+        let country_features = {{ country_features | safe }};
+        console.log("Country features: ", country_features);
+        let years = {{ years | safe }};
+        console.log(years);
     </script>
     <script src="../static/js/barCharts.js" type="text/javascript"></script>
     <script src="../static/js/changeFeature.js" type="text/javascript"></script>
+    <script src="../static/js/changeYear.js" type="text/javascript"></script>
     <script src="../static/js/changeUniversity.js" type="text/javascript"></script>
+    <script src="../static/js/changeCountryFeatures.js" type="text/javascript"></script>
     <script src="../static/js/worldMap.js" type="text/javascript"></script>
+    <script src="../static/js/scatterPlots.js" type="text/javascript"></script>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>

@@ -1,5 +1,5 @@
 console.log(universities);
-console.log(features);
+console.log(uni_features);
 
 function sortValues(feature, universities) {
     //sort the dataset based on the feature
@@ -82,7 +82,7 @@ function drawBarchart(data, x, y, id, number_of_bars, min_is_null = 0) {
         .attr("x", d => xScale(d[x]) + xScale.bandwidth() / 2)
         .attr("y", d => yScale(d[y]) - 5) // Adjust the vertical position
         .attr("text-anchor", "middle") // Center the text horizontally
-        .text(d => d[y]);
+        .text(d => d[y].toFixed(1));
 
 
 // Create the x-axis
