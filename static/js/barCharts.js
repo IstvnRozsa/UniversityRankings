@@ -1,14 +1,23 @@
 console.log(universities);
 console.log(features);
 
+function sortValues(feature, universities) {
+    //sort the dataset based on the feature
+    universities.sort(function (a, b) {
+        return b[feature] - a[feature];
+    });
+    return universities;
+}
 
-function drawBarchart(universities, x, y, id) {
+
+function drawBarchart(data, x, y, id, number_of_bars, min_is_null = 0) {
+    let universities = sortValues(y, data).slice(0, number_of_bars);
     let svgToRemove = d3.select(id).select("svg");
     svgToRemove.remove();
 
 
 // Set the dimensions and margins of the chart
-    let width = 500;
+    let width = 900;
     let height = 260;
     let margin = {top: 20, right: 0, bottom: 30, left: 40};
 
@@ -36,9 +45,16 @@ function drawBarchart(universities, x, y, id) {
 
 // Create a scale for the y-axis
     let yScale = d3.scaleLinear()
-        .domain([0, d3.max(universities, function (d) {
-            return d[y];
-        })])
+        .domain([d3.min(universities, function (d) {
+            if (min_is_null === 0) {
+                return d[y] - 1;
+            } else {
+                return 0;
+            }
+        })
+            , d3.max(universities, function (d) {
+                return d[y];
+            })])
         .range([innerHeight, 0]);
 
 // Create the bars
@@ -81,40 +97,29 @@ function drawBarchart(universities, x, y, id) {
         .call(d3.axisLeft(yScale));
 }
 
-function sortValues(feature, universities) {
-    //sort the dataset based on the feature
-    universities.sort(function (a, b) {
-        return b[feature] - a[feature];
-    });
-    return universities;
-}
-
-
-let topUniversities = sortValues("score scaled", universities).slice(0,5);
-drawBarchart(topUniversities, "institution", "score scaled", "#bar-chart-universities");
-
 function groupByLocation(categoryName, totalPropertyName) {
 
-    var groupedData = universities.reduce(function(acc, obj) {
-    var key = obj[categoryName];
-    if (!acc[key]) {
-        acc[key] = {};
-        acc[key][categoryName] = key;
-        acc[key][totalPropertyName] = 0;
-    }
-    acc[key][totalPropertyName] += obj[totalPropertyName];
-    return acc;
-}, {});
+    var groupedData = universities.reduce(function (acc, obj) {
+        var key = obj[categoryName];
+        if (!acc[key]) {
+            acc[key] = {};
+            acc[key][categoryName] = key;
+            acc[key][totalPropertyName] = 0;
+        }
+        acc[key][totalPropertyName] += obj[totalPropertyName];
+        return acc;
+    }, {});
 
 // Convert the groupedData object back to an array
-var result = Object.values(groupedData);
+    var result = Object.values(groupedData);
 
     console.log(result);
     return result;
 }
 
-let scoresByLocation = groupByLocation("location","score scaled");
-let scoresByLocationSorted = sortValues("score scaled", scoresByLocation).slice(0,5);
-drawBarchart(scoresByLocationSorted, "location", "score scaled", "#bar-chart-location");
+
+drawBarchart(universities, "institution", "ar score", "#bar-chart-universities", 8);
+let scoresByLocation = groupByLocation("location", "ar score");
+drawBarchart(scoresByLocation, "location", "ar score", "#bar-chart-location", 8,1);
 
 

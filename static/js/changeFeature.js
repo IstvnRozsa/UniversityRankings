@@ -16,12 +16,10 @@ combobox.on('change', function () {
     let selectedFeature = d3.select(this).property('value');
 
 
-    let topUniversities = sortValues(selectedFeature, universities).slice(0, 5);
-    drawBarchart(topUniversities, "institution", selectedFeature, "#bar-chart-universities");
+    drawBarchart(universities, "institution", selectedFeature, "#bar-chart-universities", 8);
 
     let scoresByLocation = groupByLocation("location", selectedFeature);
-    let scoresByLocationSorted = sortValues(selectedFeature, scoresByLocation).slice(0, 5);
-    drawBarchart(scoresByLocationSorted, "location", selectedFeature, "#bar-chart-location");
+    drawBarchart(scoresByLocation, "location", selectedFeature, "#bar-chart-location", 8, 1);
 
 
 });
