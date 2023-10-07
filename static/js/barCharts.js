@@ -11,7 +11,11 @@ function sortValues(feature, universities) {
 
 
 function drawBarchart(data, x, y, id, number_of_bars, min_is_null = 0) {
-    let universities = sortValues(y, data).slice(0, number_of_bars);
+    let universities = null;
+    if(selectedContinent!=="No Selection"){
+        data = data.filter(d => d["continent"] === selectedContinent);
+    }
+    universities = sortValues(y, data).slice(0, number_of_bars);
     let svgToRemove = d3.select(id).select("svg");
     svgToRemove.remove();
 
@@ -97,15 +101,18 @@ function drawBarchart(data, x, y, id, number_of_bars, min_is_null = 0) {
         .call(d3.axisLeft(yScale));
 }
 
-function groupByLocation(categoryName, totalPropertyName) {
+function groupByLocation(categoryName, subcategoryName, totalPropertyName) {
 
     var groupedData = universities.reduce(function (acc, obj) {
-        var key = obj[categoryName];
+        const key = obj[categoryName] + obj[subcategoryName];
         if (!acc[key]) {
-            acc[key] = {};
-            acc[key][categoryName] = key;
-            acc[key][totalPropertyName] = 0;
+            acc[key] = {
+                [categoryName]: obj[categoryName],
+                [subcategoryName]: obj[subcategoryName],
+                [totalPropertyName]: 0,
+            };
         }
+
         acc[key][totalPropertyName] += obj[totalPropertyName];
         return acc;
     }, {});
@@ -113,13 +120,14 @@ function groupByLocation(categoryName, totalPropertyName) {
 // Convert the groupedData object back to an array
     var result = Object.values(groupedData);
 
-    console.log(result);
+    console.log("Grouped Data",result);
     return result;
 }
 
 
-drawBarchart(universities, "institution", "ar score", "#bar-chart-universities", 8);
-let scoresByLocation = groupByLocation("location", "ar score");
-drawBarchart(scoresByLocation, "location", "ar score", "#bar-chart-location", 15,1);
+let scoresByLocation = groupByLocation("location", "continent", selectedUniFeature);
+drawBarchart(scoresByLocation, "location", selectedUniFeature, "#bar-chart-location", 15, 1);
+
+drawBarchart(universities, "institution", selectedUniFeature, "#bar-chart-universities", 8);
 
 
