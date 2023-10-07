@@ -3,7 +3,7 @@ function drawMap() {
     svgToRemove.remove();
 
 // Set the width and height of the SVG container
-    const width = 1000;
+    const width = 900;
     const height = 500;
 // Create an SVG container
     const svg = d3.select("#world-map")

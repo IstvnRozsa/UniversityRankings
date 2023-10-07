@@ -14,12 +14,14 @@ combobox.selectAll('option')
 combobox.on('change', function () {
     // Get the selected value
     let selectedUniFeature = d3.select(this).property('value');
+    d3.select("#score-text").text(selectedUniFeature);
+
 
 
     drawBarchart(universities, "institution", selectedUniFeature, "#bar-chart-universities", 8);
 
     let scoresByLocation = groupByLocation("location", selectedUniFeature);
-    drawBarchart(scoresByLocation, "location", selectedUniFeature, "#bar-chart-location", 8, 1);
+    drawBarchart(scoresByLocation, "location", selectedUniFeature, "#bar-chart-location", 15, 1);
 
 
 });

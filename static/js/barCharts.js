@@ -120,6 +120,6 @@ function groupByLocation(categoryName, totalPropertyName) {
 
 drawBarchart(universities, "institution", "ar score", "#bar-chart-universities", 8);
 let scoresByLocation = groupByLocation("location", "ar score");
-drawBarchart(scoresByLocation, "location", "ar score", "#bar-chart-location", 8,1);
+drawBarchart(scoresByLocation, "location", "ar score", "#bar-chart-location", 15,1);
 
 
