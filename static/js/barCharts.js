@@ -80,7 +80,7 @@ function drawBarchart(data, x, y, id, number_of_bars, min_is_null = 0) {
         .append("text")
         .attr("class", "bar-label")
         .attr("x", d => xScale(d[x]) + xScale.bandwidth() / 2)
-        .attr("y", d => yScale(d[y]) - 5) // Adjust the vertical position
+        .attr("y", d => yScale(d[y]) - 6) // Adjust the vertical position
         .attr("text-anchor", "middle") // Center the text horizontally
         .text(d => d[y].toFixed(1));
 
@@ -90,7 +90,7 @@ function drawBarchart(data, x, y, id, number_of_bars, min_is_null = 0) {
         .attr("transform", `translate(0,${innerHeight})`)
         .call(d3.axisBottom(xScale))
         .selectAll("text")
-        .attr("transform", "rotate(-7)");
+        .attr("transform", "rotate(-8)");
 
 // Create the y-axis
     chart.append("g")
