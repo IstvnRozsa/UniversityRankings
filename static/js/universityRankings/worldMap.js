@@ -1,9 +1,16 @@
-function drawMap() {
+function drawMap(data) {
+    if (selectedContinent !== "No Selection") {
+        data = data.filter(d => d["continent"] === selectedContinent);
+    }
+    data = sortValues(selectedUniFeature, data);
+
+
+
     let svgToRemove = d3.select("#world-map").select("svg");
     svgToRemove.remove();
 
 // Set the width and height of the SVG container
-    const width = 900;
+    const width = 860;
     const height = 500;
 // Create an SVG container
     const svg = d3.select("#world-map")
@@ -16,7 +23,7 @@ function drawMap() {
         // Create a projection
 
         let projection = d3.geoMercator()
-            .center([0, 28])
+            .center([20, 30])
             .scale(150)
             .translate([width / 2, (height - 100) / 2]);
 
@@ -30,11 +37,11 @@ function drawMap() {
             .enter()
             .append("path")
             .attr("d", path)
-            .attr("fill", "lightgray");
+            .attr("fill", mainColor);
 
         // Draw city points
-        svg.selectAll("circle")
-            .data(universities)
+        const points = svg.selectAll("circle")
+            .data(data)
             .enter()
             .append("circle")
             .attr("cx", function (d) {
@@ -44,14 +51,25 @@ function drawMap() {
                 return projection([d.longitude, d.latitude])[1];
             })
             .attr("r", 2)
-            .attr("fill", "#007bff")
+            .style("fill",(d, i)=>{
+                return secondaryColor;
+            }
+            )
             .attr("id", function (d) {
                 return "ID" + d.Rank;
             })
             .on("mouseover", function (d) {
                 handleSelectUni(this.id);
-            })
+                console.log(this.id);
+            });
+        /*
+        let uni = sortValues(selectedUniFeature, data).slice(0, 3);
+        uni.sort((a, b) => b[selectedUniFeature] - a[selectedUniFeature]);
+        points.filter(d => uni.includes(d))
+            .attr("r", 7)
+            .style("fill", "#005259");
+         */
     });
 }
 
-drawMap();
+drawMap(universities);

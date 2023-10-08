@@ -67,7 +67,7 @@ function drawBarchart(data, x, y, id, number_of_bars, bar_id, min_is_null = 0) {
         .enter()
         .append("rect")
         .attr("class", "bar")
-        .attr("fill", "#007bff")
+        .attr("fill", mainColor)
         .attr("id", d => "ID" + d[bar_id])
         .attr("x", d => xScale(d[x]))
         .attr("y", d => yScale(d[y]))

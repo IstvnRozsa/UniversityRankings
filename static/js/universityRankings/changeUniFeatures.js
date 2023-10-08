@@ -10,11 +10,11 @@ function handleSelectUni(uniId) {
     let circleID = "circle#" + selectedUni;
     let rectID = "rect#" + selectedUni;
 
-    svg_map_circles.selectAll("circle").style("fill", "#007bff").attr("r", 2);//fd6464
-    svg_map_circles.select(circleID).attr("r", 8).style("fill", "#fd6464");
+    svg_map_circles.selectAll("circle").style("fill", secondaryColor).attr("r", 2);
+    svg_map_circles.select(circleID).attr("r", 8).style("fill", highlightColor);
 
-    svg_uni_chart.selectAll(".bar").attr("fill", "#007bff");
-    svg_uni_chart.select(rectID).attr("fill", "#fd6464");
+    svg_uni_chart.selectAll(".bar").attr("fill", mainColor);
+    svg_uni_chart.select(rectID).attr("fill", highlightColor);
 }
 
 
@@ -53,6 +53,7 @@ comboboxContinent.selectAll('option')
 comboboxContinent.on('change', function () {
     selectedContinent = d3.select(this).property('value');
     drawBarcharts();
+    drawMap(universities);
 });
 
 
@@ -63,8 +64,8 @@ function handleSelectCountry(countryId) {
         console.log(selectedUniFeature);
         let svg_country_chart = d3.select("#bar-chart-location");
         let rectID = "rect#" + countryId;
-        svg_country_chart.selectAll(".bar").attr("fill", "#007bff");
-        svg_country_chart.select(rectID).attr("fill", "#fd6464");
+        svg_country_chart.selectAll(".bar").attr("fill", mainColor);
+        svg_country_chart.select(rectID).attr("fill", highlightColor);
         drawBarchart(data, "institution", selectedUniFeature, "#bar-chart-universities", 8, "Rank");
         fillUniTable(data);
     }
