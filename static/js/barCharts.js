@@ -174,8 +174,8 @@ function drawBarcharts() {
     drawBarchart(scoresByLocation, "location", selectedUniFeature, "#bar-chart-location", 15, "acode3", 1);
     drawBarchart(universities, "institution", selectedUniFeature, "#bar-chart-universities", 8, "Rank");
     fillUniTable(universities);
-
 }
 
 drawBarcharts();
+
 

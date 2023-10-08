@@ -66,6 +66,7 @@ function handleSelectCountry(countryId) {
         svg_country_chart.selectAll(".bar").attr("fill", "#007bff");
         svg_country_chart.select(rectID).attr("fill", "#fd6464");
         drawBarchart(data, "institution", selectedUniFeature, "#bar-chart-universities", 8, "Rank");
+        fillUniTable(data);
     }
 
 
