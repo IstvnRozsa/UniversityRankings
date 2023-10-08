@@ -10,9 +10,9 @@ function sortValues(feature, universities) {
 }
 
 
-function drawBarchart(data, x, y, id, number_of_bars, min_is_null = 0) {
+function drawBarchart(data, x, y, id, number_of_bars, bar_id, min_is_null = 0) {
     let universities = null;
-    if(selectedContinent!=="No Selection"){
+    if (selectedContinent !== "No Selection") {
         data = data.filter(d => d["continent"] === selectedContinent);
     }
     universities = sortValues(y, data).slice(0, number_of_bars);
@@ -20,7 +20,7 @@ function drawBarchart(data, x, y, id, number_of_bars, min_is_null = 0) {
     svgToRemove.remove();
 
 
-// Set the dimensions and margins of the chart
+// Set the dimensions and margins of the chart .node().parentNode.clientWidth
     let width = 900;
     let height = 260;
     let margin = {top: 20, right: 0, bottom: 30, left: 40};
@@ -68,14 +68,15 @@ function drawBarchart(data, x, y, id, number_of_bars, min_is_null = 0) {
         .append("rect")
         .attr("class", "bar")
         .attr("fill", "#007bff")
-        .attr("id", d => "ID" + d["Rank"])
+        .attr("id", d => "ID" + d[bar_id])
         .attr("x", d => xScale(d[x]))
         .attr("y", d => yScale(d[y]))
         .attr("width", xScale.bandwidth())
         .attr("height", d => innerHeight - yScale(d[y]))
         .on("click", function (d) {
             console.log(this.id);
-            handleClick(this.id);
+            handleSelectUni(this.id);
+            handleSelectCountry(this.id);
         })
 
     chart.selectAll(".bar-label")
@@ -101,12 +102,13 @@ function drawBarchart(data, x, y, id, number_of_bars, min_is_null = 0) {
         .call(d3.axisLeft(yScale));
 }
 
-function groupByLocation(categoryName, subcategoryName, totalPropertyName) {
+function groupByLocation(id, categoryName, subcategoryName, totalPropertyName) {
 
     var groupedData = universities.reduce(function (acc, obj) {
         const key = obj[categoryName] + obj[subcategoryName];
         if (!acc[key]) {
             acc[key] = {
+                [id]: obj[id],
                 [categoryName]: obj[categoryName],
                 [subcategoryName]: obj[subcategoryName],
                 [totalPropertyName]: 0,
@@ -120,14 +122,60 @@ function groupByLocation(categoryName, subcategoryName, totalPropertyName) {
 // Convert the groupedData object back to an array
     var result = Object.values(groupedData);
 
-    console.log("Grouped Data",result);
+    console.log("Grouped Data", result);
     return result;
 }
 
+function fillUniTable(data) {
+    if (selectedContinent !== "No Selection") {
+        data = data.filter(d => d["continent"] === selectedContinent);
+    }
+    data = sortValues(selectedUniFeature, data);
 
-let scoresByLocation = groupByLocation("location", "continent", selectedUniFeature);
-drawBarchart(scoresByLocation, "location", selectedUniFeature, "#bar-chart-location", 15, 1);
+    // Select the table element
+    const table = d3.select("#university-table");
+    table.select("thead").remove();
+    table.selectAll("tbody").remove();
+// Extract headers from the first object in JSON data
+    const headers = Object.keys(data[0]);
 
-drawBarchart(universities, "institution", selectedUniFeature, "#bar-chart-universities", 8);
+// Append table headers
+    table.append("thead")
+        .append("tr")
+        .selectAll("th")
+        .data(headers)
+        .enter()
+        .append("th")
+        .text(function (d) {
+            return d.charAt(0).toUpperCase() + d.slice(1); // Capitalize the first letter of headers
+        });
 
+// Append table rows
+    table.append("tbody")
+        .selectAll("tr")
+        .data(data)
+        .enter()
+        .append("tr")
+        .selectAll("td")
+        .data(function (d) {
+            return headers.map(function (header) {
+                return d[header];
+            });
+        })
+        .enter()
+        .append("td")
+        .text(function (d) {
+            return d;
+        });
+}
+
+function drawBarcharts() {
+    let scoresByLocation = groupByLocation("acode3", "location", "continent", selectedUniFeature);
+    drawBarchart(scoresByLocation, "location", selectedUniFeature, "#bar-chart-location", 15, "acode3", 1);
+    drawBarchart(universities, "institution", selectedUniFeature, "#bar-chart-universities", 8, "Rank");
+    fillUniTable(universities);
+
+}
+
+drawBarcharts();
 

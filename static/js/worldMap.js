@@ -49,7 +49,7 @@ function drawMap() {
                 return "ID" + d.Rank;
             })
             .on("mouseover", function (d) {
-                handleClick(this.id);
+                handleSelectUni(this.id);
             })
     });
 }
