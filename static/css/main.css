@@ -1,8 +1,13 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .sticky-top {
     position: -webkit-sticky;
     position: sticky;
 }
-body{
+
+.row{
     padding-top: 40px;
 }
 

@@ -75,7 +75,31 @@
             </div>
         </div>
 
-
+        <hr class="my-4">
+        <div class="row">
+            <div class="col-4 sticky-column">
+                <div class="sticky-top">
+                    <h1>Countries comparison</h1>
+                    <p>Explore and compare top universities from different countries effortlessly with our interactive
+                        dashboard. Select two countries and a specific score type using intuitive combo boxes, and
+                        instantly visualize the rankings in two dynamic bar charts. Stay informed about the best
+                        universities in your chosen nations, empowering your education decisions.</p>
+                    <h2>Select country 1:</h2>
+                    <select id="combobox-country1" class="selectpicker"></select>
+                    <h2>Select country 2:</h2>
+                    <select id="combobox-country2" class="selectpicker"></select>
+                    <h2>Score by:</h2>
+                    <select id="combobox-uni-feature2" class="selectpicker"></select>
+                </div>
+            </div>
+            <div class="col-8">
+                <h2 id="header-country1"></h2>
+                <div id="top-unis-chart1"></div>
+                <h2 id="header-country2"></h2>
+                <div id="top-unis-chart2"></div>
+            </div>
+        </div>
+        <hr class="my-4">
         <div class="row">
             <div class="col-4 sticky-column">
                 <div class="sticky-top">
@@ -111,9 +135,12 @@
         let country_features = {{ country_features | safe }};
         console.log("Country features: ", country_features);
         let years = {{ years | safe }};
-        console.log(years);
+        console.log("Years", years);
         let continents = {{ continents | safe }};
-        console.log(continents);
+        console.log("Continents", continents);
+        let locations = {{ locations | safe }};
+        console.log("locations", locations);
+
     </script>
     <script src="../static/js/changeFeature.js" type="text/javascript"></script>
     <script src="../static/js/changeYear.js" type="text/javascript"></script>
@@ -122,6 +149,9 @@
     <script src="../static/js/universityRankings/barCharts.js" type="text/javascript"></script>
     <script src="../static/js/universityRankings/worldMap.js" type="text/javascript"></script>
     <script src="../static/js/scatterPlots.js" type="text/javascript"></script>
+
+    <script src="../static/js/universityComparison/changeLocations.js" type="text/javascript"></script>
+    <script src="../static/js/universityComparison/horizontalBarCharts.js" type="text/javascript"></script>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>

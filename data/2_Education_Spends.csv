@@ -1,0 +1,5180 @@
+﻿ID,acode3,country,spending_per_gdp,year
+1,AFG,Afghanistan,1.16,1971
+2,AFG,Afghanistan,1.12,1972
+3,AFG,Afghanistan,1.43,1973
+4,AFG,Afghanistan,1.30,1975
+5,AFG,Afghanistan,1.74,1979
+6,AFG,Afghanistan,1.84,1980
+7,AFG,Afghanistan,1.91,1981
+8,AFG,Afghanistan,2.57,2005
+9,AFG,Afghanistan,2.90,2006
+10,AFG,Afghanistan,3.51,2008
+11,AFG,Afghanistan,3.46,2011
+12,AFG,Afghanistan,3.32,2012
+13,AFG,Afghanistan,3.70,2014
+14,AFG,Afghanistan,3.51,2016
+15,AFG,Afghanistan,3.20,2018
+16,AFG,Afghanistan,3.21,2019
+17,AFG,Afghanistan,2.86,2020
+18,ALB,Albania,3.81,1995
+19,ALB,Albania,3.08,1996
+20,ALB,Albania,3.54,1998
+21,ALB,Albania,3.59,1999
+22,ALB,Albania,3.43,2000
+23,ALB,Albania,3.46,2001
+24,ALB,Albania,3.12,2002
+25,ALB,Albania,3.23,2004
+26,ALB,Albania,3.28,2005
+27,ALB,Albania,3.19,2006
+28,ALB,Albania,3.28,2007
+29,ALB,Albania,3.41,2010
+30,ALB,Albania,3.08,2011
+31,ALB,Albania,2.93,2012
+32,ALB,Albania,3.05,2014
+33,ALB,Albania,3.44,2015
+34,ALB,Albania,3.96,2016
+35,ALB,Albania,3.61,2017
+36,ALB,Albania,3.15,2018
+37,ALB,Albania,3.10,2020
+38,DZA,Algeria,7.18,1979
+39,DZA,Algeria,6.60,1980
+40,DZA,Algeria,4.62,2006
+41,DZA,Algeria,4.96,2007
+42,DZA,Algeria,6.03,2009
+43,DZA,Algeria,7.64,2012
+44,DZA,Algeria,7.29,2013
+45,DZA,Algeria,7.32,2014
+46,DZA,Algeria,7.96,2015
+47,DZA,Algeria,6.51,2017
+48,DZA,Algeria,5.87,2018
+49,DZA,Algeria,6.10,2019
+50,ASM,American Samoa,14.72,2006
+51,AND,Andorra,1.64,2005
+52,AND,Andorra,2.24,2006
+53,AND,Andorra,2.10,2007
+54,AND,Andorra,2.87,2008
+55,AND,Andorra,2.98,2010
+56,AND,Andorra,2.99,2011
+57,AND,Andorra,2.51,2013
+58,AND,Andorra,3.07,2014
+59,AND,Andorra,3.24,2016
+60,AND,Andorra,3.22,2017
+61,AND,Andorra,3.25,2018
+62,AND,Andorra,3.15,2019
+63,AND,Andorra,2.88,2021
+64,AGO,Angola,5.72,1986
+65,AGO,Angola,5.06,1987
+66,AGO,Angola,2.57,1998
+67,AGO,Angola,2.61,2000
+68,AGO,Angola,2.12,2005
+69,AGO,Angola,2.28,2006
+70,AGO,Angola,2.92,2007
+71,AGO,Angola,2.69,2008
+72,AGO,Angola,3.21,2009
+73,AGO,Angola,3.03,2011
+74,AGO,Angola,3.08,2012
+75,AGO,Angola,4.44,2013
+76,AGO,Angola,3.12,2014
+77,AGO,Angola,3.49,2015
+78,AGO,Angola,2.75,2016
+79,AGO,Angola,2.04,2018
+80,AGO,Angola,1.93,2019
+81,AGO,Angola,2.42,2020
+82,ATG,Antigua and Barbuda,2.75,1999
+83,ATG,Antigua and Barbuda,2.51,2009
+84,ATG,Antigua and Barbuda,2.49,2012
+85,ATG,Antigua and Barbuda,2.61,2013
+86,ATG,Antigua and Barbuda,2.84,2015
+87,ATG,Antigua and Barbuda,2.43,2016
+88,ATG,Antigua and Barbuda,2.45,2017
+89,ATG,Antigua and Barbuda,2.64,2018
+90,ATG,Antigua and Barbuda,2.83,2019
+91,ATG,Antigua and Barbuda,3.45,2020
+92,ATG,Antigua and Barbuda,3.84,2021
+93,,Arab World (WB),4.67,2004
+94,,Arab World (WB),4.23,2008
+95,,Arab World (WB),3.98,2010
+96,,Arab World (WB),3.41,2011
+97,,Arab World (WB),3.63,2012
+98,,Arab World (WB),3.98,2013
+99,,Arab World (WB),3.80,2014
+100,,Arab World (WB),4.38,2016
+101,,Arab World (WB),3.75,2017
+102,,Arab World (WB),4.42,2018
+103,,Arab World (WB),2.99,2019
+104,ARG,Argentina,1.46,1970
+105,ARG,Argentina,1.78,1973
+106,ARG,Argentina,1.92,1974
+107,ARG,Argentina,1.84,1975
+108,ARG,Argentina,1.17,1976
+109,ARG,Argentina,1.72,1977
+110,ARG,Argentina,1.94,1978
+111,ARG,Argentina,2.40,1979
+112,ARG,Argentina,2.61,1980
+113,ARG,Argentina,1.60,1982
+114,ARG,Argentina,1.62,1983
+115,ARG,Argentina,2.57,1984
+116,ARG,Argentina,1.36,1985
+117,ARG,Argentina,1.28,1987
+118,ARG,Argentina,1.05,1989
+119,ARG,Argentina,3.73,1996
+120,ARG,Argentina,4.04,1998
+121,ARG,Argentina,4.52,1999
+122,ARG,Argentina,4.58,2000
+123,ARG,Argentina,4.02,2002
+124,ARG,Argentina,3.54,2003
+125,ARG,Argentina,3.86,2005
+126,ARG,Argentina,4.13,2006
+127,ARG,Argentina,4.46,2007
+128,ARG,Argentina,4.84,2008
+129,ARG,Argentina,5.53,2009
+130,ARG,Argentina,5.29,2011
+131,ARG,Argentina,5.35,2012
+132,ARG,Argentina,5.44,2013
+133,ARG,Argentina,5.36,2014
+134,ARG,Argentina,5.55,2016
+135,ARG,Argentina,5.45,2017
+136,ARG,Argentina,4.88,2018
+137,ARG,Argentina,4.72,2019
+138,ARG,Argentina,5.02,2020
+139,ARM,Armenia,1.85,1996
+140,AFG,Afghanistan,1.73,1982
+141,AFG,Afghanistan,2.85,2007
+142,AFG,Afghanistan,3.73,2009
+143,AFG,Afghanistan,3.48,2010
+144,AFG,Afghanistan,3.45,2013
+145,AFG,Afghanistan,3.26,2015
+146,AFG,Afghanistan,3.37,2017
+147,ALB,Albania,3.45,1994
+148,ALB,Albania,3.38,1997
+149,ALB,Albania,3.14,2003
+150,ALB,Albania,3.54,2013
+151,ALB,Albania,3.92,2019
+152,DZA,Algeria,4.34,2008
+153,DZA,Algeria,7.34,2016
+154,DZA,Algeria,7.04,2020
+155,AND,Andorra,3.71,1997
+156,AND,Andorra,1.66,2002
+157,AND,Andorra,1.54,2004
+158,AND,Andorra,3.14,2009
+159,AND,Andorra,3.28,2015
+160,AGO,Angola,4.09,1985
+161,AGO,Angola,3.42,2010
+162,AGO,Angola,2.47,2017
+163,ATG,Antigua and Barbuda,3.40,2002
+164,ATG,Antigua and Barbuda,2.70,2014
+165,,Arab World (WB),4.00,2006
+166,,Arab World (WB),3.59,2009
+167,,Arab World (WB),3.93,2015
+168,,Arab World (WB),3.67,2020
+169,ARG,Argentina,1.94,1972
+170,ARG,Argentina,1.26,1986
+171,ARG,Argentina,1.07,1990
+172,ARG,Argentina,4.83,2001
+173,ARG,Argentina,3.49,2004
+174,ARG,Argentina,5.02,2010
+175,ARG,Argentina,5.78,2015
+176,ARM,Armenia,2.24,1999
+177,ARM,Armenia,2.77,2000
+178,ARM,Armenia,2.14,2002
+179,ARM,Armenia,2.15,2003
+180,ARM,Armenia,2.49,2004
+181,ARM,Armenia,2.47,2001
+182,ARM,Armenia,2.71,2005
+183,ARM,Armenia,3.02,2007
+184,ARM,Armenia,3.17,2008
+185,ARM,Armenia,2.72,2006
+186,ARM,Armenia,3.84,2009
+187,ARM,Armenia,3.14,2011
+188,ARM,Armenia,3.25,2010
+189,ARM,Armenia,2.77,2012
+190,ARM,Armenia,2.25,2014
+191,ARM,Armenia,2.81,2015
+192,ARM,Armenia,2.65,2013
+193,ARM,Armenia,2.76,2016
+194,ARM,Armenia,2.71,2017
+195,ARM,Armenia,2.56,2019
+196,ARM,Armenia,2.71,2020
+197,ARM,Armenia,2.77,2021
+198,ARM,Armenia,2.26,2018
+199,ABW,Aruba,4.76,1998
+200,ABW,Aruba,4.71,2000
+201,ABW,Aruba,4.74,2001
+202,ABW,Aruba,4.92,2002
+203,ABW,Aruba,4.41,2004
+204,ABW,Aruba,4.40,1999
+205,ABW,Aruba,4.68,2005
+206,ABW,Aruba,5.00,2008
+207,ABW,Aruba,4.82,2007
+208,ABW,Aruba,5.92,2009
+209,ABW,Aruba,6.93,2010
+210,ABW,Aruba,6.12,2011
+211,ABW,Aruba,6.44,2013
+212,ABW,Aruba,5.85,2014
+213,ABW,Aruba,5.89,2015
+214,ABW,Aruba,5.49,2016
+215,ABW,Aruba,6.55,2012
+216,AUS,Australia,0.70,1937
+217,AUS,Australia,1.40,1960
+218,AUS,Australia,5.89,1979
+219,AUS,Australia,5.64,1980
+220,AUS,Australia,6.00,1978
+221,AUS,Australia,5.47,1982
+222,AUS,Australia,5.40,1985
+223,AUS,Australia,5.27,1986
+224,AUS,Australia,5.06,1987
+225,AUS,Australia,5.36,1983
+226,AUS,Australia,4.91,1988
+227,AUS,Australia,4.67,1990
+228,AUS,Australia,4.79,1991
+229,AUS,Australia,4.68,1992
+230,AUS,Australia,4.74,1989
+231,AUS,Australia,5.51,1993
+232,AUS,Australia,5.24,1994
+233,AUS,Australia,5.23,1996
+234,AUS,Australia,4.89,2000
+235,AUS,Australia,4.90,2005
+236,AUS,Australia,5.13,1995
+237,AUS,Australia,4.74,2006
+238,AUS,Australia,4.63,2008
+239,AUS,Australia,5.08,2009
+240,AUS,Australia,4.66,2007
+241,AUS,Australia,5.54,2010
+242,AUS,Australia,4.87,2012
+243,AUS,Australia,5.23,2013
+244,AUS,Australia,5.07,2011
+245,AUS,Australia,5.16,2014
+246,AUS,Australia,5.32,2015
+247,AUS,Australia,5.14,2017
+248,AUS,Australia,5.12,2018
+249,AUS,Australia,5.14,2019
+250,AUS,Australia,5.29,2016
+251,AUS,Australia,6.10,2020
+252,AUT,Austria,2.90,1960
+253,AUT,Austria,4.15,1970
+254,AUT,Austria,4.28,1971
+255,AUT,Austria,4.45,1972
+256,AUT,Austria,2.50,1937
+257,AUT,Austria,4.52,1973
+258,AUT,Austria,5.13,1975
+259,AUT,Austria,5.24,1976
+260,AUT,Austria,4.95,1977
+261,AUT,Austria,5.16,1978
+262,AUT,Austria,4.66,1974
+263,AUT,Austria,5.04,1979
+264,AUT,Austria,5.01,1980
+265,AUT,Austria,5.36,1982
+266,AUT,Austria,5.30,1983
+267,AUT,Austria,5.37,1981
+268,AUT,Austria,5.29,1984
+269,AUT,Austria,5.30,1985
+270,AUT,Austria,5.38,1987
+271,AUT,Austria,5.19,1988
+272,AUT,Austria,5.02,1989
+273,AUT,Austria,5.50,1986
+274,AUT,Austria,4.96,1990
+275,AUT,Austria,5.10,1991
+276,AUT,Austria,5.25,1993
+277,AUT,Austria,5.43,1995
+278,AUT,Austria,5.26,1996
+279,AUT,Austria,5.30,1992
+280,AUT,Austria,6.10,1998
+281,AUT,Austria,6.11,1999
+282,AUT,Austria,5.58,2001
+283,AUT,Austria,5.52,2002
+284,AUT,Austria,5.59,2000
+285,AUT,Austria,5.36,2003
+286,AUT,Austria,5.30,2004
+287,AUT,Austria,5.23,2006
+288,AUT,Austria,5.15,2007
+289,AUT,Austria,5.26,2008
+290,AUT,Austria,5.73,2009
+291,AUT,Austria,5.59,2011
+292,AUT,Austria,5.48,2012
+293,AUT,Austria,5.55,2013
+294,AUT,Austria,5.45,2014
+295,AUT,Austria,5.46,2015
+296,AUT,Austria,5.48,2016
+297,AUT,Austria,5.22,2018
+298,AUT,Austria,5.21,2019
+299,AUT,Austria,5.07,2020
+300,AZE,Azerbaijan,6.06,1992
+301,AZE,Azerbaijan,3.51,1996
+302,AZE,Azerbaijan,4.21,1999
+303,AZE,Azerbaijan,3.85,2000
+304,AZE,Azerbaijan,3.15,2002
+305,AZE,Azerbaijan,3.29,2003
+306,AZE,Azerbaijan,3.45,2004
+307,AZE,Azerbaijan,2.56,2006
+308,AZE,Azerbaijan,2.55,2007
+309,AZE,Azerbaijan,2.44,2008
+310,AZE,Azerbaijan,2.78,2010
+311,AZE,Azerbaijan,2.44,2011
+312,AZE,Azerbaijan,2.07,2012
+313,AZE,Azerbaijan,2.44,2013
+314,AZE,Azerbaijan,2.95,2015
+315,AZE,Azerbaijan,2.90,2016
+316,AZE,Azerbaijan,2.47,2017
+317,AZE,Azerbaijan,2.68,2019
+318,AZE,Azerbaijan,4.33,2020
+319,BHS,Bahamas,2.23,2000
+320,BHS,Bahamas,2.29,2005
+321,BHS,Bahamas,2.89,2008
+322,BHS,Bahamas,2.92,2009
+323,BHS,Bahamas,2.66,2011
+324,BHS,Bahamas,2.61,2012
+325,BHS,Bahamas,2.72,2013
+326,BHS,Bahamas,2.50,2014
+327,BHS,Bahamas,2.33,2016
+328,BHS,Bahamas,2.42,2017
+329,BHS,Bahamas,2.25,2018
+330,BHS,Bahamas,2.37,2020
+331,BHS,Bahamas,2.78,2021
+332,BHR,Bahrain,3.33,2005
+333,BHR,Bahrain,2.87,2006
+334,BHR,Bahrain,2.58,2007
+335,BHR,Bahrain,3.34,2009
+336,BHR,Bahrain,3.19,2010
+337,BHR,Bahrain,3.03,2011
+338,BHR,Bahrain,2.48,2013
+339,BHR,Bahrain,2.47,2014
+340,BHR,Bahrain,2.87,2016
+341,BHR,Bahrain,2.32,2017
+342,BHR,Bahrain,2.37,2018
+343,BHR,Bahrain,2.09,2019
+344,BGD,Bangladesh,1.13,1979
+345,BGD,Bangladesh,1.07,1981
+346,BGD,Bangladesh,1.01,1982
+347,BGD,Bangladesh,1.22,1984
+348,BGD,Bangladesh,1.34,1986
+349,BGD,Bangladesh,1.51,1987
+350,BGD,Bangladesh,1.43,1991
+351,BGD,Bangladesh,1.69,1993
+352,BGD,Bangladesh,1.95,1997
+353,BGD,Bangladesh,2.13,2000
+354,BGD,Bangladesh,2.17,2001
+355,BGD,Bangladesh,1.94,2004
+356,BGD,Bangladesh,2.20,2007
+357,BGD,Bangladesh,1.94,2009
+358,BGD,Bangladesh,2.05,2012
+359,BGD,Bangladesh,1.97,2013
+360,BGD,Bangladesh,2.22,2016
+361,BGD,Bangladesh,2.22,2017
+362,BGD,Bangladesh,1.97,2019
+363,BGD,Bangladesh,2.12,2021
+364,BRB,Barbados,5.94,1976
+365,BRB,Barbados,6.64,1991
+366,BRB,Barbados,4.72,2000
+367,BRB,Barbados,5.88,2002
+368,BRB,Barbados,6.25,2003
+369,BRB,Barbados,5.67,2005
+370,BRB,Barbados,5.22,2007
+371,BRB,Barbados,5.12,2009
+372,BRB,Barbados,6.05,2010
+373,BRB,Barbados,5.15,2013
+374,BRB,Barbados,6.14,2014
+375,BRB,Barbados,4.71,2016
+376,BRB,Barbados,5.43,2018
+377,BRB,Barbados,3.20,2019
+378,BRB,Barbados,6.45,2021
+379,BLR,Belarus,6.20,2000
+380,BLR,Belarus,5.71,2004
+381,BLR,Belarus,6.08,2006
+382,BLR,Belarus,5.15,2007
+383,BLR,Belarus,5.22,2010
+384,BLR,Belarus,4.96,2012
+385,BLR,Belarus,4.82,2014
+386,BLR,Belarus,4.79,2015
+387,BLR,Belarus,4.79,2017
+388,BLR,Belarus,4.98,2019
+389,BLR,Belarus,4.95,2020
+390,BEL,Belgium,1.20,1913
+391,BEL,Belgium,5.76,1975
+392,BEL,Belgium,5.99,1977
+393,BEL,Belgium,5.44,1978
+394,BEL,Belgium,5.31,1980
+395,BEL,Belgium,5.32,1982
+396,BEL,Belgium,4.85,1986
+397,BEL,Belgium,4.30,1988
+398,BEL,Belgium,5.41,1994
+399,BEL,Belgium,3.05,1996
+400,BEL,Belgium,6.33,2008
+401,BEL,Belgium,6.46,2009
+402,BEL,Belgium,6.43,2011
+403,BEL,Belgium,6.26,2012
+404,BEL,Belgium,6.59,2014
+405,BEL,Belgium,6.46,2016
+406,BEL,Belgium,6.43,2017
+407,BEL,Belgium,6.34,2019
+408,BLZ,Belize,5.44,1999
+409,BLZ,Belize,5.80,2001
+410,BLZ,Belize,5.25,2003
+411,BLZ,Belize,5.77,2008
+412,BLZ,Belize,6.18,2009
+413,BLZ,Belize,6.43,2013
+414,BLZ,Belize,6.61,2014
+415,BLZ,Belize,7.29,2016
+416,BLZ,Belize,7.47,2018
+417,BLZ,Belize,7.53,2020
+418,BLZ,Belize,8.71,2021
+419,BEN,Benin,1.92,1999
+420,BEN,Benin,2.37,2001
+421,BEN,Benin,2.16,2002
+422,BEN,Benin,2.57,2004
+423,BEN,Benin,2.56,2006
+424,BEN,Benin,2.36,2007
+425,BEN,Benin,3.09,2009
+426,BEN,Benin,4.40,2011
+427,BEN,Benin,3.56,2012
+428,BEN,Benin,3.16,2014
+429,BEN,Benin,2.90,2016
+430,BEN,Benin,3.54,2017
+431,BEN,Benin,2.97,2019
+432,BMU,Bermuda,4.11,1973
+433,BMU,Bermuda,3.03,1985
+434,BMU,Bermuda,3.14,1990
+435,AUT,Austria,5.25,2005
+436,AUT,Austria,5.70,2010
+437,AUT,Austria,5.37,2017
+438,AZE,Azerbaijan,3.34,1995
+439,AZE,Azerbaijan,3.38,1998
+440,AZE,Azerbaijan,3.50,2001
+441,AZE,Azerbaijan,2.97,2005
+442,AZE,Azerbaijan,3.22,2009
+443,AZE,Azerbaijan,2.63,2014
+444,AZE,Azerbaijan,2.46,2018
+445,BHS,Bahamas,2.73,2007
+446,BHS,Bahamas,2.78,2010
+447,BHS,Bahamas,2.25,2015
+448,BHS,Bahamas,2.29,2019
+449,BHR,Bahrain,2.50,2008
+450,BHR,Bahrain,2.65,2012
+451,BHR,Bahrain,2.67,2015
+452,BHR,Bahrain,2.15,2020
+453,BGD,Bangladesh,0.94,1980
+454,BGD,Bangladesh,1.03,1983
+455,BGD,Bangladesh,1.27,1985
+456,BGD,Bangladesh,1.52,1990
+457,BGD,Bangladesh,1.63,1992
+458,BGD,Bangladesh,2.13,1999
+459,BGD,Bangladesh,2.02,2002
+460,BGD,Bangladesh,2.07,2003
+461,BGD,Bangladesh,2.13,2006
+462,BGD,Bangladesh,2.05,2008
+463,BGD,Bangladesh,2.13,2011
+464,BGD,Bangladesh,2.10,2014
+465,BGD,Bangladesh,1.87,2015
+466,BGD,Bangladesh,1.95,2018
+467,BGD,Bangladesh,2.05,2020
+468,BRB,Barbados,6.52,1977
+469,BRB,Barbados,4.34,1999
+470,BRB,Barbados,6.06,2001
+471,BRB,Barbados,6.02,2004
+472,BRB,Barbados,4.92,2008
+473,BRB,Barbados,5.26,2012
+474,BRB,Barbados,5.38,2015
+475,BRB,Barbados,4.37,2017
+476,BRB,Barbados,3.06,2020
+477,BLR,Belarus,6.00,1999
+478,BLR,Belarus,5.87,2005
+479,BLR,Belarus,4.37,2009
+480,BLR,Belarus,4.68,2011
+481,BLR,Belarus,5.01,2013
+482,BLR,Belarus,4.95,2016
+483,BLR,Belarus,5.38,2018
+484,BLR,Belarus,4.71,2021
+485,BEL,Belgium,4.60,1960
+486,BEL,Belgium,5.73,1976
+487,BEL,Belgium,5.38,1979
+488,BEL,Belgium,5.44,1981
+489,BEL,Belgium,4.58,1987
+490,BEL,Belgium,5.37,1993
+491,BEL,Belgium,2.99,1995
+492,BEL,Belgium,5.80,2005
+493,BEL,Belgium,6.44,2010
+494,BEL,Belgium,6.63,2013
+495,BEL,Belgium,6.45,2015
+496,BEL,Belgium,6.38,2018
+497,BEL,Belgium,6.71,2020
+498,BLZ,Belize,5.03,2000
+499,BLZ,Belize,5.34,2004
+500,BLZ,Belize,6.72,2010
+501,BLZ,Belize,6.87,2015
+502,BLZ,Belize,7.45,2017
+503,BLZ,Belize,7.14,2019
+504,BEN,Benin,2.75,1998
+505,BEN,Benin,2.11,2000
+506,BEN,Benin,2.28,2003
+507,BEN,Benin,2.66,2005
+508,BEN,Benin,2.78,2008
+509,BEN,Benin,3.68,2010
+510,BEN,Benin,3.33,2013
+511,BEN,Benin,3.17,2015
+512,BEN,Benin,2.93,2018
+513,BEN,Benin,3.00,2020
+514,BMU,Bermuda,3.43,1975
+515,BMU,Bermuda,3.15,1991
+516,BMU,Bermuda,3.48,1992
+517,BMU,Bermuda,1.67,2003
+518,BMU,Bermuda,2.15,1998
+519,BMU,Bermuda,1.78,2004
+520,BMU,Bermuda,2.29,2009
+521,BMU,Bermuda,1.99,2005
+522,BMU,Bermuda,2.31,2010
+523,BMU,Bermuda,1.50,2015
+524,BMU,Bermuda,1.54,2014
+525,BMU,Bermuda,1.92,2016
+526,BMU,Bermuda,1.32,2017
+527,BMU,Bermuda,1.94,2018
+528,BMU,Bermuda,1.87,2020
+529,BMU,Bermuda,1.93,2019
+530,BMU,Bermuda,1.90,2021
+531,BTN,Bhutan,5.79,2000
+532,BTN,Bhutan,5.92,2001
+533,BTN,Bhutan,6.61,2004
+534,BTN,Bhutan,7.29,2005
+535,BTN,Bhutan,4.91,2008
+536,BTN,Bhutan,4.74,2009
+537,BTN,Bhutan,4.12,2010
+538,BTN,Bhutan,4.77,2011
+539,BTN,Bhutan,7.77,2012
+540,BTN,Bhutan,5.72,2013
+541,BTN,Bhutan,6.04,2014
+542,BTN,Bhutan,6.27,2015
+543,BTN,Bhutan,6.99,2016
+544,BTN,Bhutan,7.40,2017
+545,BTN,Bhutan,6.80,2018
+546,BTN,Bhutan,5.90,2020
+547,BTN,Bhutan,5.68,2019
+548,BTN,Bhutan,7.00,2021
+549,BOL,Bolivia,7.07,2011
+550,BOL,Bolivia,7.81,2010
+551,BOL,Bolivia,7.90,2012
+552,BOL,Bolivia,8.26,2014
+553,BOL,Bolivia,7.58,2013
+554,BOL,Bolivia,8.94,2015
+555,BOL,Bolivia,8.85,2016
+556,BOL,Bolivia,8.66,2017
+557,BOL,Bolivia,8.90,2018
+558,BOL,Bolivia,7.67,2019
+559,BOL,Bolivia,9.84,2020
+560,BWA,Botswana,3.91,1972
+561,BWA,Botswana,4.39,1971
+562,BWA,Botswana,3.26,1973
+563,BWA,Botswana,3.67,1974
+564,BWA,Botswana,5.65,1975
+565,BWA,Botswana,6.06,1976
+566,BWA,Botswana,5.40,1977
+567,BWA,Botswana,5.95,1978
+568,BWA,Botswana,6.14,1979
+569,BWA,Botswana,5.47,1980
+570,BWA,Botswana,5.55,1983
+571,BWA,Botswana,5.55,1984
+572,BWA,Botswana,5.19,1986
+573,BWA,Botswana,5.65,1985
+574,BWA,Botswana,6.12,1987
+575,BWA,Botswana,5.74,1990
+576,BWA,Botswana,6.15,1988
+577,BWA,Botswana,6.84,1992
+578,BWA,Botswana,10.68,2005
+579,BWA,Botswana,8.85,2007
+580,BWA,Botswana,7.81,2015
+581,BWA,Botswana,9.63,2009
+582,BWA,Botswana,7.97,2016
+583,BWA,Botswana,7.30,2017
+584,BWA,Botswana,6.72,2018
+585,BWA,Botswana,8.74,2020
+586,BRA,Brazil,4.76,1998
+587,BRA,Brazil,3.80,1999
+588,BRA,Brazil,3.84,2001
+589,BRA,Brazil,3.97,2004
+590,BRA,Brazil,4.87,2006
+591,BRA,Brazil,4.97,2007
+592,BRA,Brazil,5.46,2009
+593,BRA,Brazil,5.86,2012
+594,BRA,Brazil,5.95,2014
+595,BRA,Brazil,6.31,2016
+596,BRA,Brazil,6.09,2018
+597,VGB,British Virgin Islands,10.57,1970
+598,VGB,British Virgin Islands,7.24,1973
+599,VGB,British Virgin Islands,3.05,2005
+600,VGB,British Virgin Islands,3.04,2007
+601,VGB,British Virgin Islands,3.50,2010
+602,VGB,British Virgin Islands,4.47,2013
+603,VGB,British Virgin Islands,4.02,2014
+604,VGB,British Virgin Islands,3.80,2016
+605,VGB,British Virgin Islands,2.46,2017
+606,VGB,British Virgin Islands,2.63,2019
+607,VGB,British Virgin Islands,2.59,2020
+608,BRN,Brunei,5.00,1971
+609,BRN,Brunei,4.04,1972
+610,BRN,Brunei,3.39,1974
+611,BRN,Brunei,1.96,1975
+612,BRN,Brunei,2.11,1978
+613,BRN,Brunei,1.19,1980
+614,BRN,Brunei,1.62,1981
+615,BRN,Brunei,4.74,1987
+616,BRN,Brunei,4.69,1989
+617,BRN,Brunei,3.96,1990
+618,BRN,Brunei,3.75,1992
+619,BRN,Brunei,5.25,1998
+620,BRN,Brunei,4.93,1999
+621,BRN,Brunei,2.05,2010
+622,BRN,Brunei,3.32,2011
+623,BRN,Brunei,3.35,2014
+624,BGR,Bulgaria,3.53,1980
+625,BGR,Bulgaria,4.45,1990
+626,BGR,Bulgaria,5.26,1992
+627,BGR,Bulgaria,4.95,1993
+628,BGR,Bulgaria,2.37,1995
+629,BGR,Bulgaria,2.74,1998
+630,BGR,Bulgaria,3.39,2002
+631,BGR,Bulgaria,2.32,2004
+632,BGR,Bulgaria,3.90,2006
+633,BGR,Bulgaria,4.22,2008
+634,BGR,Bulgaria,3.86,2010
+635,BGR,Bulgaria,3.48,2012
+636,BGR,Bulgaria,4.08,2014
+637,BGR,Bulgaria,3.40,2016
+638,BGR,Bulgaria,4.05,2018
+639,BGR,Bulgaria,4.04,2020
+640,BFA,Burkina Faso,1.96,1980
+641,BFA,Burkina Faso,1.75,1983
+642,BFA,Burkina Faso,1.76,1985
+643,BFA,Burkina Faso,1.43,1988
+644,BFA,Burkina Faso,3.45,1994
+645,BFA,Burkina Faso,1.44,1996
+646,BFA,Burkina Faso,3.94,2005
+647,BFA,Burkina Faso,4.08,2007
+648,BFA,Burkina Faso,3.50,2010
+649,BFA,Burkina Faso,4.08,2013
+650,BFA,Burkina Faso,4.05,2014
+651,BFA,Burkina Faso,5.63,2017
+652,BFA,Burkina Faso,5.70,2019
+653,BDI,Burundi,2.80,1979
+654,BDI,Burundi,3.36,1990
+655,BDI,Burundi,3.81,1992
+656,BDI,Burundi,4.57,1994
+657,BDI,Burundi,4.08,1996
+658,BDI,Burundi,2.65,2000
+659,BDI,Burundi,2.90,2001
+660,BDI,Burundi,3.74,2004
+661,BDI,Burundi,5.19,2008
+662,BDI,Burundi,6.17,2009
+663,BDI,Burundi,6.32,2011
+664,BDI,Burundi,6.00,2013
+665,BDI,Burundi,4.69,2016
+666,BDI,Burundi,4.76,2017
+667,BDI,Burundi,5.35,2019
+668,KHM,Cambodia,1.26,1998
+669,KHM,Cambodia,1.72,2001
+670,KHM,Cambodia,1.72,2004
+671,KHM,Cambodia,1.67,2009
+672,KHM,Cambodia,1.51,2011
+673,KHM,Cambodia,1.65,2013
+674,KHM,Cambodia,1.93,2015
+675,KHM,Cambodia,2.32,2017
+676,KHM,Cambodia,2.90,2019
+677,CMR,Cameroon,3.08,1971
+678,CMR,Cameroon,2.98,1982
+679,CMR,Cameroon,3.25,1984
+680,CMR,Cameroon,2.93,1987
+681,CMR,Cameroon,2.65,1989
+682,CMR,Cameroon,3.22,1991
+683,CMR,Cameroon,1.70,2000
+684,CMR,Cameroon,2.82,2003
+685,CMR,Cameroon,2.66,2005
+686,CMR,Cameroon,2.54,2006
+687,CMR,Cameroon,2.50,2008
+688,CMR,Cameroon,2.85,2010
+689,CMR,Cameroon,2.60,2012
+690,CMR,Cameroon,2.58,2014
+691,CMR,Cameroon,2.66,2015
+692,CMR,Cameroon,3.03,2018
+693,CMR,Cameroon,3.08,2019
+694,CAN,Canada,7.71,1971
+695,CAN,Canada,7.04,1973
+696,CAN,Canada,6.44,1975
+697,CAN,Canada,6.73,1977
+698,CAN,Canada,6.71,1979
+699,CAN,Canada,6.43,1981
+700,CAN,Canada,6.88,1983
+701,CAN,Canada,6.21,1985
+702,CAN,Canada,6.32,1987
+703,CAN,Canada,6.10,1989
+704,CAN,Canada,6.88,1991
+705,CAN,Canada,6.77,1992
+706,CAN,Canada,6.68,1994
+707,CAN,Canada,5.49,1998
+708,CAN,Canada,5.42,2000
+709,CAN,Canada,4.77,2005
+710,CAN,Canada,4.63,2008
+711,CAN,Canada,5.36,2010
+712,CAN,Canada,4.69,2012
+713,CAN,Canada,4.84,2014
+714,CAN,Canada,4.82,2016
+715,CAN,Canada,4.89,2018
+716,CAN,Canada,5.17,2020
+717,CPV,Cape Verde,6.80,1999
+718,CPV,Cape Verde,7.48,2004
+719,CPV,Cape Verde,5.52,2008
+720,CPV,Cape Verde,5.57,2010
+721,CPV,Cape Verde,5.07,2012
+722,CPV,Cape Verde,4.96,2014
+723,CPV,Cape Verde,5.27,2015
+724,CPV,Cape Verde,5.18,2017
+725,CPV,Cape Verde,4.73,2019
+726,BWA,Botswana,6.91,2019
+727,BRA,Brazil,4.57,1995
+728,BRA,Brazil,3.95,2000
+729,BRA,Brazil,3.75,2002
+730,BRA,Brazil,4.48,2005
+731,BRA,Brazil,5.27,2008
+732,BRA,Brazil,5.65,2010
+733,BRA,Brazil,5.74,2011
+734,BRA,Brazil,5.84,2013
+735,BRA,Brazil,6.24,2015
+736,BRA,Brazil,6.32,2017
+737,BRA,Brazil,5.96,2019
+738,VGB,British Virgin Islands,8.94,1971
+739,VGB,British Virgin Islands,2.90,2001
+740,VGB,British Virgin Islands,3.51,2006
+741,VGB,British Virgin Islands,3.24,2009
+742,VGB,British Virgin Islands,3.57,2012
+743,VGB,British Virgin Islands,4.71,2015
+744,VGB,British Virgin Islands,2.43,2018
+745,BRN,Brunei,6.24,1970
+746,BRN,Brunei,8.79,1973
+747,BRN,Brunei,1.97,1976
+748,BRN,Brunei,1.55,1979
+749,BRN,Brunei,1.70,1982
+750,BRN,Brunei,5.41,1988
+751,BRN,Brunei,3.67,1991
+752,BRN,Brunei,4.29,1993
+753,BRN,Brunei,3.71,2000
+754,BRN,Brunei,2.89,2012
+755,BRN,Brunei,4.43,2016
+756,BGR,Bulgaria,5.43,1991
+757,BGR,Bulgaria,4.17,1994
+758,BGR,Bulgaria,2.23,1996
+759,BGR,Bulgaria,3.38,2001
+760,BGR,Bulgaria,4.00,2003
+761,BGR,Bulgaria,4.11,2005
+762,BGR,Bulgaria,3.68,2007
+763,BGR,Bulgaria,4.27,2009
+764,BGR,Bulgaria,3.55,2011
+765,BGR,Bulgaria,4.06,2013
+766,BGR,Bulgaria,3.92,2015
+767,BGR,Bulgaria,4.08,2017
+768,BGR,Bulgaria,4.20,2019
+769,BFA,Burkina Faso,1.68,1978
+770,BFA,Burkina Faso,3.98,2006
+771,BFA,Burkina Faso,3.99,2011
+772,BFA,Burkina Faso,3.60,2012
+773,BFA,Burkina Faso,3.67,2015
+774,BFA,Burkina Faso,5.49,2018
+775,BFA,Burkina Faso,5.52,2020
+776,BDI,Burundi,3.35,1981
+777,BDI,Burundi,3.49,1991
+778,BDI,Burundi,5.02,1995
+779,BDI,Burundi,3.42,1999
+780,BDI,Burundi,3.00,2002
+781,BDI,Burundi,3.63,2005
+782,BDI,Burundi,6.78,2010
+783,BDI,Burundi,6.17,2012
+784,BDI,Burundi,6.78,2014
+785,BDI,Burundi,6.37,2015
+786,BDI,Burundi,5.08,2018
+787,BDI,Burundi,5.04,2020
+788,KHM,Cambodia,1.67,2000
+789,KHM,Cambodia,1.71,2002
+790,KHM,Cambodia,1.60,2007
+791,KHM,Cambodia,1.53,2010
+792,KHM,Cambodia,1.62,2012
+793,KHM,Cambodia,1.67,2014
+794,KHM,Cambodia,2.06,2016
+795,KHM,Cambodia,2.58,2018
+796,KHM,Cambodia,3.13,2020
+797,CMR,Cameroon,3.36,1972
+798,CMR,Cameroon,3.50,1983
+799,CMR,Cameroon,2.85,1986
+800,CMR,Cameroon,2.71,1988
+801,CMR,Cameroon,3.29,1990
+802,CMR,Cameroon,2.75,1992
+803,CMR,Cameroon,2.30,2001
+804,CMR,Cameroon,2.80,2004
+805,CMR,Cameroon,2.88,2007
+806,CMR,Cameroon,2.91,2009
+807,CMR,Cameroon,2.65,2011
+808,CMR,Cameroon,2.66,2013
+809,CMR,Cameroon,2.56,2016
+810,CMR,Cameroon,3.06,2017
+811,CMR,Cameroon,3.17,2020
+812,CAN,Canada,4.60,1960
+813,CAN,Canada,7.62,1972
+814,CAN,Canada,6.69,1974
+815,CAN,Canada,6.72,1976
+816,CAN,Canada,7.10,1978
+817,CAN,Canada,6.48,1980
+818,CAN,Canada,6.52,1982
+819,CAN,Canada,6.64,1984
+820,CAN,Canada,6.04,1986
+821,CAN,Canada,6.18,1988
+822,CAN,Canada,5.99,1990
+823,CAN,Canada,7.70,1993
+824,CAN,Canada,6.32,1995
+825,CAN,Canada,5.53,1999
+826,CAN,Canada,4.95,2001
+827,CAN,Canada,4.99,2002
+828,CAN,Canada,4.77,2007
+829,CAN,Canada,4.84,2009
+830,CAN,Canada,5.26,2011
+831,CAN,Canada,4.59,2013
+832,CAN,Canada,4.74,2015
+833,CAN,Canada,4.96,2017
+834,CAN,Canada,4.77,2019
+835,CPV,Cape Verde,6.39,1998
+836,CPV,Cape Verde,7.88,2002
+837,CPV,Cape Verde,6.53,2006
+838,CPV,Cape Verde,5.41,2007
+839,CPV,Cape Verde,5.31,2009
+840,CPV,Cape Verde,5.04,2011
+841,CPV,Cape Verde,5.00,2013
+842,CPV,Cape Verde,5.29,2016
+843,CPV,Cape Verde,5.37,2018
+844,CPV,Cape Verde,7.58,2020
+845,CYM,Cayman Islands,2.17,2018
+846,CYM,Cayman Islands,2.06,2019
+847,CAF,Central African Republic,3.17,1978
+848,CAF,Central African Republic,2.55,1987
+849,CAF,Central African Republic,2.21,1986
+850,CAF,Central African Republic,2.24,1990
+851,CAF,Central African Republic,2.28,1991
+852,CAF,Central African Republic,1.69,1999
+853,CAF,Central African Republic,1.61,2000
+854,CAF,Central African Republic,1.52,2002
+855,CAF,Central African Republic,1.54,2003
+856,CAF,Central African Republic,1.62,2004
+857,CAF,Central African Republic,1.65,2005
+858,CAF,Central African Republic,1.31,2007
+859,CAF,Central African Republic,1.42,2006
+860,CAF,Central African Republic,1.29,2008
+861,CAF,Central African Republic,1.25,2009
+862,CAF,Central African Republic,1.11,2011
+863,CAF,Central African Republic,2.22,2014
+864,CAF,Central African Republic,1.91,2015
+865,CAF,Central African Republic,1.75,2017
+866,CAF,Central African Republic,1.77,2019
+867,,Central Europe and the Baltics (WB),4.64,1995
+868,,Central Europe and the Baltics (WB),4.94,1998
+869,,Central Europe and the Baltics (WB),4.87,2000
+870,,Central Europe and the Baltics (WB),5.08,2001
+871,,Central Europe and the Baltics (WB),5.06,2003
+872,,Central Europe and the Baltics (WB),4.83,2004
+873,,Central Europe and the Baltics (WB),4.68,2006
+874,,Central Europe and the Baltics (WB),4.84,2008
+875,,Central Europe and the Baltics (WB),4.72,2010
+876,,Central Europe and the Baltics (WB),4.72,2012
+877,,Central Europe and the Baltics (WB),4.81,2015
+878,,Central Europe and the Baltics (WB),4.08,2017
+879,,Central Europe and the Baltics (WB),4.29,2019
+880,TCD,Chad,2.27,1997
+881,TCD,Chad,3.23,1999
+882,TCD,Chad,2.43,2001
+883,TCD,Chad,1.59,2004
+884,TCD,Chad,2.31,2009
+885,TCD,Chad,2.26,2011
+886,TCD,Chad,2.85,2013
+887,TCD,Chad,2.40,2015
+888,TCD,Chad,2.45,2017
+889,TCD,Chad,2.37,2019
+890,TCD,Chad,2.89,2021
+891,CHL,Chile,3.59,1975
+892,CHL,Chile,4.22,1980
+893,CHL,Chile,2.82,1987
+894,CHL,Chile,2.38,1993
+895,CHL,Chile,2.56,1995
+896,CHL,Chile,3.34,1998
+897,CHL,Chile,3.78,2000
+898,CHL,Chile,3.96,2003
+899,CHL,Chile,3.26,2005
+900,CHL,Chile,3.21,2007
+901,CHL,Chile,4.23,2009
+902,CHL,Chile,4.05,2011
+903,CHL,Chile,4.53,2013
+904,CHL,Chile,4.88,2015
+905,CHL,Chile,5.42,2017
+906,CHL,Chile,5.43,2018
+907,CHN,China,1.39,1971
+908,CHN,China,1.65,1973
+909,CHN,China,1.71,1975
+910,CHN,China,1.75,1977
+911,CHN,China,2.15,1979
+912,CHN,China,2.03,1982
+913,CHN,China,2.00,1984
+914,CHN,China,2.06,1986
+915,CHN,China,1.76,1988
+916,CHN,China,1.66,1993
+917,CHN,China,1.84,1995
+918,CHN,China,1.84,1998
+919,CHN,China,2.44,2006
+920,CHN,China,3.63,2008
+921,CHN,China,3.75,2010
+922,CHN,China,4.08,2012
+923,CHN,China,3.82,2015
+924,CHN,China,3.54,2018
+925,CHN,China,3.57,2020
+926,COL,Colombia,2.60,1981
+927,COL,Colombia,2.72,1985
+928,COL,Colombia,3.93,1998
+929,COL,Colombia,3.51,2000
+930,COL,Colombia,4.27,2002
+931,COL,Colombia,4.08,2004
+932,COL,Colombia,3.92,2006
+933,COL,Colombia,3.94,2008
+934,COL,Colombia,4.83,2010
+935,COL,Colombia,4.88,2013
+936,COL,Colombia,4.47,2015
+937,COL,Colombia,4.48,2016
+938,COL,Colombia,4.45,2018
+939,COL,Colombia,4.93,2020
+940,COM,Comoros,2.26,2002
+941,COM,Comoros,4.42,2008
+942,COM,Comoros,2.75,2012
+943,COM,Comoros,2.74,2014
+944,COG,Congo,5.73,1970
+945,COG,Congo,5.24,1973
+946,COG,Congo,7.04,1979
+947,COG,Congo,6.37,1994
+948,COG,Congo,4.07,1998
+949,COG,Congo,2.84,2003
+950,COG,Congo,5.69,2010
+951,COG,Congo,2.74,2012
+952,COG,Congo,3.18,2014
+953,COG,Congo,5.24,2016
+954,COG,Congo,4.45,2017
+955,COG,Congo,3.58,2019
+956,CRI,Costa Rica,7.35,1980
+957,CRI,Costa Rica,4.96,1983
+958,CRI,Costa Rica,4.01,1988
+959,CRI,Costa Rica,4.08,1989
+960,CRI,Costa Rica,3.89,1996
+961,CRI,Costa Rica,4.83,2001
+962,CRI,Costa Rica,5.15,2002
+963,CRI,Costa Rica,4.89,2004
+964,CRI,Costa Rica,4.63,2007
+965,CRI,Costa Rica,6.01,2009
+966,CRI,Costa Rica,6.38,2011
+967,CRI,Costa Rica,6.68,2014
+968,CRI,Costa Rica,6.89,2016
+969,CRI,Costa Rica,7.07,2017
+970,CRI,Costa Rica,6.71,2020
+971,CIV,Cote d'Ivoire,7.53,1972
+972,CIV,Cote d'Ivoire,7.05,1973
+973,CIV,Cote d'Ivoire,5.69,1974
+974,CIV,Cote d'Ivoire,6.79,1975
+975,CIV,Cote d'Ivoire,6.75,1978
+976,CIV,Cote d'Ivoire,6.86,1980
+977,CIV,Cote d'Ivoire,6.78,1992
+978,CIV,Cote d'Ivoire,4.30,1995
+979,CIV,Cote d'Ivoire,2.62,1997
+980,CIV,Cote d'Ivoire,2.69,1999
+981,CIV,Cote d'Ivoire,2.44,2001
+982,CIV,Cote d'Ivoire,2.91,2004
+983,CIV,Cote d'Ivoire,2.82,2006
+984,CIV,Cote d'Ivoire,3.10,2008
+985,CIV,Cote d'Ivoire,3.25,2010
+986,CIV,Cote d'Ivoire,3.43,2012
+987,CIV,Cote d'Ivoire,3.49,2015
+988,CIV,Cote d'Ivoire,3.24,2018
+989,CIV,Cote d'Ivoire,3.44,2020
+990,HRV,Croatia,3.79,2004
+991,HRV,Croatia,4.25,2008
+992,HRV,Croatia,4.36,2009
+993,HRV,Croatia,4.20,2010
+994,HRV,Croatia,4.10,2011
+995,CAF,Central African Republic,1.12,2010
+996,CAF,Central African Republic,1.98,2012
+997,CAF,Central African Republic,2.64,2013
+998,CAF,Central African Republic,1.75,2016
+999,CAF,Central African Republic,1.57,2018
+1000,CAF,Central African Republic,2.17,2020
+1001,,Central Europe and the Baltics (WB),4.33,1996
+1002,,Central Europe and the Baltics (WB),4.58,1999
+1003,,Central Europe and the Baltics (WB),5.18,2002
+1004,,Central Europe and the Baltics (WB),4.81,2005
+1005,,Central Europe and the Baltics (WB),4.60,2007
+1006,,Central Europe and the Baltics (WB),4.94,2009
+1007,,Central Europe and the Baltics (WB),4.56,2011
+1008,,Central Europe and the Baltics (WB),4.50,2013
+1009,,Central Europe and the Baltics (WB),4.49,2014
+1010,,Central Europe and the Baltics (WB),4.63,2016
+1011,,Central Europe and the Baltics (WB),4.24,2018
+1012,,Central Europe and the Baltics (WB),5.14,2020
+1013,TCD,Chad,1.65,1998
+1014,TCD,Chad,2.65,2000
+1015,TCD,Chad,1.69,2005
+1016,TCD,Chad,1.98,2010
+1017,TCD,Chad,2.21,2012
+1018,TCD,Chad,2.60,2014
+1019,TCD,Chad,2.30,2016
+1020,TCD,Chad,2.26,2018
+1021,TCD,Chad,2.91,2020
+1022,CHL,Chile,3.75,1974
+1023,CHL,Chile,3.07,1978
+1024,CHL,Chile,3.48,1979
+1025,CHL,Chile,4.91,1981
+1026,CHL,Chile,2.25,1990
+1027,CHL,Chile,2.51,1994
+1028,CHL,Chile,2.80,1996
+1029,CHL,Chile,3.01,1997
+1030,CHL,Chile,3.73,1999
+1031,CHL,Chile,4.08,2002
+1032,CHL,Chile,3.54,2004
+1033,CHL,Chile,3.02,2006
+1034,CHL,Chile,3.79,2008
+1035,CHL,Chile,4.16,2010
+1036,CHL,Chile,4.54,2012
+1037,CHL,Chile,4.73,2014
+1038,CHL,Chile,5.34,2016
+1039,CHL,Chile,5.62,2019
+1040,CHN,China,1.60,1972
+1041,CHN,China,1.76,1974
+1042,CHN,China,1.82,1976
+1043,CHN,China,1.96,1978
+1044,CHN,China,1.91,1980
+1045,CHN,China,1.95,1981
+1046,CHN,China,2.08,1983
+1047,CHN,China,2.01,1985
+1048,CHN,China,1.80,1987
+1049,CHN,China,1.65,1992
+1050,CHN,China,1.99,1994
+1051,CHN,China,1.85,1996
+1052,CHN,China,1.89,1999
+1053,CHN,China,2.39,2005
+1054,CHN,China,2.70,2007
+1055,CHN,China,3.75,2009
+1056,CHN,China,3.52,2011
+1057,CHN,China,3.85,2013
+1058,CHN,China,3.73,2014
+1059,CHN,China,3.79,2016
+1060,CHN,China,3.67,2017
+1061,CHN,China,3.54,2019
+1062,COL,Colombia,1.75,1979
+1063,COL,Colombia,1.73,1980
+1064,COL,Colombia,3.00,1984
+1065,COL,Colombia,2.71,1989
+1066,COL,Colombia,4.44,1999
+1067,COL,Colombia,3.71,2001
+1068,COL,Colombia,4.33,2003
+1069,COL,Colombia,4.02,2005
+1070,COL,Colombia,4.08,2007
+1071,COL,Colombia,4.78,2009
+1072,COL,Colombia,4.47,2011
+1073,COL,Colombia,4.37,2012
+1074,COL,Colombia,4.63,2014
+1075,COL,Colombia,4.54,2017
+1076,COL,Colombia,4.51,2019
+1077,COM,Comoros,2.20,1998
+1078,COM,Comoros,2.83,2011
+1079,COM,Comoros,2.38,2013
+1080,COM,Comoros,2.55,2015
+1081,COG,Congo,5.55,1971
+1082,COG,Congo,7.74,1975
+1083,COG,Congo,8.41,1978
+1084,COG,Congo,6.36,1980
+1085,COG,Congo,4.91,1995
+1086,COG,Congo,3.21,2002
+1087,COG,Congo,2.29,2004
+1088,COG,Congo,1.68,2005
+1089,COG,Congo,5.01,2013
+1090,COG,Congo,3.28,2015
+1091,COG,Congo,3.00,2018
+1092,COG,Congo,4.45,2020
+1093,CRI,Costa Rica,4.89,1982
+1094,CRI,Costa Rica,4.42,1986
+1095,CRI,Costa Rica,3.35,1995
+1096,CRI,Costa Rica,5.39,1999
+1097,CRI,Costa Rica,4.67,2000
+1098,CRI,Costa Rica,5.13,2003
+1099,CRI,Costa Rica,4.62,2006
+1100,CRI,Costa Rica,4.89,2008
+1101,CRI,Costa Rica,6.57,2010
+1102,CRI,Costa Rica,6.58,2012
+1103,CRI,Costa Rica,6.69,2013
+1104,CRI,Costa Rica,6.87,2015
+1105,CRI,Costa Rica,6.77,2018
+1106,CRI,Costa Rica,6.80,2019
+1107,CIV,Cote d'Ivoire,5.87,1970
+1108,CIV,Cote d'Ivoire,6.46,1976
+1109,CIV,Cote d'Ivoire,8.23,1979
+1110,CIV,Cote d'Ivoire,6.50,1993
+1111,CIV,Cote d'Ivoire,4.79,1994
+1112,CIV,Cote d'Ivoire,2.72,1996
+1113,CIV,Cote d'Ivoire,2.43,1998
+1114,CIV,Cote d'Ivoire,2.40,2000
+1115,CIV,Cote d'Ivoire,2.81,2002
+1116,CIV,Cote d'Ivoire,2.86,2003
+1117,CIV,Cote d'Ivoire,2.92,2005
+1118,CIV,Cote d'Ivoire,3.02,2007
+1119,CIV,Cote d'Ivoire,3.17,2009
+1120,CIV,Cote d'Ivoire,2.87,2011
+1121,CIV,Cote d'Ivoire,3.46,2013
+1122,CIV,Cote d'Ivoire,3.31,2014
+1123,CIV,Cote d'Ivoire,3.97,2016
+1124,CIV,Cote d'Ivoire,3.80,2017
+1125,CIV,Cote d'Ivoire,3.72,2019
+1126,HRV,Croatia,3.78,2002
+1127,HRV,Croatia,3.83,2003
+1128,HRV,Croatia,3.94,2007
+1129,HRV,Croatia,4.78,2012
+1130,HRV,Croatia,4.50,2013
+1131,HRV,Croatia,4.94,2014
+1132,HRV,Croatia,4.93,2015
+1133,HRV,Croatia,4.72,2016
+1134,HRV,Croatia,3.85,2017
+1135,HRV,Croatia,3.91,2018
+1136,HRV,Croatia,3.92,2019
+1137,HRV,Croatia,5.54,2020
+1138,CUB,Cuba,8.37,1980
+1139,CUB,Cuba,7.14,1991
+1140,CUB,Cuba,7.07,1993
+1141,CUB,Cuba,5.62,1994
+1142,CUB,Cuba,6.21,1998
+1143,CUB,Cuba,6.76,1999
+1144,CUB,Cuba,8.36,2001
+1145,CUB,Cuba,7.70,2000
+1146,CUB,Cuba,9.94,2003
+1147,CUB,Cuba,9.57,2002
+1148,CUB,Cuba,10.27,2004
+1149,CUB,Cuba,10.56,2005
+1150,CUB,Cuba,9.06,2006
+1151,CUB,Cuba,11.87,2007
+1152,CUB,Cuba,13.12,2009
+1153,CUB,Cuba,14.06,2008
+1154,CUB,Cuba,12.84,2010
+1155,CUB,Cuba,0.00,2012
+1156,CUB,Cuba,0.00,2014
+1157,CUB,Cuba,0.00,2013
+1158,CUB,Cuba,0.00,2015
+1159,CUB,Cuba,0.00,2016
+1160,CUB,Cuba,0.00,2017
+1161,CUB,Cuba,0.00,2018
+1162,CUB,Cuba,0.00,2019
+1163,CUB,Cuba,0.00,2020
+1164,CUW,Curacao,6.08,2012
+1165,CUW,Curacao,4.93,2013
+1166,CUW,Curacao,7.11,2015
+1167,CUW,Curacao,6.99,2016
+1168,CUW,Curacao,6.58,2018
+1169,CUW,Curacao,7.43,2020
+1170,CUW,Curacao,6.40,2019
+1171,CYP,Cyprus,4.34,1975
+1172,CYP,Cyprus,3.82,1976
+1173,CYP,Cyprus,3.39,1977
+1174,CYP,Cyprus,3.31,1978
+1175,CYP,Cyprus,3.35,1979
+1176,CYP,Cyprus,3.43,1980
+1177,CYP,Cyprus,3.79,1981
+1178,CYP,Cyprus,3.73,1982
+1179,CYP,Cyprus,3.60,1984
+1180,CYP,Cyprus,3.59,1985
+1181,CYP,Cyprus,3.49,1986
+1182,CYP,Cyprus,3.45,1987
+1183,CYP,Cyprus,3.38,1988
+1184,CYP,Cyprus,3.38,1989
+1185,CYP,Cyprus,3.34,1990
+1186,CYP,Cyprus,3.78,1992
+1187,CYP,Cyprus,3.58,1991
+1188,CYP,Cyprus,4.10,1993
+1189,CYP,Cyprus,4.16,1994
+1190,CYP,Cyprus,3.74,1995
+1191,CYP,Cyprus,4.77,1999
+1192,CYP,Cyprus,4.99,2000
+1193,CYP,Cyprus,5.12,2001
+1194,CYP,Cyprus,5.58,2002
+1195,CYP,Cyprus,6.67,2003
+1196,CYP,Cyprus,6.12,2004
+1197,CYP,Cyprus,6.33,2006
+1198,CYP,Cyprus,6.29,2005
+1199,CYP,Cyprus,6.28,2007
+1200,CYP,Cyprus,6.72,2008
+1201,CYP,Cyprus,7.21,2009
+1202,CYP,Cyprus,6.54,2010
+1203,CYP,Cyprus,6.54,2011
+1204,CYP,Cyprus,5.91,2012
+1205,CYP,Cyprus,6.48,2013
+1206,CYP,Cyprus,6.33,2015
+1207,CYP,Cyprus,6.44,2014
+1208,CYP,Cyprus,6.15,2016
+1209,CYP,Cyprus,5.72,2017
+1210,CYP,Cyprus,5.15,2018
+1211,CYP,Cyprus,6.06,2020
+1212,CYP,Cyprus,5.25,2019
+1213,CZE,Czechia,3.75,1992
+1214,CZE,Czechia,4.16,1993
+1215,CZE,Czechia,4.65,1994
+1216,CZE,Czechia,4.52,1995
+1217,CZE,Czechia,4.24,1996
+1218,CZE,Czechia,3.58,1998
+1219,CZE,Czechia,3.67,1999
+1220,CZE,Czechia,3.73,2001
+1221,CZE,Czechia,3.64,2000
+1222,CZE,Czechia,3.96,2002
+1223,CZE,Czechia,4.12,2003
+1224,CZE,Czechia,3.99,2004
+1225,CZE,Czechia,3.87,2005
+1226,CZE,Czechia,4.20,2006
+1227,CZE,Czechia,3.85,2007
+1228,CZE,Czechia,3.73,2008
+1229,CZE,Czechia,4.15,2009
+1230,CZE,Czechia,4.03,2010
+1231,CZE,Czechia,4.24,2011
+1232,CZE,Czechia,4.22,2012
+1233,CZE,Czechia,3.97,2014
+1234,CZE,Czechia,4.05,2013
+1235,CZE,Czechia,5.75,2015
+1236,CZE,Czechia,5.55,2016
+1237,CZE,Czechia,3.81,2017
+1238,CZE,Czechia,4.54,2019
+1239,CZE,Czechia,4.27,2018
+1240,CZE,Czechia,5.08,2020
+1241,COD,Democratic Republic of Congo,2.27,1980
+1242,COD,Democratic Republic of Congo,2.54,1981
+1243,COD,Democratic Republic of Congo,2.80,1982
+1244,COD,Democratic Republic of Congo,1.30,1983
+1245,COD,Democratic Republic of Congo,0.70,1984
+1246,COD,Democratic Republic of Congo,0.83,1985
+1247,COD,Democratic Republic of Congo,0.72,1986
+1248,COD,Democratic Republic of Congo,0.81,1988
+1249,COD,Democratic Republic of Congo,0.86,1987
+1250,COD,Democratic Republic of Congo,1.52,2010
+1251,COD,Democratic Republic of Congo,2.06,2013
+1252,COD,Democratic Republic of Congo,1.95,2014
+1253,COD,Democratic Republic of Congo,2.17,2015
+1254,COD,Democratic Republic of Congo,2.12,2016
+1255,COD,Democratic Republic of Congo,1.45,2017
+1256,COD,Democratic Republic of Congo,2.45,2020
+1257,COD,Democratic Republic of Congo,2.70,2021
+1258,DNK,Denmark,5.96,1970
+1259,DNK,Denmark,6.48,1972
+1260,DNK,Denmark,6.39,1971
+1261,DNK,Denmark,6.58,1974
+1262,DNK,Denmark,6.27,1973
+1263,DNK,Denmark,6.71,1975
+1264,DNK,Denmark,5.67,1977
+1265,DNK,Denmark,5.75,1978
+1266,DNK,Denmark,5.91,1980
+1267,DNK,Denmark,5.59,1979
+1268,DNK,Denmark,5.84,1986
+1269,DNK,Denmark,6.08,1987
+1270,DNK,Denmark,6.34,1988
+1271,DNK,Denmark,5.84,1989
+1272,DNK,Denmark,5.60,1991
+1273,DNK,Denmark,7.77,1993
+1274,DNK,Denmark,7.47,1994
+1275,DNK,Denmark,7.47,1995
+1276,DNK,Denmark,7.88,1996
+1277,DNK,Denmark,8.11,1998
+1278,DNK,Denmark,7.93,1999
+1279,DNK,Denmark,8.08,2000
+1280,DNK,Denmark,8.22,2001
+1281,DNK,Denmark,8.21,2002
+1282,DNK,Denmark,8.12,2003
+1283,DNK,Denmark,8.21,2004
+1284,DNK,Denmark,8.09,2005
+1285,DNK,Denmark,7.73,2006
+1286,DNK,Denmark,7.62,2007
+1287,DNK,Denmark,7.48,2008
+1288,DNK,Denmark,8.45,2009
+1289,DNK,Denmark,8.56,2010
+1290,DNK,Denmark,8.48,2011
+1291,DNK,Denmark,7.24,2012
+1292,DNK,Denmark,8.49,2013
+1293,DNK,Denmark,7.63,2014
+1294,DNK,Denmark,7.01,2015
+1295,DNK,Denmark,7.48,2016
+1296,DNK,Denmark,6.79,2018
+1297,DNK,Denmark,7.75,2017
+1298,DNK,Denmark,6.89,2019
+1299,DNK,Denmark,6.38,2020
+1300,DJI,Djibouti,7.63,1999
+1301,DJI,Djibouti,9.66,2000
+1302,DJI,Djibouti,7.81,2001
+1303,DJI,Djibouti,8.45,2002
+1304,DJI,Djibouti,8.89,2003
+1305,DJI,Djibouti,9.26,2004
+1306,DJI,Djibouti,8.37,2005
+1307,DJI,Djibouti,8.28,2006
+1308,DJI,Djibouti,8.41,2007
+1309,DJI,Djibouti,4.49,2010
+1310,DJI,Djibouti,6.35,2012
+1311,DJI,Djibouti,4.65,2013
+1312,DJI,Djibouti,3.59,2015
+1313,DJI,Djibouti,4.38,2014
+1314,DJI,Djibouti,3.92,2016
+1315,DJI,Djibouti,3.75,2017
+1316,DJI,Djibouti,3.63,2018
+1317,DMA,Dominica,4.29,1989
+1318,DMA,Dominica,5.74,1998
+1319,DMA,Dominica,4.03,1999
+1320,DMA,Dominica,3.41,2015
+1321,DMA,Dominica,5.13,2016
+1322,DMA,Dominica,4.77,2017
+1323,DMA,Dominica,5.57,2018
+1324,DMA,Dominica,5.58,2019
+1325,DMA,Dominica,5.47,2021
+1326,DMA,Dominica,4.70,2020
+1327,DOM,Dominican Republic,2.64,1970
+1328,DOM,Dominican Republic,1.46,1983
+1329,DOM,Dominican Republic,1.33,1984
+1330,DOM,Dominican Republic,1.54,1982
+1331,DOM,Dominican Republic,1.21,1985
+1332,DOM,Dominican Republic,0.89,1994
+1333,DOM,Dominican Republic,0.77,1993
+1334,DOM,Dominican Republic,1.03,1995
+1335,DOM,Dominican Republic,1.23,1996
+1336,DOM,Dominican Republic,1.89,2000
+1337,DOM,Dominican Republic,1.97,2001
+1338,DOM,Dominican Republic,1.91,2002
+1339,DOM,Dominican Republic,1.84,2003
+1340,DOM,Dominican Republic,2.05,2007
+1341,DOM,Dominican Republic,1.90,2010
+1342,DOM,Dominican Republic,1.90,2011
+1343,DOM,Dominican Republic,2.50,2012
+1344,DOM,Dominican Republic,3.48,2013
+1345,DOM,Dominican Republic,3.96,2014
+1346,DOM,Dominican Republic,3.82,2015
+1347,DOM,Dominican Republic,3.85,2016
+1348,DOM,Dominican Republic,3.92,2017
+1349,DOM,Dominican Republic,3.93,2018
+1350,DOM,Dominican Republic,4.04,2019
+1351,DOM,Dominican Republic,4.62,2020
+1352,,EU (27),5.10,1991
+1353,,EU (27),5.13,1992
+1354,,EU (27),4.67,1994
+1355,,EU (27),4.95,1993
+1356,,EU (27),4.75,1996
+1357,,EU (27),4.69,1995
+1358,,EU (27),4.54,1998
+1359,,EU (27),4.58,1999
+1360,,EU (27),4.87,2000
+1361,,EU (27),5.08,2001
+1362,,EU (27),5.18,2002
+1363,,EU (27),5.09,2003
+1364,,EU (27),4.96,2004
+1365,,EU (27),4.87,2006
+1366,,EU (27),5.07,2005
+1367,,EU (27),4.67,2007
+1368,,EU (27),5.03,2008
+1369,,EU (27),5.52,2009
+1370,,EU (27),5.07,2011
+1371,,EU (27),5.30,2010
+1372,,EU (27),4.95,2012
+1373,,EU (27),4.97,2013
+1374,,EU (27),4.91,2015
+1375,,EU (27),4.94,2014
+1376,,EU (27),4.77,2016
+1377,,EU (27),4.61,2017
+1378,,EU (27),4.62,2018
+1379,,EU (27),4.63,2019
+1380,,EU (27),5.14,2020
+1381,,East Asia and the Pacific (WB),3.02,1980
+1382,,East Asia and the Pacific (WB),3.04,1995
+1383,,East Asia and the Pacific (WB),3.47,2001
+1384,,East Asia and the Pacific (WB),3.86,2002
+1385,,East Asia and the Pacific (WB),3.65,2004
+1386,,East Asia and the Pacific (WB),3.26,2005
+1387,,East Asia and the Pacific (WB),3.56,2006
+1388,,East Asia and the Pacific (WB),3.90,1982
+1389,,East Asia and the Pacific (WB),3.28,2007
+1390,,East Asia and the Pacific (WB),3.86,2009
+1391,,East Asia and the Pacific (WB),3.51,2008
+1392,,East Asia and the Pacific (WB),3.51,2010
+1393,,East Asia and the Pacific (WB),3.56,2011
+1394,,East Asia and the Pacific (WB),3.62,2012
+1395,,East Asia and the Pacific (WB),3.79,2013
+1396,,East Asia and the Pacific (WB),3.65,2014
+1397,,East Asia and the Pacific (WB),3.82,2015
+1398,,East Asia and the Pacific (WB),3.77,2016
+1399,,East Asia and the Pacific (WB),3.57,2017
+1400,,East Asia and the Pacific (WB),3.43,2018
+1401,,East Asia and the Pacific (WB),3.65,2020
+1402,TLS,East Timor,12.90,2009
+1403,TLS,East Timor,10.19,2011
+1404,TLS,East Timor,7.17,2012
+1405,TLS,East Timor,7.66,2014
+1406,TLS,East Timor,6.02,2016
+1407,TLS,East Timor,5.14,2017
+1408,TLS,East Timor,4.14,2019
+1409,ECU,Ecuador,2.00,1970
+1410,ECU,Ecuador,2.42,1977
+1411,ECU,Ecuador,5.23,1985
+1412,ECU,Ecuador,2.00,1995
+1413,ECU,Ecuador,1.55,1999
+1414,ECU,Ecuador,4.34,2009
+1415,ECU,Ecuador,4.51,2010
+1416,ECU,Ecuador,5.00,2013
+1417,ECU,Ecuador,5.00,2015
+1418,ECU,Ecuador,4.36,2016
+1419,ECU,Ecuador,4.62,2018
+1420,ECU,Ecuador,4.13,2020
+1421,EGY,Egypt,4.53,1971
+1422,EGY,Egypt,5.23,1974
+1423,EGY,Egypt,4.94,1976
+1424,EGY,Egypt,4.94,1978
+1425,EGY,Egypt,5.61,1982
+1426,EGY,Egypt,4.53,1988
+1427,EGY,Egypt,4.05,1992
+1428,EGY,Egypt,4.58,1994
+1429,EGY,Egypt,4.60,1995
+1430,EGY,Egypt,4.95,2003
+1431,EGY,Egypt,4.79,2005
+1432,EGY,Egypt,3.68,2007
+1433,EGY,Egypt,3.34,2011
+1434,EGY,Egypt,4.12,2013
+1435,EGY,Egypt,3.93,2015
+1436,EGY,Egypt,4.05,2016
+1437,EGY,Egypt,2.48,2020
+1438,SLV,El Salvador,2.55,1998
+1439,SLV,El Salvador,2.84,2000
+1440,SLV,El Salvador,3.13,2003
+1441,SLV,El Salvador,3.18,2005
+1442,SLV,El Salvador,3.61,2007
+1443,SLV,El Salvador,4.46,2008
+1444,SLV,El Salvador,4.05,2010
+1445,SLV,El Salvador,3.80,2013
+1446,SLV,El Salvador,3.82,2014
+1447,SLV,El Salvador,3.83,2016
+1448,SLV,El Salvador,3.61,2018
+1449,SLV,El Salvador,4.07,2020
+1450,ERI,Eritrea,1.64,1996
+1451,ERI,Eritrea,4.62,1998
+1452,ERI,Eritrea,5.26,1999
+1453,ERI,Eritrea,4.05,2001
+1454,ERI,Eritrea,3.52,2002
+1455,ERI,Eritrea,3.15,2004
+1456,ERI,Eritrea,2.13,2006
+1457,EST,Estonia,5.90,1995
+1458,EST,Estonia,6.05,1996
+1459,EST,Estonia,6.34,1997
+1460,EST,Estonia,6.24,1998
+1461,EST,Estonia,5.34,2000
+1462,EST,Estonia,5.23,2001
+1463,EST,Estonia,5.43,2002
+1464,EST,Estonia,4.88,2004
+1465,EST,Estonia,4.81,2005
+1466,EST,Estonia,5.48,2008
+1467,EST,Estonia,5.52,2010
+1468,EST,Estonia,4.72,2012
+1469,EST,Estonia,4.39,2014
+1470,EST,Estonia,5.16,2016
+1471,EST,Estonia,5.26,2018
+1472,EST,Estonia,6.58,2020
+1473,SWZ,Eswatini,3.94,1977
+1474,SWZ,Eswatini,6.36,1979
+1475,SWZ,Eswatini,5.30,1980
+1476,SWZ,Eswatini,6.75,1982
+1477,SWZ,Eswatini,5.80,1987
+1478,SWZ,Eswatini,5.66,1989
+1479,SWZ,Eswatini,5.14,1994
+1480,SWZ,Eswatini,4.94,1996
+1481,SWZ,Eswatini,4.84,2001
+1482,SWZ,Eswatini,5.82,2003
+1483,SWZ,Eswatini,5.40,2004
+1484,SWZ,Eswatini,6.62,2008
+1485,SWZ,Eswatini,6.12,2010
+1486,SWZ,Eswatini,5.59,2012
+1487,SWZ,Eswatini,7.07,2014
+1488,SWZ,Eswatini,5.41,2016
+1489,SWZ,Eswatini,6.14,2017
+1490,SWZ,Eswatini,5.65,2019
+1491,SWZ,Eswatini,5.00,2021
+1492,ETH,Ethiopia,2.11,1982
+1493,ETH,Ethiopia,2.11,1984
+1494,ETH,Ethiopia,2.14,1986
+1495,ETH,Ethiopia,2.77,1996
+1496,ETH,Ethiopia,3.98,2000
+1497,ETH,Ethiopia,3.70,2001
+1498,ETH,Ethiopia,5.49,2006
+1499,ETH,Ethiopia,5.41,2008
+1500,ETH,Ethiopia,4.50,2010
+1501,ETH,Ethiopia,5.57,2012
+1502,ETH,Ethiopia,4.60,2014
+1503,ETH,Ethiopia,5.06,2016
+1504,ETH,Ethiopia,5.07,2018
+1505,,Europe and Central Asia (WB),4.60,1995
+1506,,Europe and Central Asia (WB),4.45,1998
+1507,,Europe and Central Asia (WB),4.53,2001
+1508,,Europe and Central Asia (WB),4.81,2003
+1509,,Europe and Central Asia (WB),4.88,2005
+1510,,Europe and Central Asia (WB),4.63,2007
+1511,,Europe and Central Asia (WB),4.86,2008
+1512,,Europe and Central Asia (WB),5.04,2010
+1513,,Europe and Central Asia (WB),4.83,2012
+1514,,Europe and Central Asia (WB),4.88,2014
+1515,,Europe and Central Asia (WB),4.78,2016
+1516,,Europe and Central Asia (WB),4.68,2018
+1517,,Europe and Central Asia (WB),5.08,2020
+1518,FRO,Faroe Islands,8.22,2013
+1519,FRO,Faroe Islands,8.31,2014
+1520,FRO,Faroe Islands,7.58,2016
+1521,FRO,Faroe Islands,8.04,2017
+1522,FJI,Fiji,5.20,1979
+1523,FJI,Fiji,6.49,1983
+1524,FJI,Fiji,5.52,1998
+1525,FJI,Fiji,5.88,2000
+1526,FJI,Fiji,5.64,2001
+1527,FJI,Fiji,6.21,2004
+1528,FJI,Fiji,5.66,2006
+1529,FJI,Fiji,4.25,2008
+1530,FJI,Fiji,4.82,2010
+1531,FJI,Fiji,4.72,2012
+1532,FJI,Fiji,4.81,2015
+1533,FJI,Fiji,4.65,2017
+1534,FJI,Fiji,5.07,2019
+1535,FJI,Fiji,5.68,2020
+1536,FIN,Finland,5.33,1971
+1537,FIN,Finland,5.09,1973
+1538,FIN,Finland,5.03,1975
+1539,,East Asia and the Pacific (WB),3.45,2019
+1540,TLS,East Timor,8.67,2008
+1541,TLS,East Timor,11.11,2010
+1542,TLS,East Timor,5.68,2013
+1543,TLS,East Timor,6.30,2015
+1544,TLS,East Timor,4.82,2018
+1545,TLS,East Timor,4.15,2020
+1546,ECU,Ecuador,1.88,1971
+1547,ECU,Ecuador,4.20,1984
+1548,ECU,Ecuador,6.87,1986
+1549,ECU,Ecuador,2.20,1998
+1550,ECU,Ecuador,1.15,2000
+1551,ECU,Ecuador,4.73,2011
+1552,ECU,Ecuador,4.64,2012
+1553,ECU,Ecuador,5.26,2014
+1554,ECU,Ecuador,4.61,2017
+1555,ECU,Ecuador,4.23,2019
+1556,ECU,Ecuador,3.69,2021
+1557,EGY,Egypt,4.54,1972
+1558,EGY,Egypt,4.89,1975
+1559,EGY,Egypt,4.55,1977
+1560,EGY,Egypt,4.28,1980
+1561,EGY,Egypt,5.22,1983
+1562,EGY,Egypt,4.60,1989
+1563,EGY,Egypt,4.20,1993
+1564,EGY,Egypt,4.67,1996
+1565,EGY,Egypt,4.67,2004
+1566,EGY,Egypt,4.00,2006
+1567,EGY,Egypt,3.76,2008
+1568,EGY,Egypt,3.54,2010
+1569,EGY,Egypt,3.37,2012
+1570,EGY,Egypt,4.25,2014
+1571,EGY,Egypt,2.61,2019
+1572,SLV,El Salvador,0.90,1975
+1573,SLV,El Salvador,2.56,1999
+1574,SLV,El Salvador,3.24,2002
+1575,SLV,El Salvador,3.49,2006
+1576,SLV,El Salvador,4.66,2009
+1577,SLV,El Salvador,3.90,2011
+1578,SLV,El Salvador,3.71,2012
+1579,SLV,El Salvador,3.91,2015
+1580,SLV,El Salvador,3.73,2017
+1581,SLV,El Salvador,3.39,2019
+1582,GNQ,Equatorial Guinea,2.19,1998
+1583,EST,Estonia,6.65,1999
+1584,EST,Estonia,5.27,2003
+1585,EST,Estonia,4.62,2007
+1586,EST,Estonia,5.96,2009
+1587,EST,Estonia,5.01,2011
+1588,EST,Estonia,4.84,2013
+1589,EST,Estonia,5.14,2015
+1590,EST,Estonia,4.96,2017
+1591,EST,Estonia,5.30,2019
+1592,SWZ,Eswatini,3.71,1976
+1593,SWZ,Eswatini,5.80,1978
+1594,SWZ,Eswatini,6.58,1981
+1595,SWZ,Eswatini,5.51,1988
+1596,SWZ,Eswatini,5.48,1990
+1597,SWZ,Eswatini,5.65,1995
+1598,SWZ,Eswatini,5.09,1999
+1599,SWZ,Eswatini,5.51,2000
+1600,SWZ,Eswatini,4.44,2002
+1601,SWZ,Eswatini,6.48,2005
+1602,SWZ,Eswatini,6.55,2006
+1603,SWZ,Eswatini,6.47,2009
+1604,SWZ,Eswatini,6.86,2011
+1605,SWZ,Eswatini,5.08,2013
+1606,SWZ,Eswatini,5.36,2015
+1607,SWZ,Eswatini,5.68,2018
+1608,SWZ,Eswatini,5.34,2020
+1609,ETH,Ethiopia,2.30,1983
+1610,ETH,Ethiopia,2.34,1985
+1611,ETH,Ethiopia,2.35,1993
+1612,ETH,Ethiopia,2.76,1997
+1613,ETH,Ethiopia,3.63,2002
+1614,ETH,Ethiopia,5.45,2007
+1615,ETH,Ethiopia,4.42,2009
+1616,ETH,Ethiopia,5.49,2011
+1617,ETH,Ethiopia,4.50,2013
+1618,ETH,Ethiopia,4.74,2015
+1619,ETH,Ethiopia,5.65,2017
+1620,ETH,Ethiopia,4.48,2019
+1621,,Europe and Central Asia (WB),4.49,1996
+1622,,Europe and Central Asia (WB),4.38,1999
+1623,,Europe and Central Asia (WB),4.15,2000
+1624,,Europe and Central Asia (WB),4.44,2002
+1625,,Europe and Central Asia (WB),4.73,2004
+1626,,Europe and Central Asia (WB),4.82,2006
+1627,,Europe and Central Asia (WB),5.02,2009
+1628,,Europe and Central Asia (WB),4.86,2011
+1629,,Europe and Central Asia (WB),4.95,2013
+1630,,Europe and Central Asia (WB),4.90,2015
+1631,,Europe and Central Asia (WB),4.74,2017
+1632,,Europe and Central Asia (WB),4.63,2019
+1633,FRO,Faroe Islands,8.00,2012
+1634,FRO,Faroe Islands,7.71,2015
+1635,FRO,Faroe Islands,8.78,2018
+1636,FRO,Faroe Islands,7.64,2019
+1637,FJI,Fiji,5.82,1981
+1638,FJI,Fiji,4.83,1989
+1639,FJI,Fiji,5.17,1999
+1640,FJI,Fiji,6.28,2002
+1641,FJI,Fiji,5.17,2005
+1642,FJI,Fiji,5.89,2007
+1643,FJI,Fiji,4.50,2009
+1644,FJI,Fiji,4.17,2011
+1645,FJI,Fiji,3.88,2013
+1646,FJI,Fiji,4.27,2014
+1647,FJI,Fiji,4.84,2016
+1648,FJI,Fiji,4.84,2018
+1649,FIN,Finland,5.41,1970
+1650,FIN,Finland,5.01,1972
+1651,FIN,Finland,4.48,1974
+1652,FIN,Finland,5.23,1976
+1653,FIN,Finland,4.80,1979
+1654,FIN,Finland,4.83,1980
+1655,FIN,Finland,4.83,1981
+1656,FIN,Finland,4.78,1982
+1657,FIN,Finland,4.86,1983
+1658,FIN,Finland,4.70,1984
+1659,FIN,Finland,5.05,1985
+1660,FIN,Finland,5.10,1986
+1661,FIN,Finland,5.20,1987
+1662,FIN,Finland,5.07,1988
+1663,FIN,Finland,5.07,1989
+1664,FIN,Finland,5.34,1990
+1665,FIN,Finland,6.34,1991
+1666,FIN,Finland,6.52,1992
+1667,FIN,Finland,7.49,1993
+1668,FIN,Finland,6.86,1994
+1669,FIN,Finland,6.81,1995
+1670,FIN,Finland,6.86,1996
+1671,FIN,Finland,5.71,2000
+1672,FIN,Finland,5.87,1999
+1673,FIN,Finland,5.84,2001
+1674,FIN,Finland,6.02,2002
+1675,FIN,Finland,6.17,2003
+1676,FIN,Finland,6.16,2004
+1677,FIN,Finland,5.93,2006
+1678,FIN,Finland,6.03,2005
+1679,FIN,Finland,5.67,2007
+1680,FIN,Finland,6.46,2009
+1681,FIN,Finland,6.45,2011
+1682,FIN,Finland,7.12,2013
+1683,FIN,Finland,7.03,2015
+1684,FIN,Finland,6.36,2017
+1685,FIN,Finland,6.42,2019
+1686,FRA,France,0.30,1870
+1687,FRA,France,1.50,1913
+1688,FRA,France,2.40,1960
+1689,FRA,France,3.43,1970
+1690,FRA,France,3.36,1972
+1691,FRA,France,4.24,1974
+1692,FRA,France,4.43,1975
+1693,FRA,France,4.44,1977
+1694,FRA,France,4.28,1979
+1695,FRA,France,4.31,1980
+1696,FRA,France,4.85,1982
+1697,FRA,France,4.87,1984
+1698,FRA,France,4.85,1985
+1699,FRA,France,4.62,1987
+1700,FRA,France,4.54,1988
+1701,FRA,France,4.51,1990
+1702,FRA,France,4.84,1991
+1703,FRA,France,5.43,1993
+1704,FRA,France,5.79,1995
+1705,FRA,France,5.76,1996
+1706,FRA,France,5.48,2011
+1707,FRA,France,5.50,2013
+1708,FRA,France,5.51,2014
+1709,FRA,France,5.46,2015
+1710,FRA,France,5.45,2017
+1711,FRA,France,5.41,2018
+1712,FRA,France,5.50,2020
+1713,GAB,Gabon,2.81,1992
+1714,GAB,Gabon,3.42,1998
+1715,GAB,Gabon,3.83,2000
+1716,GAB,Gabon,2.99,2011
+1717,GAB,Gabon,3.03,2013
+1718,GAB,Gabon,2.67,2014
+1719,GAB,Gabon,2.66,2016
+1720,GAB,Gabon,2.93,2018
+1721,GAB,Gabon,2.73,2019
+1722,GMB,Gambia,4.30,1985
+1723,GMB,Gambia,2.97,1989
+1724,GMB,Gambia,2.83,1990
+1725,GMB,Gambia,3.78,1991
+1726,GMB,Gambia,2.55,1995
+1727,GMB,Gambia,1.57,1999
+1728,GMB,Gambia,1.16,2001
+1729,GMB,Gambia,1.36,2003
+1730,GMB,Gambia,0.75,2006
+1731,GMB,Gambia,2.18,2008
+1732,GMB,Gambia,2.56,2010
+1733,GMB,Gambia,2.64,2012
+1734,GMB,Gambia,2.23,2014
+1735,GMB,Gambia,2.02,2016
+1736,GMB,Gambia,2.37,2018
+1737,GEO,Georgia,6.92,1994
+1738,GEO,Georgia,2.11,1998
+1739,GEO,Georgia,2.18,2000
+1740,GEO,Georgia,2.24,2002
+1741,GEO,Georgia,2.91,2004
+1742,GEO,Georgia,3.00,2006
+1743,GEO,Georgia,2.70,2007
+1744,GEO,Georgia,3.22,2009
+1745,GEO,Georgia,2.58,2011
+1746,GEO,Georgia,2.89,2013
+1747,GEO,Georgia,3.16,2015
+1748,GEO,Georgia,3.59,2016
+1749,GEO,Georgia,3.52,2018
+1750,GEO,Georgia,3.85,2020
+1751,DEU,Germany,2.70,1913
+1752,DEU,Germany,2.90,1960
+1753,DEU,Germany,4.41,1993
+1754,DEU,Germany,4.43,1995
+1755,DEU,Germany,4.46,1998
+1756,DEU,Germany,4.37,2007
+1757,DEU,Germany,4.91,2009
+1758,DEU,Germany,4.94,2010
+1759,DEU,Germany,4.96,2012
+1760,DEU,Germany,4.92,2014
+1761,DEU,Germany,4.84,2016
+1762,DEU,Germany,4.87,2017
+1763,DEU,Germany,4.66,2020
+1764,GHA,Ghana,4.62,1972
+1765,GHA,Ghana,4.88,1975
+1766,GHA,Ghana,6.10,1977
+1767,GHA,Ghana,2.71,1980
+1768,GHA,Ghana,1.90,1982
+1769,GHA,Ghana,3.35,1986
+1770,GHA,Ghana,3.19,1988
+1771,GHA,Ghana,5.35,2001
+1772,GHA,Ghana,7.42,2005
+1773,GHA,Ghana,5.52,2007
+1774,GHA,Ghana,5.32,2009
+1775,GHA,Ghana,8.14,2011
+1776,GHA,Ghana,4.58,2013
+1777,GHA,Ghana,4.40,2014
+1778,GHA,Ghana,4.39,2016
+1779,GHA,Ghana,3.89,2018
+1780,GRC,Greece,1.11,1973
+1781,GRC,Greece,1.46,1975
+1782,GRC,Greece,1.49,1977
+1783,GRC,Greece,1.69,1981
+1784,GRC,Greece,1.69,1983
+1785,GRC,Greece,1.83,1986
+1786,GRC,Greece,1.83,1987
+1787,GRC,Greece,2.02,1989
+1788,GRC,Greece,1.93,1991
+1789,GRC,Greece,3.03,1999
+1790,GRC,Greece,3.36,2001
+1791,GRC,Greece,3.42,2002
+1792,GRC,Greece,3.67,2004
+1793,GRC,Greece,4.11,2010
+1794,GRC,Greece,4.51,2012
+1795,GRC,Greece,4.29,2014
+1796,GRC,Greece,3.97,2016
+1797,GRC,Greece,3.60,2018
+1798,GRC,Greece,4.44,2020
+1799,GRL,Greenland,12.87,2012
+1800,GRL,Greenland,12.80,2014
+1801,GRL,Greenland,11.09,2016
+1802,GRL,Greenland,10.56,2018
+1803,GRD,Grenada,3.93,2003
+1804,GRD,Grenada,3.17,2017
+1805,GTM,Guatemala,1.86,1970
+1806,GTM,Guatemala,2.03,1971
+1807,GTM,Guatemala,1.67,1993
+1808,GTM,Guatemala,1.60,1995
+1809,GTM,Guatemala,3.03,2006
+1810,GTM,Guatemala,3.24,2008
+1811,GTM,Guatemala,2.97,2011
+1812,GTM,Guatemala,2.89,2013
+1813,GTM,Guatemala,3.03,2015
+1814,GTM,Guatemala,2.95,2017
+1815,GTM,Guatemala,3.30,2020
+1816,GTM,Guatemala,3.11,2021
+1817,GIN,Guinea,2.01,1992
+1818,GIN,Guinea,2.36,1999
+1819,GIN,Guinea,2.59,2000
+1820,GIN,Guinea,2.59,2002
+1821,GIN,Guinea,2.21,2004
+1822,GIN,Guinea,1.58,2008
+1823,GIN,Guinea,2.55,2010
+1824,GIN,Guinea,1.83,2012
+1825,GIN,Guinea,2.52,2015
+1826,GIN,Guinea,2.32,2017
+1827,GIN,Guinea,1.85,2019
+1828,GIN,Guinea,2.20,2020
+1829,GNB,Guinea-Bissau,1.86,2010
+1830,GNB,Guinea-Bissau,1.86,2011
+1831,GNB,Guinea-Bissau,2.13,2013
+1832,GNB,Guinea-Bissau,2.14,2018
+1833,FIN,Finland,5.83,2008
+1834,FIN,Finland,6.50,2010
+1835,FIN,Finland,7.15,2012
+1836,FIN,Finland,7.10,2014
+1837,FIN,Finland,6.85,2016
+1838,FIN,Finland,6.28,2018
+1839,FIN,Finland,5.88,2020
+1840,FRA,France,1.30,1937
+1841,FRA,France,3.17,1971
+1842,FRA,France,3.23,1973
+1843,FRA,France,4.42,1976
+1844,FRA,France,4.35,1978
+1845,FRA,France,4.73,1981
+1846,FRA,France,4.85,1983
+1847,FRA,France,4.71,1986
+1848,FRA,France,4.46,1989
+1849,FRA,France,4.74,1992
+1850,FRA,France,5.63,1994
+1851,FRA,France,5.69,1998
+1852,FRA,France,5.66,2010
+1853,FRA,France,5.46,2012
+1854,FRA,France,5.42,2016
+1855,FRA,France,5.35,2019
+1856,GAB,Gabon,3.08,1999
+1857,GAB,Gabon,3.08,2010
+1858,GAB,Gabon,3.01,2012
+1859,GAB,Gabon,2.99,2015
+1860,GAB,Gabon,3.33,2017
+1861,GAB,Gabon,3.18,2020
+1862,GMB,Gambia,3.48,1986
+1863,GMB,Gambia,1.17,1992
+1864,GMB,Gambia,2.57,1996
+1865,GMB,Gambia,1.47,2000
+1866,GMB,Gambia,1.44,2002
+1867,GMB,Gambia,0.62,2004
+1868,GMB,Gambia,0.69,2005
+1869,GMB,Gambia,0.82,2007
+1870,GMB,Gambia,1.91,2009
+1871,GMB,Gambia,2.50,2011
+1872,GMB,Gambia,1.82,2013
+1873,GMB,Gambia,2.16,2015
+1874,GMB,Gambia,2.46,2017
+1875,GMB,Gambia,2.79,2019
+1876,GMB,Gambia,2.76,2020
+1877,GEO,Georgia,2.16,1999
+1878,GEO,Georgia,2.14,2001
+1879,GEO,Georgia,2.07,2003
+1880,GEO,Georgia,2.48,2005
+1881,GEO,Georgia,2.92,2008
+1882,GEO,Georgia,2.80,2010
+1883,GEO,Georgia,1.91,2012
+1884,GEO,Georgia,3.00,2014
+1885,GEO,Georgia,3.57,2017
+1886,GEO,Georgia,3.81,2019
+1887,GEO,Georgia,3.62,2021
+1888,DEU,Germany,1.30,1870
+1889,DEU,Germany,4.70,1980
+1890,DEU,Germany,4.34,1994
+1891,DEU,Germany,4.49,1996
+1892,DEU,Germany,4.29,2006
+1893,DEU,Germany,4.44,2008
+1894,DEU,Germany,4.82,2011
+1895,DEU,Germany,4.94,2013
+1896,DEU,Germany,4.86,2015
+1897,DEU,Germany,4.98,2018
+1898,DEU,Germany,5.12,2019
+1899,GHA,Ghana,4.22,1971
+1900,GHA,Ghana,3.80,1974
+1901,GHA,Ghana,5.83,1976
+1902,GHA,Ghana,2.31,1979
+1903,GHA,Ghana,1.81,1981
+1904,GHA,Ghana,3.31,1987
+1905,GHA,Ghana,4.11,1999
+1906,GHA,Ghana,7.54,2004
+1907,GHA,Ghana,5.26,2006
+1908,GHA,Ghana,5.76,2008
+1909,GHA,Ghana,5.54,2010
+1910,GHA,Ghana,7.92,2012
+1911,GHA,Ghana,4.43,2015
+1912,GHA,Ghana,3.53,2017
+1913,GRC,Greece,1.55,1970
+1914,GRC,Greece,1.30,1971
+1915,GRC,Greece,1.34,1974
+1916,GRC,Greece,1.45,1976
+1917,GRC,Greece,1.69,1978
+1918,GRC,Greece,1.69,1982
+1919,GRC,Greece,1.81,1984
+1920,GRC,Greece,1.87,1988
+1921,GRC,Greece,2.05,1990
+1922,GRC,Greece,2.89,1998
+1923,GRC,Greece,3.23,2000
+1924,GRC,Greece,3.43,2003
+1925,GRC,Greece,3.96,2005
+1926,GRC,Greece,4.44,2011
+1927,GRC,Greece,4.48,2013
+1928,GRC,Greece,3.66,2015
+1929,GRC,Greece,3.48,2017
+1930,GRC,Greece,3.59,2019
+1931,GRL,Greenland,13.34,2013
+1932,GRL,Greenland,12.00,2015
+1933,GRL,Greenland,11.03,2017
+1934,GRL,Greenland,10.15,2019
+1935,GRD,Grenada,4.24,2015
+1936,GRD,Grenada,3.55,2018
+1937,GTM,Guatemala,1.63,1976
+1938,GTM,Guatemala,1.44,1994
+1939,GTM,Guatemala,1.56,1996
+1940,GTM,Guatemala,3.09,2007
+1941,GTM,Guatemala,2.85,2010
+1942,GTM,Guatemala,3.01,2012
+1943,GTM,Guatemala,2.99,2014
+1944,GTM,Guatemala,2.94,2016
+1945,GTM,Guatemala,3.14,2018
+1946,GTM,Guatemala,3.20,2019
+1947,GIN,Guinea,2.02,1991
+1948,GIN,Guinea,2.09,1993
+1949,GIN,Guinea,2.08,2001
+1950,GIN,Guinea,2.37,2003
+1951,GIN,Guinea,1.85,2005
+1952,GIN,Guinea,2.21,2009
+1953,GIN,Guinea,2.29,2011
+1954,GIN,Guinea,2.63,2013
+1955,GIN,Guinea,2.42,2014
+1956,GIN,Guinea,2.54,2016
+1957,GIN,Guinea,2.38,2018
+1958,GNB,Guinea-Bissau,5.25,1999
+1959,GNB,Guinea-Bissau,2.00,2012
+1960,GNB,Guinea-Bissau,2.20,2014
+1961,GNB,Guinea-Bissau,2.30,2015
+1962,GNB,Guinea-Bissau,2.30,2016
+1963,GNB,Guinea-Bissau,2.20,2017
+1964,GNB,Guinea-Bissau,2.95,2019
+1965,GNB,Guinea-Bissau,2.71,2020
+1966,GUY,Guyana,4.33,1970
+1967,GUY,Guyana,7.09,1977
+1968,GUY,Guyana,9.38,1979
+1969,GUY,Guyana,8.25,1983
+1970,GUY,Guyana,7.23,1984
+1971,GUY,Guyana,3.72,1994
+1972,GUY,Guyana,3.61,1995
+1973,GUY,Guyana,8.56,1999
+1974,GUY,Guyana,8.48,2000
+1975,GUY,Guyana,8.40,2001
+1976,GUY,Guyana,8.37,2002
+1977,GUY,Guyana,6.96,2003
+1978,GUY,Guyana,5.51,2004
+1979,GUY,Guyana,8.14,2005
+1980,GUY,Guyana,3.12,2006
+1981,GUY,Guyana,2.39,2007
+1982,GUY,Guyana,2.15,2009
+1983,GUY,Guyana,2.41,2010
+1984,GUY,Guyana,2.51,2011
+1985,GUY,Guyana,2.24,2012
+1986,GUY,Guyana,4.36,2014
+1987,GUY,Guyana,3.90,2015
+1988,GUY,Guyana,4.74,2016
+1989,GUY,Guyana,4.66,2017
+1990,GUY,Guyana,4.45,2018
+1991,HTI,Haiti,1.08,1982
+1992,HTI,Haiti,1.39,1981
+1993,HTI,Haiti,1.02,1983
+1994,HTI,Haiti,0.99,1984
+1995,HTI,Haiti,0.97,1985
+1996,HTI,Haiti,1.07,1991
+1997,HTI,Haiti,1.75,2014
+1998,HTI,Haiti,1.86,2015
+1999,HTI,Haiti,1.40,2016
+2000,HTI,Haiti,1.50,2017
+2001,HTI,Haiti,1.63,2018
+2002,HTI,Haiti,1.79,2019
+2003,HTI,Haiti,1.37,2020
+2004,HND,Honduras,2.02,1978
+2005,HND,Honduras,2.01,1979
+2006,HND,Honduras,1.94,1980
+2007,HND,Honduras,2.51,1994
+2008,HND,Honduras,2.62,1995
+2009,HND,Honduras,6.80,2010
+2010,HND,Honduras,6.10,2011
+2011,HND,Honduras,6.30,2012
+2012,HND,Honduras,5.87,2013
+2013,HND,Honduras,7.09,2014
+2014,HND,Honduras,6.41,2015
+2015,HND,Honduras,5.16,2016
+2016,HND,Honduras,4.94,2017
+2017,HND,Honduras,6.06,2018
+2018,HND,Honduras,4.91,2019
+2019,HND,Honduras,6.44,2020
+2020,HKG,Hong Kong,2.37,1971
+2021,HKG,Hong Kong,2.30,1972
+2022,HKG,Hong Kong,2.18,1973
+2023,HKG,Hong Kong,2.45,1975
+2024,HKG,Hong Kong,2.36,1974
+2025,HKG,Hong Kong,2.43,1976
+2026,HKG,Hong Kong,2.22,1977
+2027,HKG,Hong Kong,2.32,1978
+2028,HKG,Hong Kong,2.19,1980
+2029,HKG,Hong Kong,1.67,1982
+2030,HKG,Hong Kong,2.27,1981
+2031,HKG,Hong Kong,2.58,1983
+2032,HKG,Hong Kong,2.58,1984
+2033,HKG,Hong Kong,2.56,1985
+2034,HKG,Hong Kong,2.47,1990
+2035,HKG,Hong Kong,2.83,1992
+2036,HKG,Hong Kong,2.73,1996
+2037,HKG,Hong Kong,3.90,2001
+2038,HKG,Hong Kong,4.02,2002
+2039,HKG,Hong Kong,4.29,2003
+2040,HKG,Hong Kong,4.56,2004
+2041,HKG,Hong Kong,3.84,2006
+2042,HKG,Hong Kong,4.13,2005
+2043,HKG,Hong Kong,3.45,2007
+2044,HKG,Hong Kong,3.26,2008
+2045,HKG,Hong Kong,4.39,2009
+2046,HKG,Hong Kong,3.51,2010
+2047,HKG,Hong Kong,3.42,2011
+2048,HKG,Hong Kong,3.51,2012
+2049,HKG,Hong Kong,3.76,2013
+2050,HKG,Hong Kong,3.57,2014
+2051,HKG,Hong Kong,3.26,2015
+2052,HKG,Hong Kong,3.29,2016
+2053,HKG,Hong Kong,3.31,2017
+2054,HKG,Hong Kong,3.33,2018
+2055,HKG,Hong Kong,3.81,2019
+2056,HKG,Hong Kong,4.41,2020
+2057,HKG,Hong Kong,4.00,2021
+2058,HUN,Hungary,5.88,1991
+2059,HUN,Hungary,5.92,1993
+2060,HUN,Hungary,6.08,1992
+2061,HUN,Hungary,4.85,1995
+2062,HUN,Hungary,5.83,1994
+2063,HUN,Hungary,4.33,1996
+2064,HUN,Hungary,4.41,1998
+2065,HUN,Hungary,4.57,1999
+2066,HUN,Hungary,4.87,2000
+2067,HUN,Hungary,4.93,2001
+2068,HUN,Hungary,5.18,2002
+2069,HUN,Hungary,5.79,2003
+2070,HUN,Hungary,5.32,2005
+2071,HUN,Hungary,5.33,2004
+2072,HUN,Hungary,5.29,2006
+2073,HUN,Hungary,5.13,2007
+2074,HUN,Hungary,4.94,2009
+2075,HUN,Hungary,4.97,2008
+2076,HUN,Hungary,4.72,2010
+2077,HUN,Hungary,4.56,2011
+2078,HUN,Hungary,4.14,2012
+2079,HUN,Hungary,4.19,2013
+2080,HUN,Hungary,4.60,2014
+2081,HUN,Hungary,4.49,2015
+2082,HUN,Hungary,4.61,2016
+2083,HUN,Hungary,4.62,2018
+2084,HUN,Hungary,4.61,2017
+2085,HUN,Hungary,4.24,2019
+2086,HUN,Hungary,4.76,2020
+2087,ISL,Iceland,4.26,1990
+2088,ISL,Iceland,5.14,1993
+2089,ISL,Iceland,4.76,1994
+2090,ISL,Iceland,4.78,1995
+2091,ISL,Iceland,6.78,1998
+2092,ISL,Iceland,5.22,1996
+2093,ISL,Iceland,6.43,1999
+2094,ISL,Iceland,6.71,2001
+2095,ISL,Iceland,6.43,2000
+2096,ISL,Iceland,7.30,2002
+2097,ISL,Iceland,7.25,2003
+2098,ISL,Iceland,7.16,2004
+2099,ISL,Iceland,7.34,2005
+2100,ISL,Iceland,7.20,2006
+2101,ISL,Iceland,6.94,2007
+2102,ISL,Iceland,7.04,2008
+2103,ISL,Iceland,7.19,2009
+2104,ISL,Iceland,6.94,2010
+2105,ISL,Iceland,6.79,2011
+2106,ISL,Iceland,7.58,2012
+2107,ISL,Iceland,7.45,2013
+2108,ISL,Iceland,7.64,2014
+2109,ISL,Iceland,7.46,2015
+2110,ISL,Iceland,7.43,2016
+2111,ISL,Iceland,7.58,2017
+2112,ISL,Iceland,7.56,2018
+2113,ISL,Iceland,7.55,2019
+2114,ISL,Iceland,7.72,2020
+2115,IND,India,3.36,1997
+2116,IND,India,3.57,1998
+2117,IND,India,4.42,1999
+2118,IND,India,4.32,2000
+2119,IND,India,3.61,2003
+2120,IND,India,3.35,2004
+2121,IND,India,3.19,2005
+2122,IND,India,3.14,2006
+2123,IND,India,3.28,2009
+2124,IND,India,3.38,2010
+2125,IND,India,3.80,2011
+2126,IND,India,3.87,2012
+2127,IND,India,3.84,2013
+2128,IND,India,4.11,2015
+2129,IND,India,4.31,2017
+2130,IND,India,4.25,2016
+2131,IND,India,4.36,2018
+2132,IND,India,4.41,2019
+2133,IND,India,4.47,2020
+2134,IDN,Indonesia,2.79,1972
+2135,IDN,Indonesia,0.87,1989
+2136,IDN,Indonesia,1.00,1994
+2137,IDN,Indonesia,1.00,1995
+2138,IDN,Indonesia,1.07,1997
+2139,IDN,Indonesia,2.65,2002
+2140,IDN,Indonesia,2.75,2004
+2141,IDN,Indonesia,2.90,2008
+2142,IDN,Indonesia,2.81,2010
+2143,IDN,Indonesia,3.19,2011
+2144,IDN,Indonesia,3.36,2013
+2145,IDN,Indonesia,3.58,2015
+2146,IDN,Indonesia,2.67,2017
+2147,IDN,Indonesia,2.84,2019
+2148,IRN,Iran,2.77,1971
+2149,IRN,Iran,2.88,1973
+2150,IRN,Iran,5.42,1977
+2151,IRN,Iran,4.18,1983
+2152,IRN,Iran,3.46,1985
+2153,IRN,Iran,4.14,1987
+2154,IRN,Iran,4.00,1989
+2155,IRN,Iran,3.74,1991
+2156,IRN,Iran,3.64,1992
+2157,IRN,Iran,4.08,1995
+2158,IRN,Iran,4.22,1999
+2159,IRN,Iran,4.03,2000
+2160,IRN,Iran,4.48,2002
+2161,IRN,Iran,4.30,2004
+2162,IRN,Iran,4.29,2006
+2163,IRN,Iran,4.60,2007
+2164,IRN,Iran,3.84,2009
+2165,IRN,Iran,3.48,2011
+2166,IRN,Iran,3.07,2013
+2167,IRN,Iran,2.80,2015
+2168,IRN,Iran,3.37,2016
+2169,IRN,Iran,3.66,2019
+2170,IRQ,Iraq,3.86,1977
+2171,IRQ,Iraq,2.42,1980
+2172,IRQ,Iraq,4.71,2016
+2173,IRL,Ireland,3.30,1937
+2174,IRL,Ireland,4.49,1971
+2175,IRL,Ireland,4.61,1973
+2176,IRL,Ireland,4.30,1976
+2177,IRL,Ireland,5.07,1978
+2178,IRL,Ireland,5.32,1980
+2179,IRL,Ireland,5.39,1982
+2180,IRL,Ireland,5.28,1984
+2181,IRL,Ireland,5.30,1986
+2182,IRL,Ireland,5.02,1988
+2183,IRL,Ireland,4.60,1990
+2184,IRL,Ireland,5.01,1992
+2185,IRL,Ireland,5.19,1994
+2186,IRL,Ireland,4.75,1996
+2187,IRL,Ireland,4.13,1999
+2188,IRL,Ireland,4.09,2001
+2189,IRL,Ireland,4.20,2003
+2190,IRL,Ireland,4.48,2004
+2191,IRL,Ireland,4.55,2006
+2192,IRL,Ireland,5.46,2008
+2193,IRL,Ireland,6.05,2010
+2194,IRL,Ireland,5.75,2012
+2195,IRL,Ireland,3.76,2015
+2196,IRL,Ireland,3.51,2017
+2197,IRL,Ireland,3.29,2019
+2198,ISR,Israel,6.65,1998
+2199,ISR,Israel,6.11,2000
+2200,ISR,Israel,6.47,2002
+2201,ISR,Israel,6.35,2003
+2202,ISR,Israel,5.75,2005
+2203,ISR,Israel,5.50,2007
+2204,ISR,Israel,5.48,2009
+2205,ISR,Israel,5.55,2011
+2206,ISR,Israel,5.85,2013
+2207,ISR,Israel,5.77,2014
+2208,ISR,Israel,5.86,2016
+2209,ISR,Israel,6.11,2018
+2210,ISR,Israel,7.07,2020
+2211,ITA,Italy,1.60,1937
+2212,ITA,Italy,3.37,1970
+2213,ITA,Italy,3.84,1974
+2214,ITA,Italy,3.92,1976
+2215,ITA,Italy,3.78,1978
+2216,ITA,Italy,4.40,1980
+2217,ITA,Italy,4.77,1984
+2218,ITA,Italy,4.65,1986
+2219,ITA,Italy,4.73,1993
+2220,ITA,Italy,4.43,1994
+2221,ITA,Italy,4.45,1996
+2222,ITA,Italy,4.51,1999
+2223,ITA,Italy,4.29,2000
+2224,ITA,Italy,4.43,2002
+2225,ITA,Italy,4.54,2003
+2226,ITA,Italy,4.24,2005
+2227,ITA,Italy,4.11,2007
+2228,ITA,Italy,4.52,2009
+2229,ITA,Italy,4.12,2011
+2230,ITA,Italy,4.14,2013
+2231,ITA,Italy,4.07,2015
+2232,ITA,Italy,3.82,2016
+2233,ITA,Italy,4.26,2018
+2234,ITA,Italy,4.27,2020
+2235,JAM,Jamaica,4.25,1974
+2236,JAM,Jamaica,5.86,1976
+2237,JAM,Jamaica,5.39,1985
+2238,JAM,Jamaica,3.94,1988
+2239,JAM,Jamaica,4.78,1990
+2240,JAM,Jamaica,3.34,1992
+2241,JAM,Jamaica,4.06,1994
+2242,JAM,Jamaica,3.68,1996
+2243,JAM,Jamaica,4.98,2000
+2244,JAM,Jamaica,5.38,2002
+2245,JAM,Jamaica,3.91,2004
+2246,JAM,Jamaica,5.49,2007
+2247,JAM,Jamaica,6.20,2009
+2248,JAM,Jamaica,6.27,2011
+2249,JAM,Jamaica,6.25,2013
+2250,JAM,Jamaica,5.46,2015
+2251,JAM,Jamaica,5.26,2017
+2252,JAM,Jamaica,5.41,2018
+2253,JAM,Jamaica,5.62,2020
+2254,JPN,Japan,1.00,1870
+2255,JPN,Japan,1.60,1913
+2256,JPN,Japan,4.10,1960
+2257,JPN,Japan,3.66,1971
+2258,JPN,Japan,4.04,1973
+2259,JPN,Japan,4.67,1975
+2260,JPN,Japan,4.84,1977
+2261,JPN,Japan,5.06,1979
+2262,JPN,Japan,5.06,1981
+2263,JPN,Japan,5.05,1982
+2264,JPN,Japan,5.60,1987
+2265,JPN,Japan,5.37,1989
+2266,JPN,Japan,3.64,1994
+2267,JPN,Japan,3.30,1998
+2268,JPN,Japan,3.46,2000
+2269,JPN,Japan,3.41,2002
+2270,JPN,Japan,3.43,2004
+2271,JPN,Japan,3.28,2006
+2272,JPN,Japan,3.28,2007
+2273,JPN,Japan,3.60,2010
+2274,JPN,Japan,3.65,2012
+2275,JPN,Japan,3.55,2014
+2276,JPN,Japan,3.15,2016
+2277,JPN,Japan,3.08,2018
+2278,JPN,Japan,3.16,2019
+2279,JOR,Jordan,3.30,1971
+2280,JOR,Jordan,2.49,1973
+2281,JOR,Jordan,3.56,1974
+2282,JOR,Jordan,3.53,1976
+2283,JOR,Jordan,3.68,1978
+2284,JOR,Jordan,5.17,1981
+2285,JOR,Jordan,5.09,1982
+2286,JOR,Jordan,5.94,1984
+2287,JOR,Jordan,3.30,1987
+2288,JOR,Jordan,5.64,1989
+2289,JOR,Jordan,6.36,1997
+2290,JOR,Jordan,4.92,2005
+2291,JOR,Jordan,5.04,2007
+2292,JOR,Jordan,3.10,2010
+2293,JOR,Jordan,3.40,2011
+2294,JOR,Jordan,3.80,2014
+2295,IDN,Indonesia,1.08,1996
+2296,IDN,Indonesia,2.46,2001
+2297,IDN,Indonesia,3.22,2003
+2298,IDN,Indonesia,2.87,2005
+2299,IDN,Indonesia,3.04,2007
+2300,IDN,Indonesia,3.53,2009
+2301,IDN,Indonesia,3.41,2012
+2302,IDN,Indonesia,3.29,2014
+2303,IDN,Indonesia,3.50,2016
+2304,IDN,Indonesia,3.00,2018
+2305,IDN,Indonesia,3.49,2020
+2306,IRN,Iran,2.77,1972
+2307,IRN,Iran,2.69,1974
+2308,IRN,Iran,2.97,1975
+2309,IRN,Iran,7.13,1981
+2310,IRN,Iran,5.80,1982
+2311,IRN,Iran,3.80,1984
+2312,IRN,Iran,3.57,1986
+2313,IRN,Iran,3.68,1988
+2314,IRN,Iran,3.77,1990
+2315,IRN,Iran,4.31,1993
+2316,IRN,Iran,3.54,1996
+2317,IRN,Iran,4.07,2001
+2318,IRN,Iran,4.36,2003
+2319,IRN,Iran,4.06,2005
+2320,IRN,Iran,3.91,2008
+2321,IRN,Iran,3.71,2010
+2322,IRN,Iran,3.17,2012
+2323,IRN,Iran,2.80,2014
+2324,IRN,Iran,3.79,2017
+2325,IRN,Iran,3.96,2018
+2326,IRN,Iran,3.59,2020
+2327,IRQ,Iraq,3.55,1989
+2328,IRQ,Iraq,4.49,2015
+2329,IRL,Ireland,3.20,1960
+2330,IRL,Ireland,4.62,1972
+2331,IRL,Ireland,4.69,1974
+2332,IRL,Ireland,5.09,1977
+2333,IRL,Ireland,5.29,1979
+2334,IRL,Ireland,5.73,1981
+2335,IRL,Ireland,5.45,1983
+2336,IRL,Ireland,5.25,1985
+2337,IRL,Ireland,5.53,1987
+2338,IRL,Ireland,4.71,1989
+2339,IRL,Ireland,4.78,1991
+2340,IRL,Ireland,5.12,1993
+2341,IRL,Ireland,4.87,1995
+2342,IRL,Ireland,4.29,1998
+2343,IRL,Ireland,4.13,2000
+2344,IRL,Ireland,4.10,2002
+2345,IRL,Ireland,4.52,2005
+2346,IRL,Ireland,4.72,2007
+2347,IRL,Ireland,6.16,2009
+2348,IRL,Ireland,5.83,2011
+2349,IRL,Ireland,5.34,2013
+2350,IRL,Ireland,4.88,2014
+2351,IRL,Ireland,3.74,2016
+2352,IRL,Ireland,3.39,2018
+2353,IRL,Ireland,3.10,2020
+2354,ISR,Israel,6.42,1999
+2355,ISR,Israel,6.37,2001
+2356,ISR,Israel,5.94,2004
+2357,ISR,Israel,5.76,2006
+2358,ISR,Israel,5.52,2008
+2359,ISR,Israel,5.52,2010
+2360,ISR,Israel,5.67,2012
+2361,ISR,Israel,5.86,2015
+2362,ISR,Israel,6.06,2017
+2363,ISR,Israel,6.13,2019
+2364,ITA,Italy,0.60,1913
+2365,ITA,Italy,3.60,1960
+2366,ITA,Italy,2.90,1971
+2367,ITA,Italy,3.71,1975
+2368,ITA,Italy,4.16,1979
+2369,ITA,Italy,4.49,1983
+2370,ITA,Italy,4.69,1985
+2371,ITA,Italy,4.59,1988
+2372,ITA,Italy,4.32,1995
+2373,ITA,Italy,4.45,1998
+2374,ITA,Italy,4.65,2001
+2375,ITA,Italy,4.39,2004
+2376,ITA,Italy,4.53,2006
+2377,ITA,Italy,4.39,2008
+2378,ITA,Italy,4.33,2010
+2379,ITA,Italy,4.06,2012
+2380,ITA,Italy,4.06,2014
+2381,ITA,Italy,4.04,2017
+2382,ITA,Italy,4.10,2019
+2383,JAM,Jamaica,3.63,1973
+2384,JAM,Jamaica,5.23,1975
+2385,JAM,Jamaica,6.03,1977
+2386,JAM,Jamaica,4.60,1986
+2387,JAM,Jamaica,5.18,1989
+2388,JAM,Jamaica,4.38,1991
+2389,JAM,Jamaica,3.21,1993
+2390,JAM,Jamaica,3.39,1995
+2391,JAM,Jamaica,4.38,1997
+2392,JAM,Jamaica,5.38,2001
+2393,JAM,Jamaica,4.26,2003
+2394,JAM,Jamaica,4.62,2005
+2395,JAM,Jamaica,6.19,2008
+2396,JAM,Jamaica,6.37,2010
+2397,JAM,Jamaica,6.11,2012
+2398,JAM,Jamaica,6.02,2014
+2399,JAM,Jamaica,5.31,2016
+2400,JAM,Jamaica,5.16,2019
+2401,JAM,Jamaica,6.03,2021
+2402,JPN,Japan,2.10,1937
+2403,JPN,Japan,4.01,1972
+2404,JPN,Japan,4.04,1974
+2405,JPN,Japan,4.85,1976
+2406,JPN,Japan,4.89,1978
+2407,JPN,Japan,5.07,1980
+2408,JPN,Japan,4.82,1983
+2409,JPN,Japan,5.56,1988
+2410,JPN,Japan,3.43,1993
+2411,JPN,Japan,3.40,1995
+2412,JPN,Japan,3.38,1999
+2413,JPN,Japan,3.40,2001
+2414,JPN,Japan,3.47,2003
+2415,JPN,Japan,3.31,2005
+2416,JPN,Japan,3.27,2008
+2417,JPN,Japan,3.61,2011
+2418,JPN,Japan,3.62,2013
+2419,JPN,Japan,3.27,2015
+2420,JPN,Japan,3.13,2017
+2421,JPN,Japan,3.42,2020
+2422,JOR,Jordan,3.63,1970
+2423,JOR,Jordan,2.39,1972
+2424,JOR,Jordan,3.76,1975
+2425,JOR,Jordan,3.68,1977
+2426,JOR,Jordan,5.08,1979
+2427,JOR,Jordan,4.93,1983
+2428,JOR,Jordan,3.28,1986
+2429,JOR,Jordan,4.05,1988
+2430,JOR,Jordan,7.48,1996
+2431,JOR,Jordan,4.94,1999
+2432,JOR,Jordan,4.66,2006
+2433,JOR,Jordan,3.67,2008
+2434,JOR,Jordan,3.59,2009
+2435,JOR,Jordan,3.50,2012
+2436,JOR,Jordan,3.50,2013
+2437,JOR,Jordan,3.45,2015
+2438,JOR,Jordan,3.45,2016
+2439,JOR,Jordan,2.98,2018
+2440,JOR,Jordan,3.23,2017
+2441,JOR,Jordan,2.99,2019
+2442,JOR,Jordan,3.67,2020
+2443,JOR,Jordan,3.21,2021
+2444,KAZ,Kazakhstan,3.92,1996
+2445,KAZ,Kazakhstan,4.03,1995
+2446,KAZ,Kazakhstan,4.37,1997
+2447,KAZ,Kazakhstan,3.89,1999
+2448,KAZ,Kazakhstan,3.26,2000
+2449,KAZ,Kazakhstan,3.03,2002
+2450,KAZ,Kazakhstan,2.26,2004
+2451,KAZ,Kazakhstan,2.26,2005
+2452,KAZ,Kazakhstan,2.63,2006
+2453,KAZ,Kazakhstan,3.06,2009
+2454,KAZ,Kazakhstan,3.49,2011
+2455,KAZ,Kazakhstan,3.90,2012
+2456,KAZ,Kazakhstan,3.42,2014
+2457,KAZ,Kazakhstan,2.79,2015
+2458,KAZ,Kazakhstan,2.75,2017
+2459,KAZ,Kazakhstan,2.86,2019
+2460,KEN,Kenya,3.93,1971
+2461,KEN,Kenya,4.65,1973
+2462,KEN,Kenya,5.61,1975
+2463,KEN,Kenya,5.14,1977
+2464,KEN,Kenya,5.92,1981
+2465,KEN,Kenya,5.44,1983
+2466,KEN,Kenya,5.20,1985
+2467,KEN,Kenya,6.01,1986
+2468,KEN,Kenya,6.04,1989
+2469,KEN,Kenya,6.08,1992
+2470,KEN,Kenya,5.92,1994
+2471,KEN,Kenya,5.32,1999
+2472,KEN,Kenya,5.21,2001
+2473,KEN,Kenya,6.49,2003
+2474,KEN,Kenya,6.80,2004
+2475,KEN,Kenya,4.82,2010
+2476,KEN,Kenya,4.93,2012
+2477,KEN,Kenya,4.84,2013
+2478,KEN,Kenya,4.74,2015
+2479,KEN,Kenya,5.11,2018
+2480,KEN,Kenya,5.08,2020
+2481,KIR,Kiribati,4.79,1970
+2482,KIR,Kiribati,3.14,1974
+2483,KIR,Kiribati,11.19,2000
+2484,KIR,Kiribati,12.97,2011
+2485,KIR,Kiribati,12.03,2013
+2486,KIR,Kiribati,9.86,2015
+2487,KIR,Kiribati,10.86,2017
+2488,KIR,Kiribati,12.39,2019
+2489,KWT,Kuwait,3.30,1973
+2490,KWT,Kuwait,2.14,1975
+2491,KWT,Kuwait,3.12,1976
+2492,KWT,Kuwait,4.08,1978
+2493,KWT,Kuwait,2.79,1980
+2494,KWT,Kuwait,3.03,1982
+2495,KWT,Kuwait,5.09,1983
+2496,KWT,Kuwait,5.01,1985
+2497,KWT,Kuwait,14.20,1992
+2498,KWT,Kuwait,5.86,1996
+2499,KWT,Kuwait,6.59,2001
+2500,KWT,Kuwait,5.54,2004
+2501,KWT,Kuwait,3.76,2006
+2502,KWT,Kuwait,2.58,2007
+2503,KWT,Kuwait,3.58,2009
+2504,KWT,Kuwait,3.42,2011
+2505,KWT,Kuwait,3.75,2012
+2506,KWT,Kuwait,4.40,2014
+2507,KWT,Kuwait,5.85,2016
+2508,KWT,Kuwait,6.39,2018
+2509,KWT,Kuwait,6.55,2020
+2510,KGZ,Kyrgyzstan,6.16,1995
+2511,KGZ,Kyrgyzstan,4.92,1998
+2512,KGZ,Kyrgyzstan,4.09,1999
+2513,KGZ,Kyrgyzstan,3.85,2001
+2514,KGZ,Kyrgyzstan,4.48,2003
+2515,KGZ,Kyrgyzstan,4.87,2005
+2516,KGZ,Kyrgyzstan,6.47,2007
+2517,KGZ,Kyrgyzstan,6.23,2009
+2518,KGZ,Kyrgyzstan,6.79,2011
+2519,KGZ,Kyrgyzstan,6.78,2013
+2520,KGZ,Kyrgyzstan,5.99,2015
+2521,KGZ,Kyrgyzstan,6.03,2017
+2522,KGZ,Kyrgyzstan,5.37,2019
+2523,LAO,Laos,2.33,1992
+2524,LAO,Laos,2.13,1997
+2525,LAO,Laos,1.50,2000
+2526,LAO,Laos,2.83,2002
+2527,LAO,Laos,2.41,2004
+2528,LAO,Laos,2.96,2006
+2529,LAO,Laos,2.28,2008
+2530,LAO,Laos,1.71,2010
+2531,LAO,Laos,1.82,2012
+2532,LAO,Laos,2.94,2014
+2533,LAO,Laos,2.77,2016
+2534,LAO,Laos,2.34,2018
+2535,LAO,Laos,2.30,2020
+2536,,Latin America and Caribbean (WB),3.34,1998
+2537,,Latin America and Caribbean (WB),3.76,1999
+2538,,Latin America and Caribbean (WB),3.84,2001
+2539,,Latin America and Caribbean (WB),3.54,2003
+2540,,Latin America and Caribbean (WB),3.79,2006
+2541,,Latin America and Caribbean (WB),3.86,2007
+2542,,Latin America and Caribbean (WB),5.33,2009
+2543,,Latin America and Caribbean (WB),4.41,2011
+2544,,Latin America and Caribbean (WB),4.55,2012
+2545,,Latin America and Caribbean (WB),4.76,2014
+2546,,Latin America and Caribbean (WB),4.26,2016
+2547,,Latin America and Caribbean (WB),4.35,2018
+2548,,Latin America and Caribbean (WB),4.23,2019
+2549,LVA,Latvia,5.26,1996
+2550,LVA,Latvia,5.81,1998
+2551,LVA,Latvia,5.54,1999
+2552,LVA,Latvia,5.60,2002
+2553,LVA,Latvia,4.83,2004
+2554,LVA,Latvia,4.63,2007
+2555,LVA,Latvia,5.52,2009
+2556,LVA,Latvia,5.07,2011
+2557,LVA,Latvia,7.00,2013
+2558,LVA,Latvia,5.28,2015
+2559,LVA,Latvia,4.37,2017
+2560,LVA,Latvia,4.43,2019
+2561,LBN,Lebanon,1.93,1994
+2562,LBN,Lebanon,2.08,1996
+2563,LBN,Lebanon,2.55,2002
+2564,LBN,Lebanon,2.65,2005
+2565,LBN,Lebanon,2.58,2007
+2566,LBN,Lebanon,1.77,2009
+2567,LBN,Lebanon,1.65,2011
+2568,LBN,Lebanon,2.43,2013
+2569,LBN,Lebanon,2.10,2015
+2570,LBN,Lebanon,2.52,2018
+2571,LBN,Lebanon,1.69,2020
+2572,LSO,Lesotho,4.53,1972
+2573,LSO,Lesotho,4.23,1974
+2574,LSO,Lesotho,6.43,1984
+2575,LSO,Lesotho,7.22,1988
+2576,LSO,Lesotho,8.58,1993
+2577,LSO,Lesotho,8.64,1995
+2578,LSO,Lesotho,12.50,1999
+2579,LSO,Lesotho,9.37,2001
+2580,LSO,Lesotho,10.10,2002
+2581,LSO,Lesotho,12.08,2005
+2582,LSO,Lesotho,12.33,2008
+2583,LSO,Lesotho,8.17,2011
+2584,LSO,Lesotho,7.29,2013
+2585,LSO,Lesotho,9.00,2015
+2586,LSO,Lesotho,8.16,2017
+2587,LSO,Lesotho,7.99,2019
+2588,LSO,Lesotho,8.70,2021
+2589,LBR,Liberia,1.78,2012
+2590,LBR,Liberia,2.20,2014
+2591,LBR,Liberia,2.15,2016
+2592,LBR,Liberia,2.27,2019
+2593,LBR,Liberia,2.69,2021
+2594,KAZ,Kazakhstan,2.83,2007
+2595,KAZ,Kazakhstan,2.59,2008
+2596,KAZ,Kazakhstan,3.46,2010
+2597,KAZ,Kazakhstan,3.44,2013
+2598,KAZ,Kazakhstan,2.98,2016
+2599,KAZ,Kazakhstan,2.62,2018
+2600,KAZ,Kazakhstan,4.45,2020
+2601,KEN,Kenya,4.48,1972
+2602,KEN,Kenya,5.07,1974
+2603,KEN,Kenya,5.74,1976
+2604,KEN,Kenya,5.39,1980
+2605,KEN,Kenya,5.68,1982
+2606,KEN,Kenya,4.58,1984
+2607,KEN,Kenya,6.60,1988
+2608,KEN,Kenya,6.57,1991
+2609,KEN,Kenya,6.03,1993
+2610,KEN,Kenya,5.19,2000
+2611,KEN,Kenya,6.17,2002
+2612,KEN,Kenya,7.34,2005
+2613,KEN,Kenya,7.05,2006
+2614,KEN,Kenya,4.70,2011
+2615,KEN,Kenya,4.72,2014
+2616,KEN,Kenya,4.90,2016
+2617,KEN,Kenya,4.96,2017
+2618,KEN,Kenya,4.97,2019
+2619,KEN,Kenya,4.80,2021
+2620,KIR,Kiribati,4.27,1971
+2621,KIR,Kiribati,10.87,1999
+2622,KIR,Kiribati,11.99,2001
+2623,KIR,Kiribati,13.38,2012
+2624,KIR,Kiribati,11.23,2014
+2625,KIR,Kiribati,10.09,2016
+2626,KIR,Kiribati,11.97,2018
+2627,KWT,Kuwait,3.29,1971
+2628,KWT,Kuwait,2.82,1972
+2629,KWT,Kuwait,3.52,1974
+2630,KWT,Kuwait,3.37,1977
+2631,KWT,Kuwait,3.43,1979
+2632,KWT,Kuwait,2.72,1981
+2633,KWT,Kuwait,5.15,1984
+2634,KWT,Kuwait,5.40,1986
+2635,KWT,Kuwait,5.58,1997
+2636,KWT,Kuwait,6.55,2002
+2637,KWT,Kuwait,4.74,2005
+2638,KWT,Kuwait,2.77,2008
+2639,KWT,Kuwait,3.57,2010
+2640,KWT,Kuwait,3.88,2013
+2641,KWT,Kuwait,4.77,2015
+2642,KWT,Kuwait,6.37,2017
+2643,KWT,Kuwait,6.49,2019
+2644,KGZ,Kyrgyzstan,5.59,1994
+2645,KGZ,Kyrgyzstan,4.90,1996
+2646,KGZ,Kyrgyzstan,3.51,2000
+2647,KGZ,Kyrgyzstan,4.45,2002
+2648,KGZ,Kyrgyzstan,4.62,2004
+2649,KGZ,Kyrgyzstan,5.55,2006
+2650,KGZ,Kyrgyzstan,5.91,2008
+2651,KGZ,Kyrgyzstan,5.82,2010
+2652,KGZ,Kyrgyzstan,7.38,2012
+2653,KGZ,Kyrgyzstan,5.53,2014
+2654,KGZ,Kyrgyzstan,6.59,2016
+2655,KGZ,Kyrgyzstan,5.55,2018
+2656,KGZ,Kyrgyzstan,6.21,2020
+2657,LAO,Laos,2.43,1996
+2658,LAO,Laos,1.99,2001
+2659,LAO,Laos,2.41,2005
+2660,LAO,Laos,3.08,2007
+2661,LAO,Laos,1.65,2009
+2662,LAO,Laos,1.71,2011
+2663,LAO,Laos,3.23,2013
+2664,LAO,Laos,2.74,2015
+2665,LAO,Laos,2.50,2017
+2666,LAO,Laos,2.48,2019
+2667,,Latin America and Caribbean (WB),2.99,1995
+2668,,Latin America and Caribbean (WB),3.78,2000
+2669,,Latin America and Caribbean (WB),3.88,2002
+2670,,Latin America and Caribbean (WB),3.75,2004
+2671,,Latin America and Caribbean (WB),4.64,2008
+2672,,Latin America and Caribbean (WB),4.83,2010
+2673,,Latin America and Caribbean (WB),4.84,2013
+2674,,Latin America and Caribbean (WB),4.47,2015
+2675,,Latin America and Caribbean (WB),4.36,2017
+2676,,Latin America and Caribbean (WB),4.25,2020
+2677,LVA,Latvia,5.51,1997
+2678,LVA,Latvia,5.27,2000
+2679,LVA,Latvia,5.45,2001
+2680,LVA,Latvia,5.06,2003
+2681,LVA,Latvia,4.68,2006
+2682,LVA,Latvia,5.37,2008
+2683,LVA,Latvia,5.04,2010
+2684,LVA,Latvia,6.58,2012
+2685,LVA,Latvia,5.28,2014
+2686,LVA,Latvia,4.66,2016
+2687,LVA,Latvia,4.24,2018
+2688,LVA,Latvia,5.97,2020
+2689,LBN,Lebanon,1.67,1993
+2690,LBN,Lebanon,2.22,1995
+2691,LBN,Lebanon,2.84,2001
+2692,LBN,Lebanon,2.64,2004
+2693,LBN,Lebanon,2.78,2006
+2694,LBN,Lebanon,2.01,2008
+2695,LBN,Lebanon,1.61,2010
+2696,LBN,Lebanon,2.15,2012
+2697,LBN,Lebanon,2.00,2014
+2698,LBN,Lebanon,2.12,2016
+2699,LBN,Lebanon,2.13,2017
+2700,LBN,Lebanon,2.59,2019
+2701,LSO,Lesotho,4.64,1971
+2702,LSO,Lesotho,4.87,1973
+2703,LSO,Lesotho,10.10,1983
+2704,LSO,Lesotho,7.09,1985
+2705,LSO,Lesotho,6.20,1989
+2706,LSO,Lesotho,7.03,1994
+2707,LSO,Lesotho,11.36,1997
+2708,LSO,Lesotho,10.09,2000
+2709,LSO,Lesotho,13.22,2003
+2710,LSO,Lesotho,11.11,2004
+2711,LSO,Lesotho,11.27,2006
+2712,LSO,Lesotho,7.67,2012
+2713,LSO,Lesotho,7.20,2014
+2714,LSO,Lesotho,7.76,2016
+2715,LSO,Lesotho,7.29,2018
+2716,LSO,Lesotho,7.67,2020
+2717,LBR,Liberia,1.70,2008
+2718,LBR,Liberia,2.24,2011
+2719,LBR,Liberia,1.69,2013
+2720,LBR,Liberia,2.17,2015
+2721,LBR,Liberia,2.66,2017
+2722,LBR,Liberia,2.50,2018
+2723,LBR,Liberia,2.31,2020
+2724,LBY,Libya,2.26,1999
+2725,LIE,Liechtenstein,2.46,2003
+2726,LIE,Liechtenstein,2.43,2004
+2727,LIE,Liechtenstein,2.05,2006
+2728,LIE,Liechtenstein,1.92,2007
+2729,LIE,Liechtenstein,2.05,2008
+2730,LIE,Liechtenstein,2.56,2011
+2731,LTU,Lithuania,4.77,1995
+2732,LTU,Lithuania,5.45,1997
+2733,LTU,Lithuania,4.85,1996
+2734,LTU,Lithuania,6.12,1998
+2735,LTU,Lithuania,5.85,2001
+2736,LTU,Lithuania,5.80,2002
+2737,LTU,Lithuania,5.17,2004
+2738,LTU,Lithuania,4.83,2006
+2739,LTU,Lithuania,4.84,2008
+2740,LTU,Lithuania,5.30,2010
+2741,LTU,Lithuania,4.76,2012
+2742,LTU,Lithuania,4.23,2015
+2743,LTU,Lithuania,3.81,2017
+2744,LTU,Lithuania,3.97,2019
+2745,LUX,Luxembourg,2.86,1971
+2746,LUX,Luxembourg,2.74,1972
+2747,LUX,Luxembourg,3.42,1975
+2748,LUX,Luxembourg,3.69,1977
+2749,LUX,Luxembourg,4.40,1979
+2750,LUX,Luxembourg,4.55,1980
+2751,LUX,Luxembourg,5.28,1982
+2752,LUX,Luxembourg,3.79,1986
+2753,LUX,Luxembourg,3.87,1989
+2754,LUX,Luxembourg,3.48,1996
+2755,LUX,Luxembourg,5.29,2010
+2756,LUX,Luxembourg,5.12,2011
+2757,LUX,Luxembourg,3.91,2013
+2758,LUX,Luxembourg,3.77,2015
+2759,LUX,Luxembourg,3.49,2016
+2760,LUX,Luxembourg,3.65,2018
+2761,LUX,Luxembourg,4.97,2020
+2762,MAC,Macao,3.34,1999
+2763,MAC,Macao,2.71,2001
+2764,MAC,Macao,2.84,2002
+2765,MAC,Macao,2.23,2004
+2766,MAC,Macao,2.19,2006
+2767,MAC,Macao,2.04,2007
+2768,MAC,Macao,2.53,2009
+2769,MAC,Macao,2.62,2010
+2770,MAC,Macao,3.33,2012
+2771,MAC,Macao,2.05,2014
+2772,MAC,Macao,3.10,2016
+2773,MAC,Macao,2.71,2017
+2774,MAC,Macao,3.06,2019
+2775,MAC,Macao,6.30,2020
+2776,MDG,Madagascar,2.71,1973
+2777,MDG,Madagascar,2.52,1975
+2778,MDG,Madagascar,5.05,1977
+2779,MDG,Madagascar,3.36,1980
+2780,MDG,Madagascar,2.88,1981
+2781,MDG,Madagascar,1.99,1983
+2782,MDG,Madagascar,2.07,1985
+2783,MDG,Madagascar,1.54,1997
+2784,MDG,Madagascar,1.59,1998
+2785,MDG,Madagascar,2.44,2000
+2786,MDG,Madagascar,2.23,2002
+2787,MDG,Madagascar,2.81,2004
+2788,MDG,Madagascar,3.31,2005
+2789,MDG,Madagascar,2.90,2007
+2790,MDG,Madagascar,2.75,2010
+2791,MDG,Madagascar,2.34,2012
+2792,MDG,Madagascar,1.78,2013
+2793,MDG,Madagascar,2.21,2015
+2794,MDG,Madagascar,2.69,2016
+2795,MDG,Madagascar,2.84,2018
+2796,MDG,Madagascar,2.99,2019
+2797,MWI,Malawi,4.40,1971
+2798,MWI,Malawi,3.33,1973
+2799,MWI,Malawi,3.09,1974
+2800,MWI,Malawi,3.20,1986
+2801,MWI,Malawi,3.53,1987
+2802,MWI,Malawi,3.18,1989
+2803,MWI,Malawi,4.01,1995
+2804,MWI,Malawi,4.99,1999
+2805,MWI,Malawi,4.51,2001
+2806,MWI,Malawi,3.22,2003
+2807,MWI,Malawi,3.68,2012
+2808,MWI,Malawi,5.42,2013
+2809,MWI,Malawi,5.61,2015
+2810,MWI,Malawi,4.03,2017
+2811,MWI,Malawi,3.71,2019
+2812,MWI,Malawi,2.91,2020
+2813,MYS,Malaysia,5.09,1979
+2814,MYS,Malaysia,6.70,1981
+2815,MYS,Malaysia,5.67,1984
+2816,MYS,Malaysia,7.24,1986
+2817,MYS,Malaysia,5.11,1992
+2818,MYS,Malaysia,4.71,1994
+2819,MYS,Malaysia,4.34,1995
+2820,MYS,Malaysia,4.62,1997
+2821,MYS,Malaysia,5.97,2000
+2822,MYS,Malaysia,7.66,2002
+2823,MYS,Malaysia,5.92,2004
+2824,MYS,Malaysia,4.37,2007
+2825,MYS,Malaysia,5.97,2009
+2826,MYS,Malaysia,5.76,2011
+2827,MYS,Malaysia,5.48,2013
+2828,MYS,Malaysia,4.89,2015
+2829,MYS,Malaysia,4.68,2017
+2830,MYS,Malaysia,4.48,2018
+2831,MYS,Malaysia,3.92,2020
+2832,MDV,Maldives,5.32,2003
+2833,MDV,Maldives,5.02,2005
+2834,MDV,Maldives,4.65,2006
+2835,MDV,Maldives,4.47,2008
+2836,MDV,Maldives,3.63,2010
+2837,MDV,Maldives,3.08,2011
+2838,MDV,Maldives,3.09,2014
+2839,MDV,Maldives,3.69,2016
+2840,MDV,Maldives,3.91,2018
+2841,MDV,Maldives,5.80,2020
+2842,MLI,Mali,3.47,1980
+2843,MLI,Mali,3.45,1981
+2844,MLI,Mali,2.44,1986
+2845,MLI,Mali,2.23,1999
+2846,MLI,Mali,2.66,2001
+2847,MLI,Mali,3.81,2003
+2848,MLI,Mali,3.52,2005
+2849,MLI,Mali,3.87,2009
+2850,MLI,Mali,3.34,2010
+2851,MLI,Mali,3.48,2012
+2852,MLI,Mali,3.65,2014
+2853,MLI,Mali,3.80,2015
+2854,MLI,Mali,3.79,2017
+2855,MLI,Mali,3.48,2019
+2856,MLI,Mali,4.40,2021
+2857,MLT,Malta,5.55,1972
+2858,MLT,Malta,4.49,1974
+2859,MLT,Malta,3.83,1976
+2860,MLT,Malta,3.35,1978
+2861,MLT,Malta,2.87,1981
+2862,MLT,Malta,3.31,1983
+2863,MLT,Malta,3.25,1985
+2864,MLT,Malta,3.11,1986
+2865,MLT,Malta,3.59,1989
+2866,MLT,Malta,3.83,1990
+2867,MLT,Malta,4.31,1992
+2868,MLT,Malta,4.14,2002
+2869,MLT,Malta,4.43,2004
+2870,MLT,Malta,5.50,2008
+2871,MLT,Malta,6.25,2010
+2872,MLT,Malta,6.35,2012
+2873,MLT,Malta,7.00,2014
+2874,MLT,Malta,5.08,2016
+2875,MLT,Malta,5.14,2018
+2876,MLT,Malta,5.87,2020
+2877,MHL,Marshall Islands,8.21,2002
+2878,MHL,Marshall Islands,11.82,2003
+2879,MHL,Marshall Islands,17.56,2008
+2880,MHL,Marshall Islands,23.27,2009
+2881,MHL,Marshall Islands,20.59,2010
+2882,MHL,Marshall Islands,19.71,2011
+2883,MHL,Marshall Islands,15.59,2012
+2884,LTU,Lithuania,5.11,2003
+2885,LTU,Lithuania,4.88,2005
+2886,LTU,Lithuania,4.60,2007
+2887,LTU,Lithuania,5.59,2009
+2888,LTU,Lithuania,5.11,2011
+2889,LTU,Lithuania,4.60,2013
+2890,LTU,Lithuania,4.49,2014
+2891,LTU,Lithuania,4.00,2016
+2892,LTU,Lithuania,3.89,2018
+2893,LUX,Luxembourg,2.30,1970
+2894,LUX,Luxembourg,2.81,1973
+2895,LUX,Luxembourg,3.61,1976
+2896,LUX,Luxembourg,4.34,1978
+2897,LUX,Luxembourg,4.69,1981
+2898,LUX,Luxembourg,3.32,1983
+2899,LUX,Luxembourg,4.08,1987
+2900,LUX,Luxembourg,4.01,1988
+2901,LUX,Luxembourg,3.66,1995
+2902,LUX,Luxembourg,3.54,2001
+2903,LUX,Luxembourg,3.88,2012
+2904,LUX,Luxembourg,3.86,2014
+2905,LUX,Luxembourg,3.49,2017
+2906,LUX,Luxembourg,3.72,2019
+2907,MAC,Macao,3.35,1998
+2908,MAC,Macao,3.31,2000
+2909,MAC,Macao,2.78,2003
+2910,MAC,Macao,2.28,2005
+2911,MAC,Macao,2.20,2008
+2912,MAC,Macao,2.68,2011
+2913,MAC,Macao,2.05,2013
+2914,MAC,Macao,3.00,2015
+2915,MAC,Macao,2.73,2018
+2916,MDG,Madagascar,3.22,1972
+2917,MDG,Madagascar,2.67,1974
+2918,MDG,Madagascar,3.26,1976
+2919,MDG,Madagascar,3.97,1979
+2920,MDG,Madagascar,2.32,1982
+2921,MDG,Madagascar,2.20,1984
+2922,MDG,Madagascar,1.78,1993
+2923,MDG,Madagascar,2.41,1999
+2924,MDG,Madagascar,2.71,2001
+2925,MDG,Madagascar,2.61,2003
+2926,MDG,Madagascar,2.83,2006
+2927,MDG,Madagascar,2.55,2008
+2928,MDG,Madagascar,2.83,2009
+2929,MDG,Madagascar,2.38,2011
+2930,MDG,Madagascar,2.38,2014
+2931,MDG,Madagascar,2.70,2017
+2932,MDG,Madagascar,3.10,2020
+2933,MWI,Malawi,3.38,1972
+2934,MWI,Malawi,2.70,1975
+2935,MWI,Malawi,2.42,1976
+2936,MWI,Malawi,3.17,1988
+2937,MWI,Malawi,3.27,1990
+2938,MWI,Malawi,5.38,1996
+2939,MWI,Malawi,5.25,2000
+2940,MWI,Malawi,3.54,2010
+2941,MWI,Malawi,4.15,2011
+2942,MWI,Malawi,4.84,2014
+2943,MWI,Malawi,4.75,2016
+2944,MWI,Malawi,3.32,2018
+2945,MYS,Malaysia,4.55,1971
+2946,MYS,Malaysia,5.73,1980
+2947,MYS,Malaysia,7.03,1982
+2948,MYS,Malaysia,6.11,1985
+2949,MYS,Malaysia,6.33,1987
+2950,MYS,Malaysia,4.65,1993
+2951,MYS,Malaysia,4.91,1996
+2952,MYS,Malaysia,5.69,1999
+2953,MYS,Malaysia,7.48,2001
+2954,MYS,Malaysia,7.50,2003
+2955,MYS,Malaysia,4.49,2006
+2956,MYS,Malaysia,3.96,2008
+2957,MYS,Malaysia,4.97,2010
+2958,MYS,Malaysia,5.74,2012
+2959,MYS,Malaysia,5.21,2014
+2960,MYS,Malaysia,4.75,2016
+2961,MYS,Malaysia,4.16,2019
+2962,MDV,Maldives,5.79,2002
+2963,MDV,Maldives,4.66,2004
+2964,MDV,Maldives,4.42,2007
+2965,MDV,Maldives,5.08,2009
+2966,MDV,Maldives,3.34,2012
+2967,MDV,Maldives,3.39,2013
+2968,MDV,Maldives,3.89,2015
+2969,MDV,Maldives,3.89,2017
+2970,MDV,Maldives,4.12,2019
+2971,MLI,Mali,3.56,1978
+2972,MLI,Mali,3.28,1982
+2973,MLI,Mali,2.65,1998
+2974,MLI,Mali,2.97,2000
+2975,MLI,Mali,2.90,2002
+2976,MLI,Mali,3.86,2004
+2977,MLI,Mali,3.40,2008
+2978,MLI,Mali,3.75,2011
+2979,MLI,Mali,3.28,2013
+2980,MLI,Mali,3.09,2016
+2981,MLI,Mali,3.91,2018
+2982,MLI,Mali,3.76,2020
+2983,MLT,Malta,6.15,1971
+2984,MLT,Malta,5.27,1973
+2985,MLT,Malta,4.42,1975
+2986,MLT,Malta,3.90,1977
+2987,MLT,Malta,3.15,1979
+2988,MLT,Malta,2.85,1982
+2989,MLT,Malta,3.08,1984
+2990,MLT,Malta,3.17,1987
+2991,MLT,Malta,3.34,1988
+2992,MLT,Malta,3.92,1991
+2993,MLT,Malta,4.18,1998
+2994,MLT,Malta,5.95,2007
+2995,MLT,Malta,5.07,2009
+2996,MLT,Malta,7.70,2011
+2997,MLT,Malta,7.58,2013
+2998,MLT,Malta,5.02,2015
+2999,MLT,Malta,4.65,2017
+3000,MLT,Malta,4.99,2019
+3001,MHL,Marshall Islands,13.73,1999
+3002,MHL,Marshall Islands,15.99,2013
+3003,MHL,Marshall Islands,15.67,2014
+3004,MHL,Marshall Islands,15.28,2016
+3005,MHL,Marshall Islands,17.63,2015
+3006,MHL,Marshall Islands,15.22,2017
+3007,MHL,Marshall Islands,15.20,2018
+3008,MHL,Marshall Islands,13.63,2020
+3009,MHL,Marshall Islands,15.75,2019
+3010,MRT,Mauritania,1.59,1997
+3011,MRT,Mauritania,1.72,1999
+3012,MRT,Mauritania,2.11,2001
+3013,MRT,Mauritania,2.28,2002
+3014,MRT,Mauritania,2.37,2003
+3015,MRT,Mauritania,1.95,2004
+3016,MRT,Mauritania,2.33,2011
+3017,MRT,Mauritania,1.96,2006
+3018,MRT,Mauritania,2.29,2013
+3019,MRT,Mauritania,2.16,2012
+3020,MRT,Mauritania,2.56,2014
+3021,MRT,Mauritania,2.83,2015
+3022,MRT,Mauritania,1.94,2016
+3023,MRT,Mauritania,1.88,2020
+3024,MRT,Mauritania,1.82,2019
+3025,MUS,Mauritius,4.44,1977
+3026,MUS,Mauritius,5.57,1978
+3027,MUS,Mauritius,5.05,1981
+3028,MUS,Mauritius,4.60,1982
+3029,MUS,Mauritius,4.45,1983
+3030,MUS,Mauritius,3.96,1985
+3031,MUS,Mauritius,3.13,1988
+3032,MUS,Mauritius,3.52,1989
+3033,MUS,Mauritius,3.51,1991
+3034,MUS,Mauritius,3.77,2000
+3035,MUS,Mauritius,3.06,2002
+3036,MUS,Mauritius,4.31,2004
+3037,MUS,Mauritius,3.70,2006
+3038,MUS,Mauritius,3.06,2008
+3039,MUS,Mauritius,3.55,2010
+3040,MUS,Mauritius,3.42,2012
+3041,MUS,Mauritius,4.92,2014
+3042,MUS,Mauritius,5.01,2016
+3043,MUS,Mauritius,4.83,2018
+3044,MUS,Mauritius,4.61,2020
+3045,MEX,Mexico,2.28,1989
+3046,MEX,Mexico,2.55,1991
+3047,MEX,Mexico,3.65,1994
+3048,MEX,Mexico,3.37,1998
+3049,MEX,Mexico,3.54,1999
+3050,MEX,Mexico,4.24,2001
+3051,MEX,Mexico,4.45,2002
+3052,MEX,Mexico,4.73,2004
+3053,MEX,Mexico,4.70,2006
+3054,MEX,Mexico,4.82,2008
+3055,MEX,Mexico,5.19,2009
+3056,MEX,Mexico,5.11,2011
+3057,MEX,Mexico,4.70,2013
+3058,MEX,Mexico,5.23,2015
+3059,MEX,Mexico,4.52,2017
+3060,FSM,Micronesia (country),6.42,1999
+3061,FSM,Micronesia (country),12.41,2015
+3062,FSM,Micronesia (country),9.70,2018
+3063,,Middle East and North Africa (WB),5.45,1982
+3064,,Middle East and North Africa (WB),4.62,2006
+3065,,Middle East and North Africa (WB),4.28,2008
+3066,,Middle East and North Africa (WB),4.05,2010
+3067,,Middle East and North Africa (WB),3.75,2012
+3068,,Middle East and North Africa (WB),4.03,2014
+3069,,Middle East and North Africa (WB),4.71,2016
+3070,,Middle East and North Africa (WB),5.21,2018
+3071,,Middle East and North Africa (WB),3.77,2020
+3072,MDA,Moldova,4.66,1999
+3073,MDA,Moldova,4.85,2001
+3074,MDA,Moldova,5.42,2003
+3075,MDA,Moldova,7.16,2005
+3076,MDA,Moldova,8.29,2007
+3077,MDA,Moldova,9.51,2009
+3078,MDA,Moldova,6.98,2012
+3079,MDA,Moldova,6.27,2014
+3080,MDA,Moldova,5.61,2016
+3081,MDA,Moldova,5.44,2018
+3082,MDA,Moldova,6.39,2020
+3083,MCO,Monaco,0.88,1988
+3084,MCO,Monaco,0.91,1992
+3085,MCO,Monaco,1.08,1996
+3086,MCO,Monaco,1.21,1998
+3087,MCO,Monaco,1.20,1999
+3088,MCO,Monaco,1.24,2004
+3089,MCO,Monaco,1.35,2009
+3090,MCO,Monaco,1.59,2011
+3091,MCO,Monaco,1.33,2013
+3092,MCO,Monaco,1.37,2016
+3093,MCO,Monaco,1.15,2019
+3094,MNG,Mongolia,3.95,1997
+3095,MNG,Mongolia,5.15,1999
+3096,MNG,Mongolia,7.21,2002
+3097,MNG,Mongolia,4.69,2007
+3098,MNG,Mongolia,4.65,2010
+3099,MNG,Mongolia,5.24,2013
+3100,MNG,Mongolia,5.20,2016
+3101,MNG,Mongolia,4.32,2017
+3102,MNG,Mongolia,11.78,2019
+3103,MAR,Morocco,4.67,1973
+3104,MAR,Morocco,5.21,1975
+3105,MAR,Morocco,6.08,1977
+3106,MAR,Morocco,6.32,1979
+3107,MAR,Morocco,5.69,1981
+3108,MAR,Morocco,6.17,1983
+3109,MAR,Morocco,5.19,1984
+3110,MAR,Morocco,5.26,1986
+3111,MAR,Morocco,4.58,1988
+3112,MAR,Morocco,4.51,1990
+3113,MAR,Morocco,4.82,1993
+3114,MAR,Morocco,5.12,1998
+3115,MAR,Morocco,5.34,2008
+3116,MAR,Morocco,6.04,2012
+3117,MAR,Morocco,4.65,2015
+3118,MAR,Morocco,5.12,2017
+3119,MAR,Morocco,5.93,2019
+3120,MOZ,Mozambique,1.90,1998
+3121,MOZ,Mozambique,3.33,2004
+3122,MOZ,Mozambique,3.87,2006
+3123,MOZ,Mozambique,6.26,2011
+3124,MOZ,Mozambique,6.12,2013
+3125,MOZ,Mozambique,6.01,2015
+3126,MOZ,Mozambique,5.51,2017
+3127,MOZ,Mozambique,6.08,2019
+3128,MMR,Myanmar,2.89,1972
+3129,MMR,Myanmar,2.47,1975
+3130,MMR,Myanmar,1.89,1976
+3131,MMR,Myanmar,1.71,1978
+3132,MMR,Myanmar,0.90,2010
+3133,MMR,Myanmar,0.85,2011
+3134,MMR,Myanmar,2.10,2013
+3135,MMR,Myanmar,2.10,2015
+3136,MMR,Myanmar,2.16,2018
+3137,MMR,Myanmar,2.14,2019
+3138,NAM,Namibia,6.90,2000
+3139,NAM,Namibia,6.74,2002
+3140,NAM,Namibia,6.03,2006
+3141,NAM,Namibia,8.24,2010
+3142,NAM,Namibia,7.79,2012
+3143,NAM,Namibia,9.58,2014
+3144,NAM,Namibia,9.85,2015
+3145,NAM,Namibia,9.71,2017
+3146,NAM,Namibia,8.93,2019
+3147,NAM,Namibia,9.45,2020
+3148,NRU,Nauru,5.50,2014
+3149,NRU,Nauru,6.20,2016
+3150,NRU,Nauru,5.88,2018
+3151,NRU,Nauru,5.17,2020
+3152,NPL,Nepal,2.89,1998
+3153,NPL,Nepal,2.98,2000
+3154,NPL,Nepal,3.71,2001
+3155,NPL,Nepal,3.11,2003
+3156,NPL,Nepal,3.17,2004
+3157,NPL,Nepal,3.61,2006
+3158,NPL,Nepal,3.81,2008
+3159,NPL,Nepal,3.63,2010
+3160,NPL,Nepal,3.53,2012
+3161,NPL,Nepal,3.49,2014
+3162,NPL,Nepal,3.48,2016
+3163,NPL,Nepal,3.66,2018
+3164,NPL,Nepal,4.18,2020
+3165,NLD,Netherlands,4.90,1960
+3166,NLD,Netherlands,6.33,1971
+3167,NLD,Netherlands,5.84,1973
+3168,NLD,Netherlands,6.37,1975
+3169,NLD,Netherlands,6.18,1977
+3170,MUS,Mauritius,4.09,1984
+3171,MUS,Mauritius,3.48,1986
+3172,MUS,Mauritius,3.06,1987
+3173,MUS,Mauritius,3.17,1990
+3174,MUS,Mauritius,3.94,1999
+3175,MUS,Mauritius,3.11,2001
+3176,MUS,Mauritius,4.42,2003
+3177,MUS,Mauritius,4.08,2005
+3178,MUS,Mauritius,3.19,2007
+3179,MUS,Mauritius,3.05,2009
+3180,MUS,Mauritius,3.33,2011
+3181,MUS,Mauritius,3.62,2013
+3182,MUS,Mauritius,4.89,2015
+3183,MUS,Mauritius,5.02,2017
+3184,MUS,Mauritius,4.72,2019
+3185,MUS,Mauritius,4.88,2021
+3186,MEX,Mexico,2.32,1990
+3187,MEX,Mexico,3.01,1992
+3188,MEX,Mexico,3.69,1995
+3189,MEX,Mexico,3.99,2000
+3190,MEX,Mexico,5.07,2003
+3191,MEX,Mexico,4.85,2005
+3192,MEX,Mexico,4.69,2007
+3193,MEX,Mexico,5.16,2010
+3194,MEX,Mexico,5.10,2012
+3195,MEX,Mexico,5.26,2014
+3196,MEX,Mexico,4.91,2016
+3197,MEX,Mexico,4.25,2018
+3198,FSM,Micronesia (country),6.71,2000
+3199,FSM,Micronesia (country),13.51,2016
+3200,FSM,Micronesia (country),12.42,2017
+3201,,Middle East and North Africa (WB),4.55,1977
+3202,,Middle East and North Africa (WB),5.33,1986
+3203,,Middle East and North Africa (WB),4.67,1996
+3204,,Middle East and North Africa (WB),6.20,2001
+3205,,Middle East and North Africa (WB),5.37,2004
+3206,,Middle East and North Africa (WB),4.79,2005
+3207,,Middle East and North Africa (WB),4.73,2007
+3208,,Middle East and North Africa (WB),4.02,2009
+3209,,Middle East and North Africa (WB),3.48,2011
+3210,,Middle East and North Africa (WB),4.07,2013
+3211,,Middle East and North Africa (WB),4.21,2015
+3212,,Middle East and North Africa (WB),4.26,2017
+3213,,Middle East and North Africa (WB),3.87,2019
+3214,MDA,Moldova,9.90,1996
+3215,MDA,Moldova,4.49,2000
+3216,MDA,Moldova,5.50,2002
+3217,MDA,Moldova,6.77,2004
+3218,MDA,Moldova,7.50,2006
+3219,MDA,Moldova,8.24,2008
+3220,MDA,Moldova,7.59,2010
+3221,MDA,Moldova,7.14,2011
+3222,MDA,Moldova,5.91,2013
+3223,MDA,Moldova,5.81,2015
+3224,MDA,Moldova,5.62,2017
+3225,MDA,Moldova,6.10,2019
+3226,MCO,Monaco,0.96,1989
+3227,MCO,Monaco,1.06,1995
+3228,MCO,Monaco,1.21,1997
+3229,MCO,Monaco,1.26,2000
+3230,MCO,Monaco,1.32,2010
+3231,MCO,Monaco,1.78,2012
+3232,MCO,Monaco,1.02,2014
+3233,MCO,Monaco,1.46,2017
+3234,MNG,Mongolia,5.49,1998
+3235,MNG,Mongolia,5.55,2000
+3236,MNG,Mongolia,4.33,2004
+3237,MNG,Mongolia,5.14,2009
+3238,MNG,Mongolia,4.61,2011
+3239,MNG,Mongolia,5.96,2012
+3240,MNG,Mongolia,5.43,2014
+3241,MNG,Mongolia,4.39,2015
+3242,MNG,Mongolia,9.86,2018
+3243,MNG,Mongolia,4.66,2020
+3244,MAR,Morocco,4.28,1974
+3245,MAR,Morocco,6.03,1976
+3246,MAR,Morocco,6.20,1978
+3247,MAR,Morocco,5.10,1980
+3248,MAR,Morocco,6.12,1982
+3249,MAR,Morocco,5.10,1985
+3250,MAR,Morocco,5.16,1987
+3251,MAR,Morocco,4.76,1989
+3252,MAR,Morocco,4.30,1991
+3253,MAR,Morocco,4.73,1995
+3254,MAR,Morocco,5.14,1999
+3255,MAR,Morocco,5.26,2009
+3256,MAR,Morocco,5.93,2014
+3257,MAR,Morocco,5.49,2016
+3258,MAR,Morocco,5.35,2018
+3259,MAR,Morocco,6.75,2020
+3260,MOZ,Mozambique,2.78,1999
+3261,MOZ,Mozambique,4.01,2005
+3262,MOZ,Mozambique,5.95,2010
+3263,MOZ,Mozambique,5.67,2012
+3264,MOZ,Mozambique,6.88,2014
+3265,MOZ,Mozambique,5.87,2016
+3266,MOZ,Mozambique,5.45,2018
+3267,MOZ,Mozambique,6.26,2020
+3268,MMR,Myanmar,3.33,1973
+3269,MMR,Myanmar,1.76,1977
+3270,MMR,Myanmar,1.36,1995
+3271,MMR,Myanmar,1.60,2012
+3272,MMR,Myanmar,1.90,2014
+3273,MMR,Myanmar,1.90,2016
+3274,MMR,Myanmar,2.33,2017
+3275,NAM,Namibia,7.13,1999
+3276,NAM,Namibia,6.89,2001
+3277,NAM,Namibia,6.14,2003
+3278,NAM,Namibia,6.40,2008
+3279,NAM,Namibia,7.40,2011
+3280,NAM,Namibia,8.61,2013
+3281,NAM,Namibia,10.64,2016
+3282,NAM,Namibia,8.88,2018
+3283,NAM,Namibia,9.64,2021
+3284,NRU,Nauru,4.25,2007
+3285,NRU,Nauru,5.59,2015
+3286,NRU,Nauru,6.62,2017
+3287,NRU,Nauru,5.60,2019
+3288,NRU,Nauru,7.09,2021
+3289,NPL,Nepal,2.89,1999
+3290,NPL,Nepal,3.15,2002
+3291,NPL,Nepal,3.36,2005
+3292,NPL,Nepal,3.52,2007
+3293,NPL,Nepal,4.66,2009
+3294,NPL,Nepal,3.84,2011
+3295,NPL,Nepal,3.20,2013
+3296,NPL,Nepal,3.29,2015
+3297,NPL,Nepal,3.53,2017
+3298,NPL,Nepal,3.49,2019
+3299,NLD,Netherlands,1.50,1937
+3300,NLD,Netherlands,6.22,1970
+3301,NLD,Netherlands,6.32,1972
+3302,NLD,Netherlands,6.34,1974
+3303,NLD,Netherlands,6.31,1976
+3304,NLD,Netherlands,6.18,1978
+3305,NLD,Netherlands,6.09,1979
+3306,NLD,Netherlands,5.89,1980
+3307,NLD,Netherlands,5.75,1981
+3308,NLD,Netherlands,5.70,1982
+3309,NLD,Netherlands,5.50,1983
+3310,NLD,Netherlands,5.09,1984
+3311,NLD,Netherlands,5.47,1985
+3312,NLD,Netherlands,5.56,1986
+3313,NLD,Netherlands,5.90,1987
+3314,NLD,Netherlands,5.47,1988
+3315,NLD,Netherlands,5.23,1990
+3316,NLD,Netherlands,5.16,1991
+3317,NLD,Netherlands,4.76,1993
+3318,NLD,Netherlands,4.66,1994
+3319,NLD,Netherlands,4.58,1995
+3320,NLD,Netherlands,4.54,1998
+3321,NLD,Netherlands,4.49,1996
+3322,NLD,Netherlands,4.51,1999
+3323,NLD,Netherlands,4.59,2000
+3324,NLD,Netherlands,4.70,2001
+3325,NLD,Netherlands,4.81,2002
+3326,NLD,Netherlands,5.04,2003
+3327,NLD,Netherlands,5.06,2004
+3328,NLD,Netherlands,5.11,2005
+3329,NLD,Netherlands,5.04,2006
+3330,NLD,Netherlands,4.89,2007
+3331,NLD,Netherlands,5.43,2009
+3332,NLD,Netherlands,5.03,2008
+3333,NLD,Netherlands,5.49,2010
+3334,NLD,Netherlands,5.46,2011
+3335,NLD,Netherlands,5.41,2012
+3336,NLD,Netherlands,5.53,2013
+3337,NLD,Netherlands,5.46,2014
+3338,NLD,Netherlands,5.35,2015
+3339,NLD,Netherlands,5.48,2016
+3340,NLD,Netherlands,5.36,2018
+3341,NLD,Netherlands,5.18,2017
+3342,NLD,Netherlands,5.16,2019
+3343,NLD,Netherlands,5.30,2020
+3344,NZL,New Zealand,2.30,1937
+3345,NZL,New Zealand,3.20,1960
+3346,NZL,New Zealand,4.75,1973
+3347,NZL,New Zealand,4.75,1974
+3348,NZL,New Zealand,5.17,1975
+3349,NZL,New Zealand,5.45,1976
+3350,NZL,New Zealand,4.45,1977
+3351,NZL,New Zealand,4.53,1978
+3352,NZL,New Zealand,4.47,1979
+3353,NZL,New Zealand,4.23,1980
+3354,NZL,New Zealand,4.44,1981
+3355,NZL,New Zealand,4.53,1982
+3356,NZL,New Zealand,4.05,1984
+3357,NZL,New Zealand,3.55,1985
+3358,NZL,New Zealand,3.43,1986
+3359,NZL,New Zealand,3.92,1987
+3360,NZL,New Zealand,4.43,1988
+3361,NZL,New Zealand,4.82,1989
+3362,NZL,New Zealand,7.30,1993
+3363,NZL,New Zealand,5.93,1994
+3364,NZL,New Zealand,5.74,1995
+3365,NZL,New Zealand,6.38,1996
+3366,NZL,New Zealand,6.16,1997
+3367,NZL,New Zealand,6.64,1999
+3368,NZL,New Zealand,6.56,2001
+3369,NZL,New Zealand,6.41,2002
+3370,NZL,New Zealand,6.44,2003
+3371,NZL,New Zealand,6.28,2005
+3372,NZL,New Zealand,6.51,2004
+3373,NZL,New Zealand,5.95,2006
+3374,NZL,New Zealand,5.51,2008
+3375,NZL,New Zealand,5.92,2007
+3376,NZL,New Zealand,6.29,2009
+3377,NZL,New Zealand,7.00,2010
+3378,NZL,New Zealand,6.94,2011
+3379,NZL,New Zealand,7.16,2012
+3380,NZL,New Zealand,6.70,2013
+3381,NZL,New Zealand,6.33,2015
+3382,NZL,New Zealand,6.34,2014
+3383,NZL,New Zealand,6.41,2016
+3384,NZL,New Zealand,6.26,2017
+3385,NZL,New Zealand,6.05,2018
+3386,NZL,New Zealand,5.16,2019
+3387,NZL,New Zealand,5.98,2020
+3388,NIC,Nicaragua,2.04,1970
+3389,NIC,Nicaragua,2.49,1971
+3390,NIC,Nicaragua,2.82,1979
+3391,NIC,Nicaragua,3.26,1980
+3392,NIC,Nicaragua,3.79,1982
+3393,NIC,Nicaragua,5.98,1984
+3394,NIC,Nicaragua,5.35,1987
+3395,NIC,Nicaragua,2.98,1992
+3396,NIC,Nicaragua,2.23,1998
+3397,NIC,Nicaragua,2.92,1999
+3398,NIC,Nicaragua,2.39,2002
+3399,NIC,Nicaragua,3.00,2000
+3400,NIC,Nicaragua,2.42,2003
+3401,NIC,Nicaragua,4.48,2010
+3402,NIC,Nicaragua,4.08,2014
+3403,NIC,Nicaragua,4.08,2015
+3404,NIC,Nicaragua,4.08,2016
+3405,NIC,Nicaragua,4.36,2017
+3406,NIC,Nicaragua,4.47,2018
+3407,NIC,Nicaragua,4.60,2019
+3408,NIC,Nicaragua,4.63,2020
+3409,NER,Niger,1.05,1971
+3410,NER,Niger,2.07,1990
+3411,NER,Niger,2.31,1991
+3412,NER,Niger,2.24,1992
+3413,NER,Niger,2.07,1993
+3414,NER,Niger,2.27,1994
+3415,NER,Niger,2.33,1995
+3416,NER,Niger,2.14,1996
+3417,NER,Niger,2.57,1999
+3418,NER,Niger,2.28,2001
+3419,NER,Niger,2.57,2000
+3420,NER,Niger,2.40,2002
+3421,NER,Niger,1.94,2003
+3422,NER,Niger,2.56,2006
+3423,NER,Niger,3.01,2007
+3424,NER,Niger,2.72,2008
+3425,NER,Niger,3.34,2009
+3426,NER,Niger,2.72,2010
+3427,NER,Niger,3.08,2011
+3428,NER,Niger,3.69,2013
+3429,NER,Niger,3.19,2012
+3430,NER,Niger,4.49,2015
+3431,NER,Niger,5.10,2014
+3432,NER,Niger,2.96,2016
+3433,NER,Niger,2.58,2017
+3434,NER,Niger,3.46,2018
+3435,NER,Niger,3.53,2019
+3436,NER,Niger,3.84,2020
+3437,NGA,Nigeria,3.21,1974
+3438,NGA,Nigeria,3.06,1975
+3439,NGA,Nigeria,0.47,2010
+3440,NGA,Nigeria,0.55,2012
+3441,NGA,Nigeria,0.58,2011
+3442,NGA,Nigeria,0.53,2013
+3443,,North America (WB),7.62,1972
+3444,,North America (WB),7.04,1973
+3445,,North America (WB),7.71,1971
+3446,,North America (WB),6.69,1974
+3447,,North America (WB),6.44,1975
+3448,,North America (WB),6.72,1976
+3449,,North America (WB),7.10,1978
+3450,,North America (WB),6.73,1977
+3451,,North America (WB),6.71,1979
+3452,,North America (WB),6.48,1980
+3453,,North America (WB),6.43,1981
+3454,,North America (WB),6.88,1983
+3455,,North America (WB),6.52,1982
+3456,,North America (WB),6.64,1984
+3457,,North America (WB),6.21,1985
+3458,,North America (WB),6.04,1986
+3459,,North America (WB),6.18,1988
+3460,,North America (WB),6.32,1987
+3461,,North America (WB),5.99,1990
+3462,,North America (WB),6.10,1989
+3463,,North America (WB),6.88,1991
+3464,,North America (WB),6.77,1992
+3465,,North America (WB),7.70,1993
+3466,,North America (WB),6.32,1995
+3467,,North America (WB),6.68,1994
+3468,,North America (WB),5.49,1998
+3469,,North America (WB),5.53,1999
+3470,,North America (WB),5.42,2000
+3471,,North America (WB),4.95,2001
+3472,,North America (WB),4.99,2002
+3473,,North America (WB),4.77,2005
+3474,,North America (WB),4.77,2007
+3475,,North America (WB),4.63,2008
+3476,,North America (WB),4.84,2009
+3477,,North America (WB),6.04,2010
+3478,,North America (WB),5.89,2011
+3479,,North America (WB),5.42,2013
+3480,,North America (WB),5.48,2012
+3481,,North America (WB),5.49,2014
+3482,,North America (WB),4.85,2015
+3483,,North America (WB),4.81,2016
+3484,,North America (WB),5.03,2017
+3485,,North America (WB),4.90,2018
+3486,,North America (WB),5.61,2020
+3487,,North America (WB),4.88,2019
+3488,MKD,North Macedonia,4.73,1992
+3489,MKD,North Macedonia,4.53,1994
+3490,MKD,North Macedonia,4.27,1995
+3491,MKD,North Macedonia,4.30,1996
+3492,MKD,North Macedonia,3.30,2002
+3493,NOR,Norway,0.50,1870
+3494,MKD,North Macedonia,4.63,1993
+3495,NOR,Norway,1.40,1913
+3496,NOR,Norway,4.20,1960
+3497,NOR,Norway,1.90,1937
+3498,NOR,Norway,5.90,1972
+3499,NOR,Norway,5.89,1973
+3500,NOR,Norway,5.67,1974
+3501,NOR,Norway,5.55,1975
+3502,NOR,Norway,6.16,1976
+3503,NOR,Norway,5.97,1977
+3504,NOR,Norway,6.44,1978
+3505,NOR,Norway,5.78,1980
+3506,NOR,Norway,5.54,1981
+3507,NOR,Norway,5.68,1982
+3508,NOR,Norway,5.65,1983
+3509,NOR,Norway,5.43,1984
+3510,NOR,Norway,5.26,1985
+3511,NOR,Norway,5.54,1986
+3512,NOR,Norway,5.79,1987
+3513,NOR,Norway,5.87,1988
+3514,NOR,Norway,6.30,1989
+3515,NOR,Norway,6.31,1990
+3516,NOR,Norway,6.37,1991
+3517,NOR,Norway,6.64,1992
+3518,NOR,Norway,7.68,1993
+3519,NOR,Norway,7.83,1994
+3520,NOR,Norway,7.14,1996
+3521,NOR,Norway,7.70,1995
+3522,NOR,Norway,7.30,1997
+3523,NOR,Norway,7.36,1998
+3524,NOR,Norway,6.97,1999
+3525,NOR,Norway,6.47,2000
+3526,NOR,Norway,6.83,2001
+3527,NOR,Norway,7.44,2002
+3528,NOR,Norway,7.42,2003
+3529,NOR,Norway,7.30,2004
+3530,NOR,Norway,6.87,2005
+3531,NOR,Norway,6.38,2006
+3532,NOR,Norway,6.53,2007
+3533,NOR,Norway,6.29,2008
+3534,NOR,Norway,7.10,2009
+3535,NOR,Norway,6.75,2010
+3536,NOR,Norway,6.45,2011
+3537,NOR,Norway,7.37,2012
+3538,NOR,Norway,7.49,2013
+3539,NOR,Norway,7.70,2014
+3540,NOR,Norway,7.57,2015
+3541,NOR,Norway,8.03,2016
+3542,NOR,Norway,7.91,2017
+3543,NOR,Norway,7.64,2018
+3544,NOR,Norway,7.94,2019
+3545,OMN,Oman,3.79,1986
+3546,NOR,Norway,5.90,2020
+3547,OMN,Oman,3.39,1988
+3548,OMN,Oman,3.66,1987
+3549,OMN,Oman,2.98,1989
+3550,OMN,Oman,2.84,1990
+3551,OMN,Oman,2.99,1991
+3552,OMN,Oman,3.12,1992
+3553,OMN,Oman,3.51,1993
+3554,OMN,Oman,3.44,1994
+3555,OMN,Oman,3.41,1995
+3556,OMN,Oman,3.18,1996
+3557,OMN,Oman,3.36,1997
+3558,OMN,Oman,4.14,1998
+3559,OMN,Oman,4.04,1999
+3560,OMN,Oman,3.20,2000
+3561,OMN,Oman,4.02,2001
+3562,OMN,Oman,4.33,2002
+3563,OMN,Oman,3.90,2003
+3564,OMN,Oman,4.03,2004
+3565,OMN,Oman,3.52,2005
+3566,OMN,Oman,3.86,2006
+3567,OMN,Oman,4.80,2010
+3568,OMN,Oman,4.19,2009
+3569,OMN,Oman,4.46,2011
+3570,OMN,Oman,4.80,2012
+3571,OMN,Oman,5.84,2017
+3572,OMN,Oman,4.98,2013
+3573,OMN,Oman,5.21,2018
+3574,OMN,Oman,5.41,2019
+3575,PAK,Pakistan,1.65,1971
+3576,PAK,Pakistan,1.83,1973
+3577,PAK,Pakistan,1.57,1972
+3578,PAK,Pakistan,1.88,1974
+3579,PAK,Pakistan,1.98,1975
+3580,PAK,Pakistan,2.24,1976
+3581,PAK,Pakistan,2.15,1977
+3582,PAK,Pakistan,2.20,1978
+3583,PAK,Pakistan,2.20,1979
+3584,PAK,Pakistan,2.13,1980
+3585,PAK,Pakistan,1.97,1981
+3586,PAK,Pakistan,2.01,1982
+3587,PAK,Pakistan,2.07,1984
+3588,PAK,Pakistan,2.68,1986
+3589,PAK,Pakistan,2.36,1989
+3590,PAK,Pakistan,2.57,1991
+3591,PAK,Pakistan,2.55,1992
+3592,PAK,Pakistan,2.59,1994
+3593,PAK,Pakistan,2.81,1996
+3594,PAK,Pakistan,2.61,1999
+3595,PAK,Pakistan,1.77,2004
+3596,PAK,Pakistan,2.05,2005
+3597,PAK,Pakistan,2.64,2007
+3598,PAK,Pakistan,2.59,2009
+3599,PAK,Pakistan,2.22,2011
+3600,PAK,Pakistan,2.49,2013
+3601,PAK,Pakistan,2.65,2015
+3602,PAK,Pakistan,2.90,2017
+3603,PAK,Pakistan,2.51,2019
+3604,PAK,Pakistan,2.38,2021
+3605,PLW,Palau,7.52,2002
+3606,PLW,Palau,6.24,2008
+3607,PLW,Palau,7.76,2010
+3608,PLW,Palau,7.65,2012
+3609,PLW,Palau,6.55,2014
+3610,PLW,Palau,5.86,2016
+3611,PLW,Palau,6.53,2018
+3612,PSE,Palestine,6.19,2010
+3613,PSE,Palestine,4.89,2013
+3614,PSE,Palestine,4.72,2017
+3615,PAN,Panama,4.04,1970
+3616,PAN,Panama,3.98,1972
+3617,PAN,Panama,3.82,1974
+3618,PAN,Panama,4.31,1976
+3619,PAN,Panama,3.61,1978
+3620,PAN,Panama,3.54,1980
+3621,PAN,Panama,3.42,1982
+3622,PAN,Panama,3.47,1984
+3623,PAN,Panama,3.35,1986
+3624,PAN,Panama,3.47,1994
+3625,PAN,Panama,4.09,1996
+3626,PAN,Panama,4.57,1999
+3627,PAN,Panama,4.11,2001
+3628,PAN,Panama,4.17,2003
+3629,PAN,Panama,3.50,2008
+3630,PAN,Panama,2.82,2014
+3631,PAN,Panama,2.88,2017
+3632,PAN,Panama,3.13,2019
+3633,PNG,Papua New Guinea,5.25,1972
+3634,PNG,Papua New Guinea,1.96,2017
+3635,PNG,Papua New Guinea,1.68,2019
+3636,PRY,Paraguay,2.11,1970
+3637,PRY,Paraguay,1.40,1985
+3638,PRY,Paraguay,4.23,1999
+3639,PRY,Paraguay,4.23,2000
+3640,PRY,Paraguay,3.41,2002
+3641,PRY,Paraguay,2.87,2004
+3642,PRY,Paraguay,2.77,2010
+3643,PRY,Paraguay,3.67,2012
+3644,PRY,Paraguay,4.79,2014
+3645,PRY,Paraguay,3.43,2016
+3646,PRY,Paraguay,3.09,2017
+3647,PRY,Paraguay,3.30,2020
+3648,PER,Peru,3.12,1996
+3649,PER,Peru,3.44,1999
+3650,PER,Peru,3.04,2001
+3651,PER,Peru,2.94,2003
+3652,PER,Peru,2.84,2005
+3653,PER,Peru,2.63,2007
+3654,PER,Peru,3.14,2009
+3655,PER,Peru,2.66,2011
+3656,PER,Peru,3.30,2013
+3657,PER,Peru,3.70,2014
+3658,PER,Peru,3.81,2016
+3659,PER,Peru,3.71,2018
+3660,PER,Peru,4.25,2020
+3661,PHL,Philippines,1.51,1980
+3662,PHL,Philippines,1.83,1982
+3663,PHL,Philippines,1.52,1986
+3664,PHL,Philippines,2.94,1996
+3665,PHL,Philippines,3.70,1998
+3666,PHL,Philippines,2.92,2001
+3667,PHL,Philippines,2.47,2004
+3668,PHL,Philippines,2.43,2006
+3669,PHL,Philippines,2.49,2007
+3670,PHL,Philippines,2.54,2009
+3671,PHL,Philippines,2.50,2011
+3672,PHL,Philippines,3.02,2013
+3673,PHL,Philippines,3.03,2016
+3674,PHL,Philippines,3.86,2018
+3675,PHL,Philippines,3.73,2020
+3676,POL,Poland,3.89,1991
+3677,POL,Poland,4.18,1993
+3678,POL,Poland,6.26,1996
+3679,POL,Poland,4.94,1998
+3680,POL,Poland,4.98,2000
+3681,POL,Poland,5.39,2002
+3682,POL,Poland,5.36,2004
+3683,POL,Poland,5.21,2006
+3684,POL,Poland,5.04,2008
+3685,POL,Poland,5.06,2010
+3686,POL,Poland,4.97,2013
+3687,POL,Poland,4.81,2015
+3688,POL,Poland,4.56,2017
+3689,POL,Poland,4.67,2019
+3690,PRT,Portugal,1.63,1973
+3691,PRT,Portugal,3.06,1975
+3692,PRT,Portugal,2.90,1978
+3693,PRT,Portugal,2.70,1979
+3694,PRT,Portugal,3.33,1982
+3695,PRT,Portugal,3.26,1985
+3696,PRT,Portugal,3.05,1986
+3697,PRT,Portugal,3.39,1988
+3698,PRT,Portugal,3.57,1990
+3699,PRT,Portugal,4.07,1991
+3700,PRT,Portugal,4.84,1993
+3701,PRT,Portugal,4.61,1995
+3702,PRT,Portugal,5.05,1999
+3703,PRT,Portugal,5.26,2002
+3704,PRT,Portugal,5.05,2004
+3705,PRT,Portugal,4.91,2006
+3706,PRT,Portugal,4.92,2007
+3707,PRT,Portugal,5.56,2009
+3708,PRT,Portugal,5.41,2010
+3709,PRT,Portugal,4.95,2012
+3710,PRT,Portugal,5.12,2014
+3711,PRT,Portugal,4.77,2016
+3712,PRT,Portugal,4.68,2018
+3713,PRT,Portugal,5.01,2020
+3714,PRI,Puerto Rico,7.21,1972
+3715,PRI,Puerto Rico,6.23,1975
+3716,PRI,Puerto Rico,6.39,1977
+3717,PRI,Puerto Rico,6.48,2013
+3718,PRI,Puerto Rico,4.26,2016
+3719,PRI,Puerto Rico,3.65,2018
+3720,PRI,Puerto Rico,3.56,2019
+3721,PRI,Puerto Rico,3.60,2021
+3722,QAT,Qatar,2.69,1972
+3723,QAT,Qatar,1.75,1976
+3724,QAT,Qatar,1.97,1977
+3725,QAT,Qatar,3.58,1998
+3726,QAT,Qatar,3.73,2000
+3727,QAT,Qatar,3.85,2002
+3728,QAT,Qatar,3.46,2004
+3729,QAT,Qatar,4.23,2008
+3730,QAT,Qatar,4.54,2010
+3731,QAT,Qatar,4.07,2013
+3732,QAT,Qatar,2.97,2017
+3733,QAT,Qatar,2.80,2019
+3734,ROU,Romania,3.24,1996
+3735,PAK,Pakistan,2.00,1983
+3736,PAK,Pakistan,2.44,1985
+3737,PAK,Pakistan,2.98,1987
+3738,PAK,Pakistan,2.52,1990
+3739,PAK,Pakistan,2.39,1993
+3740,PAK,Pakistan,2.80,1995
+3741,PAK,Pakistan,3.02,1997
+3742,PAK,Pakistan,1.84,2000
+3743,PAK,Pakistan,2.40,2006
+3744,PAK,Pakistan,2.75,2008
+3745,PAK,Pakistan,2.29,2010
+3746,PAK,Pakistan,2.14,2012
+3747,PAK,Pakistan,2.47,2014
+3748,PAK,Pakistan,3.00,2016
+3749,PAK,Pakistan,2.60,2018
+3750,PAK,Pakistan,2.37,2020
+3751,PLW,Palau,8.02,2000
+3752,PLW,Palau,7.71,2001
+3753,PLW,Palau,7.57,2009
+3754,PLW,Palau,7.53,2011
+3755,PLW,Palau,6.89,2013
+3756,PLW,Palau,5.71,2015
+3757,PLW,Palau,6.59,2017
+3758,PLW,Palau,6.81,2019
+3759,PSE,Palestine,5.34,2011
+3760,PSE,Palestine,4.74,2012
+3761,PSE,Palestine,4.66,2015
+3762,PSE,Palestine,4.98,2016
+3763,PSE,Palestine,5.32,2018
+3764,PAN,Panama,3.35,1971
+3765,PAN,Panama,3.49,1973
+3766,PAN,Panama,4.15,1975
+3767,PAN,Panama,4.28,1977
+3768,PAN,Panama,3.64,1979
+3769,PAN,Panama,3.43,1981
+3770,PAN,Panama,3.55,1983
+3771,PAN,Panama,3.52,1985
+3772,PAN,Panama,3.87,1987
+3773,PAN,Panama,3.95,1995
+3774,PAN,Panama,3.85,1997
+3775,PAN,Panama,4.76,2000
+3776,PAN,Panama,4.19,2002
+3777,PAN,Panama,3.58,2004
+3778,PAN,Panama,3.16,2011
+3779,PAN,Panama,3.40,2013
+3780,PAN,Panama,2.84,2015
+3781,PAN,Panama,2.85,2016
+3782,PAN,Panama,2.88,2018
+3783,PAN,Panama,3.91,2020
+3784,PNG,Papua New Guinea,7.39,1977
+3785,PNG,Papua New Guinea,1.87,2018
+3786,PNG,Papua New Guinea,1.35,2020
+3787,PRY,Paraguay,2.27,1971
+3788,PRY,Paraguay,1.04,1990
+3789,PRY,Paraguay,4.20,1998
+3790,PRY,Paraguay,3.83,2001
+3791,PRY,Paraguay,3.38,2003
+3792,PRY,Paraguay,2.74,2007
+3793,PRY,Paraguay,3.69,2011
+3794,PRY,Paraguay,4.81,2013
+3795,PRY,Paraguay,3.34,2015
+3796,PRY,Paraguay,3.28,2018
+3797,PRY,Paraguay,3.47,2019
+3798,PER,Peru,3.39,1973
+3799,PER,Peru,3.28,1998
+3800,PER,Peru,3.23,2000
+3801,PER,Peru,2.82,2002
+3802,PER,Peru,2.96,2004
+3803,PER,Peru,2.65,2006
+3804,PER,Peru,2.87,2008
+3805,PER,Peru,2.87,2010
+3806,PER,Peru,2.92,2012
+3807,PER,Peru,3.97,2015
+3808,PER,Peru,3.93,2017
+3809,PER,Peru,3.82,2019
+3810,PER,Peru,3.98,2021
+3811,PHL,Philippines,1.48,1983
+3812,PHL,Philippines,2.66,1995
+3813,PHL,Philippines,3.08,1997
+3814,PHL,Philippines,3.16,2000
+3815,PHL,Philippines,2.89,2002
+3816,PHL,Philippines,2.94,2003
+3817,PHL,Philippines,2.33,2005
+3818,PHL,Philippines,2.58,2008
+3819,PHL,Philippines,2.31,2010
+3820,PHL,Philippines,2.52,2012
+3821,PHL,Philippines,2.93,2014
+3822,PHL,Philippines,3.52,2015
+3823,PHL,Philippines,3.97,2017
+3824,PHL,Philippines,3.36,2019
+3825,POL,Poland,4.19,1992
+3826,POL,Poland,4.33,1995
+3827,POL,Poland,4.59,1999
+3828,POL,Poland,5.32,2001
+3829,POL,Poland,5.32,2003
+3830,POL,Poland,5.43,2005
+3831,POL,Poland,4.87,2007
+3832,POL,Poland,4.99,2009
+3833,POL,Poland,4.82,2011
+3834,POL,Poland,4.83,2012
+3835,POL,Poland,4.94,2014
+3836,POL,Poland,4.63,2016
+3837,POL,Poland,4.62,2018
+3838,POL,Poland,5.19,2020
+3839,PRT,Portugal,1.94,1974
+3840,PRT,Portugal,3.08,1976
+3841,PRT,Portugal,3.07,1980
+3842,PRT,Portugal,3.19,1981
+3843,PRT,Portugal,3.23,1983
+3844,PRT,Portugal,3.14,1984
+3845,PRT,Portugal,3.16,1987
+3846,PRT,Portugal,3.48,1989
+3847,PRT,Portugal,4.34,1992
+3848,PRT,Portugal,4.67,1994
+3849,PRT,Portugal,5.07,1996
+3850,PRT,Portugal,5.16,2000
+3851,PRT,Portugal,5.34,2001
+3852,PRT,Portugal,5.28,2003
+3853,PRT,Portugal,5.07,2005
+3854,PRT,Portugal,4.70,2008
+3855,PRT,Portugal,5.12,2011
+3856,PRT,Portugal,5.27,2013
+3857,PRT,Portugal,4.89,2015
+3858,PRT,Portugal,5.02,2017
+3859,PRT,Portugal,4.63,2019
+3860,PRI,Puerto Rico,7.25,1971
+3861,PRI,Puerto Rico,6.48,1973
+3862,PRI,Puerto Rico,7.29,1974
+3863,PRI,Puerto Rico,7.14,1976
+3864,PRI,Puerto Rico,6.68,1978
+3865,PRI,Puerto Rico,6.07,2014
+3866,PRI,Puerto Rico,4.68,2015
+3867,PRI,Puerto Rico,3.96,2017
+3868,PRI,Puerto Rico,3.39,2020
+3869,QAT,Qatar,3.00,1971
+3870,QAT,Qatar,2.87,1973
+3871,QAT,Qatar,2.78,1978
+3872,QAT,Qatar,4.35,1999
+3873,QAT,Qatar,3.20,2001
+3874,QAT,Qatar,3.37,2003
+3875,QAT,Qatar,3.97,2005
+3876,QAT,Qatar,3.41,2009
+3877,QAT,Qatar,4.01,2011
+3878,QAT,Qatar,3.51,2012
+3879,QAT,Qatar,3.61,2014
+3880,QAT,Qatar,3.23,2020
+3881,ROU,Romania,2.87,2000
+3882,ROU,Romania,3.27,2001
+3883,ROU,Romania,3.50,2002
+3884,ROU,Romania,3.54,2003
+3885,ROU,Romania,3.50,2005
+3886,ROU,Romania,4.31,2006
+3887,ROU,Romania,4.00,2009
+3888,ROU,Romania,3.06,2011
+3889,ROU,Romania,3.05,2013
+3890,ROU,Romania,3.11,2015
+3891,ROU,Romania,3.10,2017
+3892,ROU,Romania,3.34,2018
+3893,ROU,Romania,3.69,2020
+3894,RUS,Russia,3.11,2001
+3895,RUS,Russia,3.68,2003
+3896,RUS,Russia,3.77,2005
+3897,RUS,Russia,4.10,2008
+3898,RUS,Russia,4.71,2011
+3899,RUS,Russia,3.76,2013
+3900,RUS,Russia,3.83,2015
+3901,RUS,Russia,4.69,2017
+3902,RUS,Russia,3.52,2019
+3903,RWA,Rwanda,2.15,1977
+3904,RWA,Rwanda,2.67,1980
+3905,RWA,Rwanda,4.39,1981
+3906,RWA,Rwanda,3.34,1988
+3907,RWA,Rwanda,3.75,1989
+3908,RWA,Rwanda,3.44,2000
+3909,RWA,Rwanda,4.83,2001
+3910,RWA,Rwanda,3.50,2008
+3911,RWA,Rwanda,4.39,2011
+3912,RWA,Rwanda,4.74,2013
+3913,RWA,Rwanda,3.65,2015
+3914,RWA,Rwanda,3.13,2017
+3915,RWA,Rwanda,3.07,2018
+3916,RWA,Rwanda,3.33,2020
+3917,KNA,Saint Kitts and Nevis,3.97,1985
+3918,KNA,Saint Kitts and Nevis,2.20,1989
+3919,KNA,Saint Kitts and Nevis,2.58,1995
+3920,KNA,Saint Kitts and Nevis,4.02,1998
+3921,KNA,Saint Kitts and Nevis,4.74,2000
+3922,KNA,Saint Kitts and Nevis,3.92,2002
+3923,KNA,Saint Kitts and Nevis,3.97,2004
+3924,KNA,Saint Kitts and Nevis,4.06,2006
+3925,KNA,Saint Kitts and Nevis,3.63,2012
+3926,KNA,Saint Kitts and Nevis,3.86,2014
+3927,KNA,Saint Kitts and Nevis,4.15,2016
+3928,KNA,Saint Kitts and Nevis,4.42,2018
+3929,KNA,Saint Kitts and Nevis,3.40,2020
+3930,LCA,Saint Lucia,5.54,1982
+3931,LCA,Saint Lucia,6.53,1994
+3932,LCA,Saint Lucia,5.45,1999
+3933,LCA,Saint Lucia,3.53,2003
+3934,LCA,Saint Lucia,4.24,2005
+3935,LCA,Saint Lucia,4.48,2008
+3936,LCA,Saint Lucia,3.48,2010
+3937,LCA,Saint Lucia,3.27,2012
+3938,LCA,Saint Lucia,3.88,2014
+3939,LCA,Saint Lucia,3.87,2015
+3940,LCA,Saint Lucia,3.34,2018
+3941,LCA,Saint Lucia,3.27,2019
+3942,VCT,Saint Vincent and the Grenadines,4.43,1986
+3943,VCT,Saint Vincent and the Grenadines,4.87,1991
+3944,VCT,Saint Vincent and the Grenadines,4.03,1998
+3945,VCT,Saint Vincent and the Grenadines,5.75,1999
+3946,VCT,Saint Vincent and the Grenadines,7.91,2000
+3947,VCT,Saint Vincent and the Grenadines,7.80,2002
+3948,VCT,Saint Vincent and the Grenadines,8.64,2003
+3949,VCT,Saint Vincent and the Grenadines,6.35,2005
+3950,VCT,Saint Vincent and the Grenadines,5.67,2007
+3951,VCT,Saint Vincent and the Grenadines,5.09,2010
+3952,VCT,Saint Vincent and the Grenadines,5.16,2015
+3953,VCT,Saint Vincent and the Grenadines,5.73,2017
+3954,WSM,Samoa,4.02,1999
+3955,WSM,Samoa,3.58,2000
+3956,WSM,Samoa,5.14,2008
+3957,WSM,Samoa,6.61,2011
+3958,WSM,Samoa,5.16,2012
+3959,WSM,Samoa,5.41,2014
+3960,WSM,Samoa,4.16,2016
+3961,WSM,Samoa,4.53,2018
+3962,WSM,Samoa,4.81,2020
+3963,SMR,San Marino,2.70,2011
+3964,SMR,San Marino,3.34,2016
+3965,SMR,San Marino,3.56,2018
+3966,SMR,San Marino,3.42,2020
+3967,STP,Sao Tome and Principe,3.25,2003
+3968,STP,Sao Tome and Principe,4.86,2005
+3969,STP,Sao Tome and Principe,6.29,2007
+3970,STP,Sao Tome and Principe,10.68,2009
+3971,STP,Sao Tome and Principe,8.89,2011
+3972,STP,Sao Tome and Principe,5.94,2013
+3973,STP,Sao Tome and Principe,3.75,2014
+3974,STP,Sao Tome and Principe,5.17,2016
+3975,STP,Sao Tome and Principe,5.24,2018
+3976,STP,Sao Tome and Principe,5.01,2020
+3977,SAU,Saudi Arabia,3.89,1981
+3978,SAU,Saudi Arabia,5.98,1983
+3979,SAU,Saudi Arabia,6.26,1986
+3980,SAU,Saudi Arabia,5.78,1991
+3981,SAU,Saudi Arabia,6.00,1993
+3982,SAU,Saudi Arabia,5.69,1995
+3983,SAU,Saudi Arabia,4.38,1997
+3984,SAU,Saudi Arabia,7.07,1999
+3985,SAU,Saudi Arabia,5.91,2000
+3986,SAU,Saudi Arabia,7.11,2003
+3987,SAU,Saudi Arabia,5.43,2005
+3988,SAU,Saudi Arabia,5.14,2008
+3989,SAU,Saudi Arabia,8.51,2016
+3990,SAU,Saudi Arabia,7.09,2018
+3991,SAU,Saudi Arabia,7.81,2020
+3992,SEN,Senegal,2.47,1998
+3993,SEN,Senegal,2.46,2000
+3994,SEN,Senegal,3.08,2004
+3995,SEN,Senegal,3.82,2006
+3996,SEN,Senegal,4.92,2009
+3997,SEN,Senegal,4.90,2011
+3998,SEN,Senegal,5.69,2013
+3999,SEN,Senegal,5.46,2015
+4000,SEN,Senegal,5.11,2016
+4001,SEN,Senegal,4.86,2018
+4002,SEN,Senegal,5.50,2020
+4003,SRB,Serbia,4.21,2007
+4004,SRB,Serbia,4.33,2010
+4005,SRB,Serbia,4.16,2012
+4006,SRB,Serbia,3.79,2015
+4007,ROU,Romania,3.31,2004
+4008,ROU,Romania,4.15,2007
+4009,ROU,Romania,4.10,2008
+4010,ROU,Romania,3.49,2010
+4011,ROU,Romania,2.96,2012
+4012,ROU,Romania,3.12,2014
+4013,ROU,Romania,2.98,2016
+4014,ROU,Romania,3.58,2019
+4015,RUS,Russia,2.94,2000
+4016,RUS,Russia,3.84,2002
+4017,RUS,Russia,3.55,2004
+4018,RUS,Russia,3.87,2006
+4019,RUS,Russia,3.88,2010
+4020,RUS,Russia,3.79,2012
+4021,RUS,Russia,4.01,2014
+4022,RUS,Russia,3.76,2016
+4023,RUS,Russia,4.68,2018
+4024,RUS,Russia,3.73,2020
+4025,RWA,Rwanda,2.23,1978
+4026,RWA,Rwanda,2.44,1979
+4027,RWA,Rwanda,3.51,1987
+4028,RWA,Rwanda,3.86,1999
+4029,RWA,Rwanda,3.99,2007
+4030,RWA,Rwanda,4.63,2010
+4031,RWA,Rwanda,4.42,2012
+4032,RWA,Rwanda,4.20,2014
+4033,RWA,Rwanda,3.44,2016
+4034,RWA,Rwanda,3.24,2019
+4035,RWA,Rwanda,3.82,2021
+4036,KNA,Saint Kitts and Nevis,2.64,1987
+4037,KNA,Saint Kitts and Nevis,2.00,1991
+4038,KNA,Saint Kitts and Nevis,2.30,1992
+4039,KNA,Saint Kitts and Nevis,3.32,1999
+4040,KNA,Saint Kitts and Nevis,4.42,2001
+4041,KNA,Saint Kitts and Nevis,3.79,2003
+4042,KNA,Saint Kitts and Nevis,3.83,2005
+4043,KNA,Saint Kitts and Nevis,4.19,2007
+4044,KNA,Saint Kitts and Nevis,3.82,2013
+4045,KNA,Saint Kitts and Nevis,2.64,2015
+4046,KNA,Saint Kitts and Nevis,4.25,2017
+4047,KNA,Saint Kitts and Nevis,4.30,2019
+4048,KNA,Saint Kitts and Nevis,2.45,2021
+4049,LCA,Saint Lucia,4.15,1986
+4050,LCA,Saint Lucia,5.53,1998
+4051,LCA,Saint Lucia,5.71,2001
+4052,LCA,Saint Lucia,3.44,2004
+4053,LCA,Saint Lucia,4.70,2006
+4054,LCA,Saint Lucia,3.07,2009
+4055,LCA,Saint Lucia,3.59,2011
+4056,LCA,Saint Lucia,3.86,2013
+4057,LCA,Saint Lucia,5.21,2016
+4058,LCA,Saint Lucia,3.63,2017
+4059,LCA,Saint Lucia,3.58,2020
+4060,VCT,Saint Vincent and the Grenadines,4.47,1989
+4061,VCT,Saint Vincent and the Grenadines,5.69,2009
+4062,VCT,Saint Vincent and the Grenadines,5.73,2016
+4063,VCT,Saint Vincent and the Grenadines,5.69,2018
+4064,WSM,Samoa,3.83,2001
+4065,WSM,Samoa,3.84,2002
+4066,WSM,Samoa,5.85,2010
+4067,WSM,Samoa,4.67,2013
+4068,WSM,Samoa,4.86,2015
+4069,WSM,Samoa,4.18,2017
+4070,WSM,Samoa,4.71,2019
+4071,SMR,San Marino,2.63,2010
+4072,SMR,San Marino,3.44,2015
+4073,SMR,San Marino,3.37,2017
+4074,SMR,San Marino,3.38,2019
+4075,STP,Sao Tome and Principe,2.72,2002
+4076,STP,Sao Tome and Principe,3.23,2004
+4077,STP,Sao Tome and Principe,4.27,2006
+4078,STP,Sao Tome and Principe,5.55,2008
+4079,STP,Sao Tome and Principe,9.65,2010
+4080,STP,Sao Tome and Principe,6.34,2012
+4081,STP,Sao Tome and Principe,3.86,2015
+4082,STP,Sao Tome and Principe,5.04,2017
+4083,STP,Sao Tome and Principe,5.92,2019
+4084,SAU,Saudi Arabia,4.14,1982
+4085,SAU,Saudi Arabia,6.11,1984
+4086,SAU,Saudi Arabia,5.14,1992
+4087,SAU,Saudi Arabia,6.34,1994
+4088,SAU,Saudi Arabia,4.94,1996
+4089,SAU,Saudi Arabia,8.28,1998
+4090,SAU,Saudi Arabia,7.72,2001
+4091,SAU,Saudi Arabia,7.64,2002
+4092,SAU,Saudi Arabia,6.28,2004
+4093,SAU,Saudi Arabia,5.89,2006
+4094,SAU,Saudi Arabia,8.02,2017
+4095,SAU,Saudi Arabia,6.79,2019
+4096,SEN,Senegal,2.46,1999
+4097,SEN,Senegal,2.47,2001
+4098,SEN,Senegal,2.59,2002
+4099,SEN,Senegal,2.75,2003
+4100,SEN,Senegal,4.06,2005
+4101,SEN,Senegal,4.03,2008
+4102,SEN,Senegal,5.22,2010
+4103,SEN,Senegal,4.78,2012
+4104,SEN,Senegal,5.72,2014
+4105,SEN,Senegal,4.62,2017
+4106,SEN,Senegal,5.35,2019
+4107,SRB,Serbia,4.44,2008
+4108,SRB,Serbia,4.48,2009
+4109,SRB,Serbia,4.24,2011
+4110,SRB,Serbia,3.93,2014
+4111,SRB,Serbia,3.63,2016
+4112,SRB,Serbia,3.71,2017
+4113,SRB,Serbia,3.62,2019
+4114,SRB,Serbia,3.58,2018
+4115,SYC,Seychelles,4.19,1970
+4116,SYC,Seychelles,4.07,1971
+4117,SYC,Seychelles,4.25,1972
+4118,SYC,Seychelles,4.35,1975
+4119,SYC,Seychelles,4.28,1974
+4120,SYC,Seychelles,4.75,1976
+4121,SYC,Seychelles,12.03,1984
+4122,SYC,Seychelles,10.23,1985
+4123,SYC,Seychelles,9.71,1986
+4124,SYC,Seychelles,8.29,1988
+4125,SYC,Seychelles,8.23,1989
+4126,SYC,Seychelles,9.02,1994
+4127,SYC,Seychelles,7.70,1995
+4128,SYC,Seychelles,7.78,1996
+4129,SYC,Seychelles,5.99,1998
+4130,SYC,Seychelles,5.26,1999
+4131,SYC,Seychelles,5.19,2002
+4132,SYC,Seychelles,5.37,2003
+4133,SYC,Seychelles,4.77,2006
+4134,SYC,Seychelles,3.55,2010
+4135,SYC,Seychelles,3.61,2011
+4136,SYC,Seychelles,2.61,2012
+4137,SYC,Seychelles,3.61,2013
+4138,SYC,Seychelles,4.22,2015
+4139,SYC,Seychelles,3.68,2017
+4140,SYC,Seychelles,3.91,2019
+4141,SLE,Sierra Leone,4.95,2000
+4142,SLE,Sierra Leone,3.55,2002
+4143,SLE,Sierra Leone,3.26,2003
+4144,SLE,Sierra Leone,2.80,2005
+4145,SLE,Sierra Leone,2.56,2007
+4146,SLE,Sierra Leone,2.78,2009
+4147,SLE,Sierra Leone,2.67,2011
+4148,SLE,Sierra Leone,2.38,2013
+4149,SLE,Sierra Leone,3.06,2015
+4150,SLE,Sierra Leone,4.66,2017
+4151,SLE,Sierra Leone,7.45,2019
+4152,SLE,Sierra Leone,9.09,2021
+4153,SGP,Singapore,3.11,1971
+4154,SGP,Singapore,2.49,1973
+4155,SGP,Singapore,2.44,1975
+4156,SGP,Singapore,2.45,1977
+4157,SGP,Singapore,2.25,1979
+4158,SGP,Singapore,2.58,1981
+4159,SGP,Singapore,3.95,1983
+4160,SGP,Singapore,3.32,2000
+4161,SGP,Singapore,3.98,2003
+4162,SGP,Singapore,3.20,2005
+4163,SGP,Singapore,2.95,2007
+4164,SGP,Singapore,3.08,2010
+4165,SGP,Singapore,3.03,2011
+4166,SGP,Singapore,2.85,2013
+4167,SGP,Singapore,2.86,2015
+4168,SGP,Singapore,2.77,2017
+4169,SGP,Singapore,2.74,2019
+4170,SGP,Singapore,2.81,2021
+4171,SVK,Slovakia,4.45,1993
+4172,SVK,Slovakia,4.30,1995
+4173,SVK,Slovakia,4.12,1997
+4174,SVK,Slovakia,3.86,2000
+4175,SVK,Slovakia,4.25,2002
+4176,SVK,Slovakia,4.10,2004
+4177,SVK,Slovakia,3.76,2005
+4178,SVK,Slovakia,3.52,2007
+4179,SVK,Slovakia,4.01,2009
+4180,SVK,Slovakia,3.92,2011
+4181,SVK,Slovakia,4.08,2013
+4182,SVK,Slovakia,4.59,2015
+4183,SVK,Slovakia,3.94,2017
+4184,SVK,Slovakia,4.61,2020
+4185,SVN,Slovenia,5.76,2001
+4186,SVN,Slovenia,5.67,2002
+4187,SVN,Slovenia,5.64,2004
+4188,SVN,Slovenia,5.59,2006
+4189,SVN,Slovenia,5.11,2008
+4190,SVN,Slovenia,5.55,2010
+4191,SVN,Slovenia,5.62,2012
+4192,SVN,Slovenia,5.29,2014
+4193,SVN,Slovenia,4.79,2016
+4194,SVN,Slovenia,4.94,2018
+4195,SVN,Slovenia,5.76,2020
+4196,SLB,Solomon Islands,3.88,1991
+4197,SLB,Solomon Islands,8.22,2007
+4198,SLB,Solomon Islands,7.29,2009
+4199,SLB,Solomon Islands,8.13,2011
+4200,SLB,Solomon Islands,10.17,2013
+4201,SLB,Solomon Islands,10.13,2015
+4202,SLB,Solomon Islands,12.11,2017
+4203,SLB,Solomon Islands,11.13,2019
+4204,SOM,Somalia,1.18,1972
+4205,SOM,Somalia,0.13,2017
+4206,SOM,Somalia,0.27,2019
+4207,ZAF,South Africa,5.29,1988
+4208,ZAF,South Africa,5.13,1990
+4209,ZAF,South Africa,5.89,1993
+4210,ZAF,South Africa,5.05,1996
+4211,ZAF,South Africa,4.91,2000
+4212,ZAF,South Africa,4.64,2001
+4213,ZAF,South Africa,4.35,2003
+4214,ZAF,South Africa,4.52,2005
+4215,ZAF,South Africa,4.45,2007
+4216,ZAF,South Africa,4.76,2009
+4217,ZAF,South Africa,5.29,2011
+4218,ZAF,South Africa,5.35,2013
+4219,ZAF,South Africa,5.48,2015
+4220,ZAF,South Africa,5.60,2017
+4221,ZAF,South Africa,5.92,2019
+4222,ZAF,South Africa,6.60,2021
+4223,,South Asia (WB),1.98,1975
+4224,,South Asia (WB),1.99,1980
+4225,,South Asia (WB),1.87,1982
+4226,,South Asia (WB),2.07,1984
+4227,,South Asia (WB),2.68,1986
+4228,,South Asia (WB),2.41,1990
+4229,,South Asia (WB),3.02,1997
+4230,,South Asia (WB),2.55,2000
+4231,,South Asia (WB),2.56,2004
+4232,,South Asia (WB),2.65,2006
+4233,,South Asia (WB),2.75,2008
+4234,,South Asia (WB),3.38,2010
+4235,,South Asia (WB),2.84,2011
+4236,,South Asia (WB),2.47,2014
+4237,,South Asia (WB),3.46,2016
+4238,,South Asia (WB),2.90,2018
+4239,,South Asia (WB),2.86,2020
+4240,KOR,South Korea,3.74,1971
+4241,KOR,South Korea,2.68,1973
+4242,KOR,South Korea,2.75,1976
+4243,KOR,South Korea,2.43,1977
+4244,KOR,South Korea,3.46,1980
+4245,KOR,South Korea,6.33,1982
+4246,KOR,South Korea,4.01,1984
+4247,KOR,South Korea,3.64,1986
+4248,KOR,South Korea,2.75,1988
+4249,KOR,South Korea,3.04,1990
+4250,KOR,South Korea,3.58,1992
+4251,KOR,South Korea,3.02,1994
+4252,KOR,South Korea,3.37,1998
+4253,KOR,South Korea,2.87,2009
+4254,KOR,South Korea,4.45,2015
+4255,KOR,South Korea,4.33,2017
+4256,KOR,South Korea,4.68,2019
+4257,SSD,South Sudan,1.25,2012
+4258,SSD,South Sudan,1.23,2014
+4259,SSD,South Sudan,1.54,2016
+4260,,Southern and Eastern Africa (WB),4.99,1999
+4261,,Southern and Eastern Africa (WB),4.57,2001
+4262,,Southern and Eastern Africa (WB),3.82,2005
+4263,,Southern and Eastern Africa (WB),3.84,2008
+4264,,Southern and Eastern Africa (WB),4.50,2010
+4265,,Southern and Eastern Africa (WB),4.68,2012
+4266,SYC,Seychelles,4.08,2014
+4267,SYC,Seychelles,4.42,2016
+4268,SYC,Seychelles,4.50,2018
+4269,SYC,Seychelles,5.15,2020
+4270,SLE,Sierra Leone,3.43,2001
+4271,SLE,Sierra Leone,3.11,2004
+4272,SLE,Sierra Leone,2.41,2008
+4273,SLE,Sierra Leone,2.59,2010
+4274,SLE,Sierra Leone,2.87,2012
+4275,SLE,Sierra Leone,2.66,2014
+4276,SLE,Sierra Leone,3.06,2016
+4277,SLE,Sierra Leone,6.99,2018
+4278,SLE,Sierra Leone,8.81,2020
+4279,SGP,Singapore,2.87,1972
+4280,SGP,Singapore,2.39,1974
+4281,SGP,Singapore,2.69,1976
+4282,SGP,Singapore,2.29,1978
+4283,SGP,Singapore,2.56,1980
+4284,SGP,Singapore,3.27,1982
+4285,SGP,Singapore,3.65,1988
+4286,SGP,Singapore,3.54,2001
+4287,SGP,Singapore,3.88,2002
+4288,SGP,Singapore,3.65,2004
+4289,SGP,Singapore,2.86,2006
+4290,SGP,Singapore,2.76,2008
+4291,SGP,Singapore,3.01,2009
+4292,SGP,Singapore,3.07,2012
+4293,SGP,Singapore,2.92,2014
+4294,SGP,Singapore,2.87,2016
+4295,SGP,Singapore,2.86,2018
+4296,SGP,Singapore,2.51,2020
+4297,SVK,Slovakia,5.36,1992
+4298,SVK,Slovakia,3.71,1994
+4299,SVK,Slovakia,4.12,1996
+4300,SVK,Slovakia,4.11,1999
+4301,SVK,Slovakia,3.94,2001
+4302,SVK,Slovakia,4.21,2003
+4303,SVK,Slovakia,3.71,2006
+4304,SVK,Slovakia,3.52,2008
+4305,SVK,Slovakia,4.06,2010
+4306,SVK,Slovakia,3.87,2012
+4307,SVK,Slovakia,4.23,2014
+4308,SVK,Slovakia,3.91,2016
+4309,SVK,Slovakia,3.97,2018
+4310,SVK,Slovakia,4.29,2019
+4311,SVN,Slovenia,4.91,1995
+4312,SVN,Slovenia,5.70,2003
+4313,SVN,Slovenia,5.60,2005
+4314,SVN,Slovenia,5.12,2007
+4315,SVN,Slovenia,5.55,2009
+4316,SVN,Slovenia,5.54,2011
+4317,SVN,Slovenia,5.41,2013
+4318,SVN,Slovenia,4.91,2015
+4319,SVN,Slovenia,4.78,2017
+4320,SVN,Slovenia,4.91,2019
+4321,SLB,Solomon Islands,3.40,1971
+4322,SLB,Solomon Islands,2.32,1998
+4323,SLB,Solomon Islands,7.66,2008
+4324,SLB,Solomon Islands,7.93,2010
+4325,SLB,Solomon Islands,8.09,2012
+4326,SLB,Solomon Islands,9.81,2014
+4327,SLB,Solomon Islands,12.00,2016
+4328,SLB,Solomon Islands,10.81,2018
+4329,SLB,Solomon Islands,12.75,2020
+4330,SOM,Somalia,1.28,1973
+4331,SOM,Somalia,0.23,2018
+4332,ZAF,South Africa,5.16,1987
+4333,ZAF,South Africa,4.85,1989
+4334,ZAF,South Africa,5.74,1991
+4335,ZAF,South Africa,5.30,1994
+4336,ZAF,South Africa,5.29,1999
+4337,ZAF,South Africa,4.55,2002
+4338,ZAF,South Africa,4.51,2004
+4339,ZAF,South Africa,4.53,2006
+4340,ZAF,South Africa,4.37,2008
+4341,ZAF,South Africa,5.13,2010
+4342,ZAF,South Africa,5.52,2012
+4343,ZAF,South Africa,5.49,2014
+4344,ZAF,South Africa,5.44,2016
+4345,ZAF,South Africa,5.64,2018
+4346,ZAF,South Africa,6.19,2020
+4347,,South Asia (WB),1.83,1973
+4348,,South Asia (WB),1.97,1979
+4349,,South Asia (WB),1.94,1981
+4350,,South Asia (WB),2.00,1983
+4351,,South Asia (WB),2.44,1985
+4352,,South Asia (WB),2.64,1987
+4353,,South Asia (WB),2.57,1991
+4354,,South Asia (WB),3.05,1998
+4355,,South Asia (WB),2.75,1999
+4356,,South Asia (WB),3.11,2003
+4357,,South Asia (WB),2.57,2005
+4358,,South Asia (WB),2.64,2007
+4359,,South Asia (WB),2.93,2009
+4360,,South Asia (WB),2.73,2012
+4361,,South Asia (WB),2.85,2013
+4362,,South Asia (WB),2.95,2015
+4363,,South Asia (WB),3.14,2017
+4364,,South Asia (WB),2.86,2019
+4365,KOR,South Korea,3.41,1970
+4366,KOR,South Korea,3.22,1972
+4367,KOR,South Korea,2.09,1975
+4368,KOR,South Korea,3.02,1979
+4369,KOR,South Korea,2.90,1981
+4370,KOR,South Korea,4.32,1983
+4371,KOR,South Korea,3.99,1985
+4372,KOR,South Korea,3.37,1987
+4373,KOR,South Korea,3.06,1989
+4374,KOR,South Korea,3.49,1991
+4375,KOR,South Korea,3.70,1993
+4376,KOR,South Korea,2.94,1995
+4377,KOR,South Korea,3.37,1999
+4378,KOR,South Korea,2.84,2010
+4379,KOR,South Korea,4.33,2016
+4380,KOR,South Korea,4.46,2018
+4381,SSD,South Sudan,0.96,2011
+4382,SSD,South Sudan,1.02,2013
+4383,SSD,South Sudan,1.47,2015
+4384,,Southern and Eastern Africa (WB),4.09,1985
+4385,,Southern and Eastern Africa (WB),3.77,2000
+4386,,Southern and Eastern Africa (WB),3.74,2004
+4387,,Southern and Eastern Africa (WB),3.78,2006
+4388,,Southern and Eastern Africa (WB),3.59,2009
+4389,,Southern and Eastern Africa (WB),4.39,2011
+4390,,Southern and Eastern Africa (WB),4.74,2013
+4391,,Southern and Eastern Africa (WB),4.84,2014
+4392,,Southern and Eastern Africa (WB),4.82,2015
+4393,,Southern and Eastern Africa (WB),4.82,2016
+4394,,Southern and Eastern Africa (WB),4.83,2018
+4395,,Southern and Eastern Africa (WB),4.61,2020
+4396,ESP,Spain,1.60,1937
+4397,ESP,Spain,1.30,1960
+4398,ESP,Spain,1.89,1971
+4399,ESP,Spain,1.46,1974
+4400,ESP,Spain,2.23,1978
+4401,ESP,Spain,2.60,1980
+4402,ESP,Spain,3.33,1988
+4403,ESP,Spain,3.63,1990
+4404,ESP,Spain,3.84,1992
+4405,ESP,Spain,4.48,1994
+4406,ESP,Spain,4.46,1996
+4407,ESP,Spain,4.26,1999
+4408,ESP,Spain,4.11,2001
+4409,ESP,Spain,4.17,2003
+4410,ESP,Spain,4.14,2005
+4411,ESP,Spain,4.53,2008
+4412,ESP,Spain,4.86,2010
+4413,ESP,Spain,4.47,2012
+4414,ESP,Spain,4.30,2014
+4415,ESP,Spain,4.23,2016
+4416,ESP,Spain,4.18,2018
+4417,ESP,Spain,4.59,2020
+4418,LKA,Sri Lanka,2.74,1975
+4419,LKA,Sri Lanka,2.70,1980
+4420,LKA,Sri Lanka,2.56,1982
+4421,LKA,Sri Lanka,2.17,1984
+4422,LKA,Sri Lanka,2.81,1986
+4423,LKA,Sri Lanka,2.64,1987
+4424,LKA,Sri Lanka,2.76,1989
+4425,LKA,Sri Lanka,2.92,1991
+4426,LKA,Sri Lanka,2.96,1995
+4427,LKA,Sri Lanka,3.05,1998
+4428,LKA,Sri Lanka,2.33,2006
+4429,LKA,Sri Lanka,1.98,2008
+4430,LKA,Sri Lanka,1.72,2010
+4431,LKA,Sri Lanka,1.50,2012
+4432,LKA,Sri Lanka,1.93,2014
+4433,LKA,Sri Lanka,3.45,2016
+4434,LKA,Sri Lanka,2.14,2018
+4435,,Sub-Saharan Africa (WB),3.23,1999
+4436,,Sub-Saharan Africa (WB),3.11,2001
+4437,,Sub-Saharan Africa (WB),3.11,2004
+4438,,Sub-Saharan Africa (WB),3.01,2006
+4439,,Sub-Saharan Africa (WB),3.50,2010
+4440,,Sub-Saharan Africa (WB),3.45,2012
+4441,,Sub-Saharan Africa (WB),3.67,2015
+4442,,Sub-Saharan Africa (WB),3.78,2017
+4443,,Sub-Saharan Africa (WB),3.44,2020
+4444,SDN,Sudan,1.31,2004
+4445,SDN,Sudan,1.55,2006
+4446,SDN,Sudan,2.02,2009
+4447,SUR,Suriname,5.64,2016
+4448,SUR,Suriname,4.92,2018
+4449,SUR,Suriname,5.01,2020
+4450,SWE,Sweden,6.37,1979
+4451,SWE,Sweden,6.78,1981
+4452,SWE,Sweden,5.44,1991
+4453,SWE,Sweden,6.15,1995
+4454,SWE,Sweden,7.06,1998
+4455,SWE,Sweden,6.62,2001
+4456,SWE,Sweden,6.66,2004
+4457,SWE,Sweden,6.36,2006
+4458,SWE,Sweden,6.52,2010
+4459,SWE,Sweden,7.61,2013
+4460,SWE,Sweden,7.57,2017
+4461,CHE,Switzerland,3.10,1960
+4462,CHE,Switzerland,4.19,1981
+4463,CHE,Switzerland,4.17,1985
+4464,CHE,Switzerland,4.23,1988
+4465,CHE,Switzerland,4.39,1990
+4466,CHE,Switzerland,4.94,1993
+4467,CHE,Switzerland,4.92,1996
+4468,CHE,Switzerland,4.75,1999
+4469,CHE,Switzerland,4.81,2001
+4470,CHE,Switzerland,5.37,2003
+4471,CHE,Switzerland,5.06,2005
+4472,CHE,Switzerland,4.56,2007
+4473,CHE,Switzerland,4.89,2009
+4474,CHE,Switzerland,4.82,2011
+4475,CHE,Switzerland,4.87,2013
+4476,CHE,Switzerland,4.94,2015
+4477,CHE,Switzerland,4.95,2017
+4478,CHE,Switzerland,5.09,2019
+4479,SYR,Syria,3.58,1972
+4480,SYR,Syria,3.93,1975
+4481,SYR,Syria,5.71,1977
+4482,SYR,Syria,4.97,1979
+4483,SYR,Syria,5.38,1981
+4484,SYR,Syria,6.13,1984
+4485,SYR,Syria,5.62,1986
+4486,SYR,Syria,3.62,1988
+4487,SYR,Syria,3.70,1996
+4488,SYR,Syria,5.27,2002
+4489,SYR,Syria,6.48,2003
+4490,SYR,Syria,5.28,2006
+4491,SYR,Syria,4.86,2007
+4492,SYR,Syria,5.13,2009
+4493,TJK,Tajikistan,2.07,1995
+4494,TJK,Tajikistan,2.53,1998
+4495,TJK,Tajikistan,2.33,2000
+4496,TJK,Tajikistan,2.78,2002
+4497,TJK,Tajikistan,2.77,2004
+4498,TJK,Tajikistan,3.40,2006
+4499,TJK,Tajikistan,3.46,2008
+4500,TJK,Tajikistan,4.01,2010
+4501,TJK,Tajikistan,4.02,2012
+4502,TJK,Tajikistan,5.76,2016
+4503,TJK,Tajikistan,5.56,2018
+4504,TJK,Tajikistan,5.92,2020
+4505,TZA,Tanzania,2.14,1990
+4506,TZA,Tanzania,2.46,1997
+4507,TZA,Tanzania,3.56,2004
+4508,TZA,Tanzania,3.01,2006
+4509,TZA,Tanzania,4.03,2007
+4510,TZA,Tanzania,3.96,2009
+4511,TZA,Tanzania,3.47,2012
+4512,TZA,Tanzania,3.38,2014
+4513,TZA,Tanzania,4.10,2016
+4514,TZA,Tanzania,3.70,2018
+4515,TZA,Tanzania,3.23,2020
+4516,THA,Thailand,3.07,1971
+4517,THA,Thailand,2.15,1974
+4518,THA,Thailand,2.38,1975
+4519,THA,Thailand,3.22,1977
+4520,THA,Thailand,2.57,1980
+4521,THA,Thailand,3.27,1982
+4522,THA,Thailand,3.44,1984
+4523,THA,Thailand,3.12,1987
+4524,THA,Thailand,2.50,1989
+4525,THA,Thailand,3.05,1992
+4526,THA,Thailand,3.14,1995
+4527,THA,Thailand,4.58,1997
+4528,THA,Thailand,4.83,1999
+4529,THA,Thailand,4.82,2001
+4530,THA,Thailand,3.73,2003
+4531,THA,Thailand,3.94,2005
+4532,THA,Thailand,3.60,2007
+4533,THA,Thailand,3.86,2009
+4534,,Southern and Eastern Africa (WB),4.86,2017
+4535,,Southern and Eastern Africa (WB),4.60,2019
+4536,ESP,Spain,0.40,1913
+4537,ESP,Spain,1.83,1970
+4538,ESP,Spain,2.06,1972
+4539,ESP,Spain,1.90,1976
+4540,ESP,Spain,2.08,1977
+4541,ESP,Spain,2.34,1979
+4542,ESP,Spain,3.13,1987
+4543,ESP,Spain,3.55,1989
+4544,ESP,Spain,3.74,1991
+4545,ESP,Spain,4.24,1993
+4546,ESP,Spain,4.43,1995
+4547,ESP,Spain,4.29,1998
+4548,ESP,Spain,4.17,2000
+4549,ESP,Spain,4.13,2002
+4550,ESP,Spain,4.16,2004
+4551,ESP,Spain,4.18,2006
+4552,ESP,Spain,4.25,2007
+4553,ESP,Spain,4.91,2009
+4554,ESP,Spain,4.90,2011
+4555,ESP,Spain,4.35,2013
+4556,ESP,Spain,4.29,2015
+4557,ESP,Spain,4.21,2017
+4558,ESP,Spain,4.23,2019
+4559,LKA,Sri Lanka,3.32,1973
+4560,LKA,Sri Lanka,2.57,1979
+4561,LKA,Sri Lanka,2.44,1981
+4562,LKA,Sri Lanka,2.39,1983
+4563,LKA,Sri Lanka,2.58,1985
+4564,LKA,Sri Lanka,2.83,1988
+4565,LKA,Sri Lanka,2.41,1990
+4566,LKA,Sri Lanka,3.11,1994
+4567,LKA,Sri Lanka,3.34,1996
+4568,LKA,Sri Lanka,2.26,2005
+4569,LKA,Sri Lanka,2.26,2007
+4570,LKA,Sri Lanka,2.06,2009
+4571,LKA,Sri Lanka,1.81,2011
+4572,LKA,Sri Lanka,1.62,2013
+4573,LKA,Sri Lanka,2.23,2015
+4574,LKA,Sri Lanka,2.80,2017
+4575,LKA,Sri Lanka,1.93,2019
+4576,,Sub-Saharan Africa (WB),2.65,2000
+4577,,Sub-Saharan Africa (WB),3.00,2002
+4578,,Sub-Saharan Africa (WB),3.23,2005
+4579,,Sub-Saharan Africa (WB),3.06,2008
+4580,,Sub-Saharan Africa (WB),3.17,2009
+4581,,Sub-Saharan Africa (WB),3.45,2011
+4582,,Sub-Saharan Africa (WB),3.62,2013
+4583,,Sub-Saharan Africa (WB),3.52,2014
+4584,,Sub-Saharan Africa (WB),3.56,2016
+4585,,Sub-Saharan Africa (WB),3.70,2018
+4586,,Sub-Saharan Africa (WB),3.59,2019
+4587,SDN,Sudan,1.01,2000
+4588,SDN,Sudan,1.16,2002
+4589,SDN,Sudan,1.18,2005
+4590,SDN,Sudan,1.85,2008
+4591,SUR,Suriname,5.53,2015
+4592,SUR,Suriname,5.46,2017
+4593,SUR,Suriname,6.83,2019
+4594,SWE,Sweden,5.10,1960
+4595,SWE,Sweden,6.54,1980
+4596,SWE,Sweden,5.21,1990
+4597,SWE,Sweden,5.26,1992
+4598,SWE,Sweden,5.51,1993
+4599,SWE,Sweden,6.84,1996
+4600,SWE,Sweden,6.85,1999
+4601,SWE,Sweden,6.74,2000
+4602,SWE,Sweden,6.92,2002
+4603,SWE,Sweden,6.79,2003
+4604,SWE,Sweden,6.51,2005
+4605,SWE,Sweden,6.17,2007
+4606,SWE,Sweden,6.34,2008
+4607,SWE,Sweden,6.75,2009
+4608,SWE,Sweden,6.37,2011
+4609,SWE,Sweden,7.54,2012
+4610,SWE,Sweden,7.57,2014
+4611,SWE,Sweden,7.44,2015
+4612,SWE,Sweden,7.62,2016
+4613,SWE,Sweden,7.64,2018
+4614,SWE,Sweden,7.64,2019
+4615,SWE,Sweden,7.17,2020
+4616,CHE,Switzerland,4.23,1980
+4617,CHE,Switzerland,4.26,1982
+4618,CHE,Switzerland,4.36,1983
+4619,CHE,Switzerland,4.22,1984
+4620,CHE,Switzerland,4.21,1986
+4621,CHE,Switzerland,4.16,1987
+4622,CHE,Switzerland,4.14,1989
+4623,CHE,Switzerland,4.54,1991
+4624,CHE,Switzerland,4.90,1994
+4625,CHE,Switzerland,4.91,1995
+4626,CHE,Switzerland,4.74,1998
+4627,CHE,Switzerland,4.65,2000
+4628,CHE,Switzerland,5.16,2002
+4629,CHE,Switzerland,5.29,2004
+4630,CHE,Switzerland,4.82,2006
+4631,CHE,Switzerland,4.73,2008
+4632,CHE,Switzerland,4.77,2010
+4633,CHE,Switzerland,4.86,2012
+4634,CHE,Switzerland,4.88,2014
+4635,CHE,Switzerland,4.93,2016
+4636,CHE,Switzerland,4.86,2018
+4637,CHE,Switzerland,5.22,2020
+4638,SYR,Syria,3.69,1973
+4639,SYR,Syria,5.83,1976
+4640,SYR,Syria,5.51,1978
+4641,SYR,Syria,4.58,1980
+4642,SYR,Syria,5.90,1982
+4643,SYR,Syria,6.07,1985
+4644,SYR,Syria,4.56,1987
+4645,SYR,Syria,4.03,1989
+4646,SYR,Syria,4.55,2001
+4647,SYR,Syria,5.37,2004
+4648,SYR,Syria,4.60,2008
+4649,TJK,Tajikistan,8.19,1993
+4650,TJK,Tajikistan,2.04,1996
+4651,TJK,Tajikistan,2.08,1999
+4652,TJK,Tajikistan,2.38,2001
+4653,TJK,Tajikistan,2.42,2003
+4654,TJK,Tajikistan,3.51,2005
+4655,TJK,Tajikistan,3.41,2007
+4656,TJK,Tajikistan,4.10,2009
+4657,TJK,Tajikistan,3.94,2011
+4658,TJK,Tajikistan,4.97,2015
+4659,TJK,Tajikistan,5.84,2017
+4660,TJK,Tajikistan,5.71,2019
+4661,TZA,Tanzania,2.25,1989
+4662,TZA,Tanzania,2.53,1996
+4663,TZA,Tanzania,2.18,1998
+4664,TZA,Tanzania,3.55,2005
+4665,TZA,Tanzania,4.19,2008
+4666,TZA,Tanzania,4.54,2010
+4667,TZA,Tanzania,3.56,2011
+4668,TZA,Tanzania,3.36,2013
+4669,TZA,Tanzania,4.19,2015
+4670,TZA,Tanzania,4.43,2017
+4671,TZA,Tanzania,3.60,2019
+4672,TZA,Tanzania,3.30,2021
+4673,THA,Thailand,3.03,1972
+4674,THA,Thailand,2.55,1973
+4675,THA,Thailand,3.02,1976
+4676,THA,Thailand,2.85,1979
+4677,THA,Thailand,2.88,1981
+4678,THA,Thailand,3.46,1983
+4679,THA,Thailand,3.41,1986
+4680,THA,Thailand,2.75,1988
+4681,THA,Thailand,3.09,1991
+4682,THA,Thailand,3.41,1994
+4683,THA,Thailand,3.50,1996
+4684,THA,Thailand,4.63,1998
+4685,THA,Thailand,5.25,2000
+4686,THA,Thailand,3.86,2002
+4687,THA,Thailand,4.03,2004
+4688,THA,Thailand,4.05,2006
+4689,THA,Thailand,3.51,2008
+4690,THA,Thailand,4.81,2011
+4691,THA,Thailand,3.51,2010
+4692,THA,Thailand,3.60,2012
+4693,THA,Thailand,3.82,2013
+4694,THA,Thailand,3.92,2014
+4695,THA,Thailand,3.86,2015
+4696,THA,Thailand,3.77,2016
+4697,THA,Thailand,3.47,2017
+4698,THA,Thailand,3.20,2018
+4699,THA,Thailand,3.02,2019
+4700,THA,Thailand,3.15,2020
+4701,TGO,Togo,2.11,1970
+4702,TGO,Togo,6.68,1979
+4703,TGO,Togo,5.88,1981
+4704,TGO,Togo,5.39,1984
+4705,TGO,Togo,4.72,1987
+4706,TGO,Togo,5.68,1992
+4707,TGO,Togo,4.41,1996
+4708,TGO,Togo,3.98,1998
+4709,TGO,Togo,4.19,1999
+4710,TGO,Togo,3.92,2000
+4711,TGO,Togo,3.77,2001
+4712,TGO,Togo,3.49,2002
+4713,TGO,Togo,3.33,2003
+4714,TGO,Togo,3.11,2004
+4715,TGO,Togo,3.16,2005
+4716,TGO,Togo,3.44,2006
+4717,TGO,Togo,3.51,2007
+4718,TGO,Togo,3.29,2008
+4719,TGO,Togo,3.87,2009
+4720,TGO,Togo,4.10,2010
+4721,TGO,Togo,4.31,2011
+4722,TGO,Togo,4.72,2012
+4723,TGO,Togo,4.42,2013
+4724,TGO,Togo,4.78,2014
+4725,TGO,Togo,5.11,2015
+4726,TGO,Togo,3.76,2017
+4727,TGO,Togo,3.69,2016
+4728,TGO,Togo,4.04,2018
+4729,TGO,Togo,3.99,2020
+4730,TGO,Togo,4.07,2019
+4731,TON,Tonga,10.35,1984
+4732,TON,Tonga,5.38,1999
+4733,TON,Tonga,5.52,1998
+4734,TON,Tonga,4.88,2000
+4735,TON,Tonga,4.48,2001
+4736,TON,Tonga,3.80,2002
+4737,TON,Tonga,4.16,2003
+4738,TON,Tonga,3.91,2004
+4739,TON,Tonga,6.37,2018
+4740,TON,Tonga,7.96,2019
+4741,TON,Tonga,6.52,2020
+4742,TON,Tonga,6.61,2021
+4743,TTO,Trinidad and Tobago,3.77,1980
+4744,TTO,Trinidad and Tobago,5.46,1982
+4745,TTO,Trinidad and Tobago,5.77,1983
+4746,TTO,Trinidad and Tobago,5.87,1984
+4747,TTO,Trinidad and Tobago,5.77,1985
+4748,TTO,Trinidad and Tobago,4.20,1989
+4749,TTO,Trinidad and Tobago,3.65,1990
+4750,TTO,Trinidad and Tobago,3.43,1994
+4751,TTO,Trinidad and Tobago,3.56,1995
+4752,TTO,Trinidad and Tobago,3.25,1996
+4753,TTO,Trinidad and Tobago,3.33,1997
+4754,TTO,Trinidad and Tobago,2.44,1998
+4755,TTO,Trinidad and Tobago,2.76,1999
+4756,TTO,Trinidad and Tobago,2.76,2000
+4757,TTO,Trinidad and Tobago,3.07,2001
+4758,TTO,Trinidad and Tobago,3.54,2002
+4759,TTO,Trinidad and Tobago,3.14,2003
+4760,TTO,Trinidad and Tobago,4.30,2011
+4761,TTO,Trinidad and Tobago,4.55,2012
+4762,TTO,Trinidad and Tobago,5.12,2013
+4763,TTO,Trinidad and Tobago,5.33,2014
+4764,TTO,Trinidad and Tobago,3.39,2015
+4765,TTO,Trinidad and Tobago,3.95,2016
+4766,TTO,Trinidad and Tobago,3.58,2017
+4767,TTO,Trinidad and Tobago,3.30,2018
+4768,TTO,Trinidad and Tobago,3.70,2019
+4769,TTO,Trinidad and Tobago,4.10,2020
+4770,TUN,Tunisia,5.24,1980
+4771,TUN,Tunisia,4.89,1981
+4772,TUN,Tunisia,5.29,1982
+4773,TUN,Tunisia,5.46,1983
+4774,TUN,Tunisia,5.52,1984
+4775,TUN,Tunisia,5.54,1985
+4776,TUN,Tunisia,5.88,1986
+4777,TUN,Tunisia,5.79,1990
+4778,TUN,Tunisia,6.03,1991
+4779,TUN,Tunisia,5.75,1992
+4780,TUN,Tunisia,5.98,1993
+4781,TUN,Tunisia,6.18,1994
+4782,TUN,Tunisia,6.43,1995
+4783,TUN,Tunisia,6.29,1996
+4784,TUN,Tunisia,6.68,1997
+4785,TUN,Tunisia,6.27,1999
+4786,TUN,Tunisia,6.20,2000
+4787,TUN,Tunisia,6.20,2001
+4788,TUN,Tunisia,5.79,2002
+4789,TUN,Tunisia,6.82,2003
+4790,TUN,Tunisia,6.72,2004
+4791,TUN,Tunisia,6.45,2005
+4792,TUN,Tunisia,6.44,2006
+4793,TUN,Tunisia,6.46,2007
+4794,TUN,Tunisia,6.27,2008
+4795,TUN,Tunisia,6.53,2009
+4796,TUN,Tunisia,5.96,2010
+4797,TUN,Tunisia,7.55,2011
+4798,TUN,Tunisia,5.95,2012
+4799,TUN,Tunisia,6.97,2013
+4800,TUN,Tunisia,6.88,2014
+4801,TUN,Tunisia,6.22,2015
+4802,TUN,Tunisia,7.32,2016
+4803,TUR,Turkey,4.35,1978
+4804,TUR,Turkey,2.92,1979
+4805,TUR,Turkey,2.21,1981
+4806,TUR,Turkey,2.65,1983
+4807,TUR,Turkey,1.75,1982
+4808,TUR,Turkey,2.03,1984
+4809,TUR,Turkey,1.51,1986
+4810,TUR,Turkey,1.74,1985
+4811,TUR,Turkey,3.37,1993
+4812,TUR,Turkey,3.42,1994
+4813,TUR,Turkey,2.25,1995
+4814,TUR,Turkey,0.00,1998
+4815,TUR,Turkey,2.88,1999
+4816,TUR,Turkey,2.52,2000
+4817,TUR,Turkey,2.63,2001
+4818,TUR,Turkey,2.73,2002
+4819,TUR,Turkey,2.85,2003
+4820,TUR,Turkey,2.99,2004
+4821,TUR,Turkey,2.73,2006
+4822,TUR,Turkey,3.79,2010
+4823,TUR,Turkey,4.22,2011
+4824,TUR,Turkey,4.39,2012
+4825,TUR,Turkey,4.34,2013
+4826,TUR,Turkey,4.41,2014
+4827,TUR,Turkey,4.32,2015
+4828,TUR,Turkey,4.63,2016
+4829,TUR,Turkey,4.32,2017
+4830,TUR,Turkey,4.29,2018
+4831,TUR,Turkey,4.45,2019
+4832,TUR,Turkey,3.36,2020
+4833,TKM,Turkmenistan,3.05,2012
+4834,TKM,Turkmenistan,3.12,2019
+4835,TCA,Turks and Caicos Islands,4.72,2000
+4836,TCA,Turks and Caicos Islands,4.84,2001
+4837,TCA,Turks and Caicos Islands,5.07,2002
+4838,TCA,Turks and Caicos Islands,4.73,2003
+4839,TCA,Turks and Caicos Islands,2.54,2005
+4840,TCA,Turks and Caicos Islands,2.98,2012
+4841,TCA,Turks and Caicos Islands,2.67,2013
+4842,TCA,Turks and Caicos Islands,2.59,2014
+4843,TCA,Turks and Caicos Islands,3.09,2015
+4844,TCA,Turks and Caicos Islands,2.91,2016
+4845,TCA,Turks and Caicos Islands,2.74,2017
+4846,TCA,Turks and Caicos Islands,2.74,2018
+4847,TCA,Turks and Caicos Islands,2.51,2019
+4848,TCA,Turks and Caicos Islands,3.27,2020
+4849,TCA,Turks and Caicos Islands,4.49,2021
+4850,TUV,Tuvalu,7.55,1990
+4851,TUV,Tuvalu,3.73,1997
+4852,UGA,Uganda,3.16,1971
+4853,UGA,Uganda,3.35,1973
+4854,UGA,Uganda,3.39,1974
+4855,UGA,Uganda,3.22,1975
+4856,UGA,Uganda,2.52,1982
+4857,UGA,Uganda,2.68,1976
+4858,UGA,Uganda,1.69,1983
+4859,UGA,Uganda,3.43,1985
+4860,UGA,Uganda,2.43,1984
+4861,UGA,Uganda,5.10,1988
+4862,UGA,Uganda,2.46,2000
+4863,UGA,Uganda,4.95,2004
+4864,UGA,Uganda,2.90,2005
+4865,UGA,Uganda,2.51,2006
+4866,UGA,Uganda,2.34,2007
+4867,UGA,Uganda,1.96,2008
+4868,UGA,Uganda,1.65,2009
+4869,UGA,Uganda,1.73,2010
+4870,UGA,Uganda,2.30,2011
+4871,UGA,Uganda,1.80,2012
+4872,UGA,Uganda,1.87,2013
+4873,UGA,Uganda,1.91,2014
+4874,UGA,Uganda,2.32,2015
+4875,UGA,Uganda,2.14,2016
+4876,UGA,Uganda,2.25,2017
+4877,UGA,Uganda,2.13,2018
+4878,UGA,Uganda,1.53,2019
+4879,UGA,Uganda,2.59,2020
+4880,UGA,Uganda,2.67,2021
+4881,UKR,Ukraine,4.57,1970
+4882,UKR,Ukraine,5.46,1997
+4883,UKR,Ukraine,4.45,1998
+4884,UKR,Ukraine,3.62,1999
+4885,UKR,Ukraine,4.02,2000
+4886,UKR,Ukraine,4.53,2001
+4887,UKR,Ukraine,5.40,2003
+4888,UKR,Ukraine,5.24,2002
+4889,UKR,Ukraine,5.12,2004
+4890,UKR,Ukraine,5.98,2006
+4891,UKR,Ukraine,5.85,2005
+4892,UKR,Ukraine,5.90,2007
+4893,UKR,Ukraine,7.05,2009
+4894,UKR,Ukraine,6.15,2008
+4895,UKR,Ukraine,7.40,2010
+4896,UKR,Ukraine,5.94,2011
+4897,UKR,Ukraine,6.44,2012
+4898,UKR,Ukraine,6.42,2013
+4899,UKR,Ukraine,5.87,2014
+4900,UKR,Ukraine,5.74,2015
+4901,UKR,Ukraine,5.01,2016
+4902,UKR,Ukraine,5.32,2018
+4903,UKR,Ukraine,5.42,2017
+4904,UKR,Ukraine,5.44,2019
+4905,UKR,Ukraine,5.38,2020
+4906,ARE,United Arab Emirates,1.63,2011
+4907,ARE,United Arab Emirates,1.31,2012
+4908,ARE,United Arab Emirates,1.45,2013
+4909,ARE,United Arab Emirates,1.54,2014
+4910,ARE,United Arab Emirates,1.71,2015
+4911,ARE,United Arab Emirates,1.74,2016
+4912,ARE,United Arab Emirates,1.64,2017
+4913,ARE,United Arab Emirates,1.51,2018
+4914,ARE,United Arab Emirates,3.87,2019
+4915,ARE,United Arab Emirates,3.88,2020
+4916,GBR,United Kingdom,0.10,1870
+4917,GBR,United Kingdom,1.10,1913
+4918,GBR,United Kingdom,4.00,1937
+4919,GBR,United Kingdom,4.30,1960
+4920,GBR,United Kingdom,5.03,1971
+4921,GBR,United Kingdom,5.16,1972
+4922,GBR,United Kingdom,5.45,1973
+4923,GBR,United Kingdom,5.39,1974
+4924,GBR,United Kingdom,6.27,1975
+4925,GBR,United Kingdom,6.42,1976
+4926,GBR,United Kingdom,6.06,1977
+4927,GBR,United Kingdom,5.07,1980
+4928,GBR,United Kingdom,5.29,1981
+4929,GBR,United Kingdom,5.19,1982
+4930,GBR,United Kingdom,5.06,1983
+4931,GBR,United Kingdom,4.90,1984
+4932,GBR,United Kingdom,4.59,1985
+4933,GBR,United Kingdom,4.38,1986
+4934,GBR,United Kingdom,4.37,1987
+4935,GBR,United Kingdom,4.27,1988
+4936,GBR,United Kingdom,4.13,1989
+4937,GBR,United Kingdom,4.06,1990
+4938,GBR,United Kingdom,4.12,1991
+4939,GBR,United Kingdom,4.33,1992
+4940,GBR,United Kingdom,5.40,1993
+4941,GBR,United Kingdom,4.85,1994
+4942,GBR,United Kingdom,4.84,1995
+4943,GBR,United Kingdom,4.37,1996
+4944,GBR,United Kingdom,3.99,1999
+4945,GBR,United Kingdom,4.21,1998
+4946,GBR,United Kingdom,4.02,2000
+4947,GBR,United Kingdom,4.11,2001
+4948,GBR,United Kingdom,4.63,2002
+4949,GBR,United Kingdom,4.81,2003
+4950,GBR,United Kingdom,4.73,2004
+4951,GBR,United Kingdom,4.93,2005
+4952,GBR,United Kingdom,4.97,2006
+4953,GBR,United Kingdom,4.91,2007
+4954,GBR,United Kingdom,4.88,2008
+4955,GBR,United Kingdom,5.05,2009
+4956,GBR,United Kingdom,5.67,2010
+4957,GBR,United Kingdom,5.56,2011
+4958,GBR,United Kingdom,5.66,2012
+4959,GBR,United Kingdom,5.56,2014
+4960,GBR,United Kingdom,5.50,2013
+4961,GBR,United Kingdom,5.51,2015
+4962,GBR,United Kingdom,5.38,2016
+4963,GBR,United Kingdom,5.38,2017
+4964,GBR,United Kingdom,5.17,2018
+4965,GBR,United Kingdom,5.21,2019
+4966,GBR,United Kingdom,5.53,2020
+4967,USA,United States,4.00,1960
+4968,USA,United States,5.50,1993
+4969,USA,United States,6.72,2010
+4970,USA,United States,6.52,2011
+4971,USA,United States,6.28,2012
+4972,USA,United States,6.25,2013
+4973,USA,United States,6.14,2014
+4974,USA,United States,4.95,2015
+4975,USA,United States,4.80,2016
+4976,USA,United States,5.11,2017
+4977,USA,United States,4.91,2018
+4978,USA,United States,4.99,2019
+4979,USA,United States,6.05,2020
+4980,URY,Uruguay,1.99,1979
+4981,URY,Uruguay,2.37,1984
+4982,URY,Uruguay,2.16,1980
+4983,URY,Uruguay,2.57,1985
+4984,URY,Uruguay,3.10,1986
+4985,URY,Uruguay,2.48,1991
+4986,URY,Uruguay,2.41,1992
+4987,URY,Uruguay,2.27,1994
+4988,URY,Uruguay,2.52,1995
+4989,URY,Uruguay,2.87,1996
+4990,URY,Uruguay,2.24,1998
+4991,URY,Uruguay,2.42,2000
+4992,URY,Uruguay,2.80,2001
+4993,URY,Uruguay,2.32,2002
+4994,URY,Uruguay,2.07,2003
+4995,URY,Uruguay,2.71,2005
+4996,URY,Uruguay,2.50,2004
+4997,URY,Uruguay,2.88,2006
+4998,URY,Uruguay,4.36,2011
+4999,URY,Uruguay,4.33,2012
+5000,URY,Uruguay,4.52,2013
+5001,URY,Uruguay,4.58,2014
+5002,URY,Uruguay,4.55,2015
+5003,URY,Uruguay,4.38,2016
+5004,URY,Uruguay,4.47,2017
+5005,URY,Uruguay,4.66,2018
+5006,URY,Uruguay,4.70,2019
+5007,URY,Uruguay,4.55,2020
+5008,UZB,Uzbekistan,6.20,2011
+5009,UZB,Uzbekistan,6.40,2012
+5010,UZB,Uzbekistan,5.74,2013
+5011,UZB,Uzbekistan,5.71,2014
+5012,UZB,Uzbekistan,5.49,2015
+5013,UZB,Uzbekistan,5.38,2016
+5014,UZB,Uzbekistan,5.03,2017
+5015,UZB,Uzbekistan,5.90,2018
+5016,UZB,Uzbekistan,7.00,2019
+5017,UZB,Uzbekistan,4.92,2020
+5018,VUT,Vanuatu,4.12,1994
+5019,VUT,Vanuatu,7.64,1998
+5020,VUT,Vanuatu,6.16,1999
+5021,VUT,Vanuatu,7.00,2000
+5022,VUT,Vanuatu,8.95,2001
+5023,VUT,Vanuatu,8.13,2002
+5024,VUT,Vanuatu,8.44,2003
+5025,VUT,Vanuatu,5.95,2008
+5026,VUT,Vanuatu,5.18,2014
+5027,VUT,Vanuatu,5.16,2009
+5028,VUT,Vanuatu,5.60,2015
+5029,VUT,Vanuatu,4.53,2017
+5030,VUT,Vanuatu,1.78,2019
+5031,VUT,Vanuatu,2.24,2020
+5032,VEN,Venezuela,4.16,1970
+5033,VEN,Venezuela,4.18,1971
+5034,VEN,Venezuela,4.84,1972
+5035,VEN,Venezuela,3.95,1974
+5036,VEN,Venezuela,5.20,1975
+5037,VEN,Venezuela,5.26,1977
+5038,VEN,Venezuela,4.40,1980
+5039,VEN,Venezuela,5.19,1981
+5040,VEN,Venezuela,5.01,1982
+5041,VEN,Venezuela,6.06,1983
+5042,VEN,Venezuela,4.06,1984
+5043,VEN,Venezuela,3.93,1987
+5044,VEN,Venezuela,3.63,1988
+5045,VEN,Venezuela,2.45,1990
+5046,VEN,Venezuela,4.31,1992
+5047,VEN,Venezuela,3.82,1993
+5048,VEN,Venezuela,5.01,1994
+5049,VEN,Venezuela,3.67,2006
+5050,VEN,Venezuela,3.63,2007
+5051,VEN,Venezuela,6.87,2009
+5052,VEN,Venezuela,1.93,2015
+5053,VEN,Venezuela,1.19,2016
+5054,VEN,Venezuela,1.34,2017
+5055,VNM,Vietnam,4.89,2008
+5056,VNM,Vietnam,4.82,2009
+5057,VNM,Vietnam,5.14,2010
+5058,VNM,Vietnam,4.81,2011
+5059,VNM,Vietnam,5.53,2012
+5060,VNM,Vietnam,5.65,2013
+5061,VNM,Vietnam,4.44,2014
+5062,VNM,Vietnam,4.47,2015
+5063,VNM,Vietnam,4.34,2016
+5064,VNM,Vietnam,4.09,2017
+5065,VNM,Vietnam,4.17,2018
+5066,VNM,Vietnam,4.06,2019
+5067,VNM,Vietnam,4.11,2020
+5068,,Western and Central Africa (WB),2.51,1999
+5069,,Western and Central Africa (WB),2.57,2000
+5070,,Western and Central Africa (WB),2.43,2001
+5071,,Western and Central Africa (WB),2.59,2002
+5072,,Western and Central Africa (WB),2.75,2003
+5073,,Western and Central Africa (WB),2.68,2004
+5074,,Western and Central Africa (WB),2.73,2005
+5075,,Western and Central Africa (WB),2.56,2006
+5076,,Western and Central Africa (WB),2.95,2007
+5077,,Western and Central Africa (WB),2.72,2008
+5078,,Western and Central Africa (WB),3.09,2009
+5079,,Western and Central Africa (WB),2.96,2010
+5080,,Western and Central Africa (WB),2.81,2012
+5081,,Western and Central Africa (WB),2.67,2014
+5082,,Western and Central Africa (WB),2.78,2016
+5083,,Western and Central Africa (WB),3.01,2018
+5084,,Western and Central Africa (WB),3.17,2020
+5085,OWID_WRL,World,3.85,2000
+5086,OWID_WRL,World,3.88,2002
+5087,OWID_WRL,World,4.12,2003
+5088,OWID_WRL,World,3.98,2005
+5089,OWID_WRL,World,4.03,2007
+5090,OWID_WRL,World,4.42,2009
+5091,OWID_WRL,World,4.24,2011
+5092,OWID_WRL,World,4.43,2013
+5093,OWID_WRL,World,4.39,2015
+5094,OWID_WRL,World,4.09,2017
+5095,OWID_WRL,World,4.10,2019
+5096,YEM,Yemen,9.65,2000
+5097,YEM,Yemen,5.15,2008
+5098,YEM,Yemen,5.04,2011
+5099,ZMB,Zambia,4.39,1970
+5100,ZMB,Zambia,5.95,1972
+5101,ZMB,Zambia,4.88,1974
+5102,ZMB,Zambia,6.03,1976
+5103,ZMB,Zambia,4.74,1978
+5104,ZMB,Zambia,4.13,1980
+5105,ZMB,Zambia,5.15,1982
+5106,ZMB,Zambia,4.99,1984
+5107,ZMB,Zambia,3.34,1986
+5108,ZMB,Zambia,2.09,1992
+5109,ZMB,Zambia,1.79,1994
+5110,ZMB,Zambia,2.12,1998
+5111,ZMB,Zambia,1.79,2000
+5112,ZMB,Zambia,1.74,2005
+5113,ZMB,Zambia,1.10,2008
+5114,ZMB,Zambia,3.70,2010
+5115,ZMB,Zambia,4.20,2012
+5116,ZMB,Zambia,5.20,2014
+5117,ZMB,Zambia,3.75,2016
+5118,ZMB,Zambia,4.74,2018
+5119,ZMB,Zambia,3.70,2020
+5120,ZWE,Zimbabwe,3.35,1981
+5121,ZWE,Zimbabwe,5.79,1984
+5122,ZWE,Zimbabwe,11.64,1987
+5123,ZWE,Zimbabwe,12.28,1989
+5124,ZWE,Zimbabwe,22.32,1992
+5125,ZWE,Zimbabwe,1.54,2010
+5126,ZWE,Zimbabwe,6.00,2013
+5127,ZWE,Zimbabwe,5.81,2015
+5128,ZWE,Zimbabwe,5.82,2017
+5129,,Western and Central Africa (WB),2.67,2011
+5130,,Western and Central Africa (WB),2.94,2013
+5131,,Western and Central Africa (WB),3.06,2015
+5132,,Western and Central Africa (WB),3.43,2017
+5133,,Western and Central Africa (WB),3.02,2019
+5134,OWID_WRL,World,4.11,1999
+5135,OWID_WRL,World,4.02,2001
+5136,OWID_WRL,World,3.94,2004
+5137,OWID_WRL,World,3.98,2006
+5138,OWID_WRL,World,4.20,2008
+5139,OWID_WRL,World,4.20,2010
+5140,OWID_WRL,World,4.21,2012
+5141,OWID_WRL,World,4.40,2014
+5142,OWID_WRL,World,4.25,2016
+5143,OWID_WRL,World,4.21,2018
+5144,OWID_WRL,World,4.33,2020
+5145,YEM,Yemen,9.24,2001
+5146,YEM,Yemen,4.39,2010
+5147,YEM,Yemen,5.46,2012
+5148,ZMB,Zambia,6.10,1971
+5149,ZMB,Zambia,5.49,1973
+5150,ZMB,Zambia,6.24,1975
+5151,ZMB,Zambia,5.69,1977
+5152,ZMB,Zambia,4.15,1979
+5153,ZMB,Zambia,4.00,1981
+5154,ZMB,Zambia,5.39,1983
+5155,ZMB,Zambia,4.15,1985
+5156,ZMB,Zambia,2.66,1987
+5157,ZMB,Zambia,2.74,1991
+5158,ZMB,Zambia,1.94,1993
+5159,ZMB,Zambia,1.84,1995
+5160,ZMB,Zambia,1.77,1999
+5161,ZMB,Zambia,2.46,2004
+5162,ZMB,Zambia,1.24,2007
+5163,ZMB,Zambia,2.94,2009
+5164,ZMB,Zambia,3.80,2011
+5165,ZMB,Zambia,4.30,2013
+5166,ZMB,Zambia,4.62,2015
+5167,ZMB,Zambia,3.73,2017
+5168,ZMB,Zambia,4.47,2019
+5169,ZWE,Zimbabwe,2.32,1979
+5170,ZWE,Zimbabwe,2.54,1980
+5171,ZWE,Zimbabwe,4.15,1983
+5172,ZWE,Zimbabwe,7.42,1985
+5173,ZWE,Zimbabwe,12.34,1988
+5174,ZWE,Zimbabwe,12.45,1990
+5175,ZWE,Zimbabwe,44.33,1994
+5176,ZWE,Zimbabwe,6.07,2012
+5177,ZWE,Zimbabwe,6.14,2014
+5178,ZWE,Zimbabwe,5.47,2016
+5179,ZWE,Zimbabwe,3.87,2018

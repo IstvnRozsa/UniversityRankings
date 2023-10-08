@@ -17,6 +17,7 @@ def hello_world():  # put application's code here
         if "score" in c:
             uni_features.append(c)
     continents = universities_df['continent'].unique().tolist()
+    locations = universities_df['location'].unique().tolist()
     continents.insert(0,"No Selection")
 
     countries_df = pd.read_csv("data/2_Countries.csv")
@@ -28,7 +29,7 @@ def hello_world():  # put application's code here
             country_features.append(c)
     years = countries_df['NF_Year'].unique().tolist()
 
-    return render_template('index.html', universities=universities_js, uni_features=uni_features,continents=continents,
+    return render_template('index.html', universities=universities_js, uni_features=uni_features,continents=continents, locations=locations,
                            countries=countries_js, country_features=country_features[1:], years=years)
 
 
