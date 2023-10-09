@@ -1,12 +1,12 @@
 console.log(universities);
 console.log(uni_features);
 
-function sortValues(feature, universities) {
+function sortValues(feature, data) {
     //sort the dataset based on the feature
-    universities.sort(function (a, b) {
+    data.sort(function (a, b) {
         return b[feature] - a[feature];
     });
-    return universities;
+    return data;
 }
 
 

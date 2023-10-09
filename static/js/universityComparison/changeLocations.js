@@ -15,6 +15,7 @@ comboboxCountry1.selectAll('option')
 comboboxCountry1.on('change', function () {
     selectedCountry1 = d3.select(this).property('value');
     drawHorizontalBarcharts(selectedCountry1, selectedCountry2);
+    drawLinePlot();
 });
 
 
@@ -36,6 +37,7 @@ comboboxCountry2.selectAll('option')
 comboboxCountry2.on('change', function () {
     selectedCountry2 = d3.select(this).property('value');
     drawHorizontalBarcharts(selectedCountry1, selectedCountry2);
+    drawLinePlot();
 });
 
 let selectedUniFeature2 = "ar score";
