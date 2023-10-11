@@ -73,6 +73,8 @@ function drawBarchart(data, x, y, id, number_of_bars, bar_id, min_is_null = 0) {
         .attr("y", d => yScale(d[y]))
         .attr("width", xScale.bandwidth())
         .attr("height", d => innerHeight - yScale(d[y]))
+        .attr('rx', 4)
+        .attr('ry', 4)
         .on("click", function (d) {
             console.log(this.id);
             handleSelectUni(this.id);

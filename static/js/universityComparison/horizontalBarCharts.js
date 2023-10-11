@@ -10,7 +10,7 @@ function drawHorizontalBarChart(id, data, name, value, country) {
     let svgToRemove = d3.select(id).select("svg");
     svgToRemove.remove();
 
-    data = data.filter(d => d["location"] === country).sort((a, b) => b[value] - a[value]).slice(0, 20);
+    data = data.filter(d => d["location"] === country).sort((a, b) => b[value] - a[value]).slice(0, 10);
 // Set the dimensions and margins for the chart
     const margin = {top: 20, right: 30, bottom: 30, left: 200};
     const width = 600;
@@ -38,6 +38,8 @@ function drawHorizontalBarChart(id, data, name, value, country) {
         .attr("y", d => yScale(d[name]))
         .attr("width", d => xScale(d[value]))
         .attr("height", yScale.bandwidth())
+        .attr('rx', 4)
+        .attr('ry', 4)
         .attr("fill", mainColor);
 
 // Add X and Y axes

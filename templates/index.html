@@ -28,6 +28,8 @@
                     <select id="combobox-continent" class="selectpicker"></select>
                     <h2>Score by:</h2>
                     <select id="combobox-uni-feature" class="selectpicker"></select>
+                    <p>Save the selected points:</p>
+                    <button type="button" class="btn btn-primary" id="export-button">Export to Excel</button>
 
                 </div>
             </div>
@@ -103,6 +105,8 @@
                     <li id="country2-text"></li>
                 </ul>
                 <div id="uni-spendings-lineplot"></div>
+                <h2>Uni Spend by country</h2>
+                <div id="world-map-spending"></div>
             </div>
         </div>
         <hr class="my-4">
@@ -126,16 +130,16 @@
 
 
     <script>
-        const mainColor = "#83C5BE";
-        const secondaryColor = "#006D77";
-        const highlightColor = "#E29578";
-        const highlightColor2 = "#FFDDD2";
+        const mainColor = "#007bff";
+        const secondaryColor = "#542E71";
+        const highlightColor = "#FF5714";
+        const secondaryColor2 = "#9C9C9C";
 
 
         let universities = {{ universities | safe }};
         console.log(universities);
         let edu_spendings = {{ edu_spending | safe }};
-        console.log("Edu Spending",edu_spendings);
+        console.log("Edu Spending", edu_spendings);
         let uni_features = {{ uni_features | safe }};
         console.log(uni_features);
         let countries = {{ countries | safe }};
@@ -150,17 +154,20 @@
         console.log("locations", locations);
 
     </script>
-    <script src="../static/js/changeFeature.js" type="text/javascript"></script>
     <script src="../static/js/changeYear.js" type="text/javascript"></script>
     <script src="../static/js/universityRankings/changeUniFeatures.js" type="text/javascript"></script>
     <script src="../static/js/changeCountryFeatures.js" type="text/javascript"></script>
+
     <script src="../static/js/universityRankings/barCharts.js" type="text/javascript"></script>
     <script src="../static/js/universityRankings/worldMap.js" type="text/javascript"></script>
     <script src="../static/js/scatterPlots.js" type="text/javascript"></script>
 
     <script src="../static/js/universityComparison/changeLocations.js" type="text/javascript"></script>
     <script src="../static/js/universityComparison/horizontalBarCharts.js" type="text/javascript"></script>
+    <script src="../static/js/universityComparison/spendingMap.js" type="text/javascript"></script>
     <script src="../static/js/universityComparison/linePlot.js" type="text/javascript"></script>
+    <script src="../static/js/universityRankings/saveData.js" type="text/javascript"></script>
+
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>

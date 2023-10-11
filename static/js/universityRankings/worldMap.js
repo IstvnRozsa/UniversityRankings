@@ -1,8 +1,10 @@
 function drawMap(data) {
     if (selectedContinent !== "No Selection") {
         data = data.filter(d => d["continent"] === selectedContinent);
+
     }
     data = sortValues(selectedUniFeature, data);
+    console.log("Selected continent:", selectedContinent);
 
 
 
@@ -37,7 +39,7 @@ function drawMap(data) {
             .enter()
             .append("path")
             .attr("d", path)
-            .attr("fill", mainColor);
+            .attr("fill", secondaryColor2);
 
         // Draw city points
         const points = svg.selectAll("circle")
@@ -52,7 +54,7 @@ function drawMap(data) {
             })
             .attr("r", 2)
             .style("fill",(d, i)=>{
-                return secondaryColor;
+                return mainColor;
             }
             )
             .attr("id", function (d) {

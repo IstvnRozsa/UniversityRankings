@@ -10,7 +10,7 @@ function handleSelectUni(uniId) {
     let circleID = "circle#" + selectedUni;
     let rectID = "rect#" + selectedUni;
 
-    svg_map_circles.selectAll("circle").style("fill", secondaryColor).attr("r", 2);
+    svg_map_circles.selectAll("circle").style("fill", mainColor).attr("r", 2);
     svg_map_circles.select(circleID).attr("r", 8).style("fill", highlightColor);
 
     svg_uni_chart.selectAll(".bar").attr("fill", mainColor);
@@ -53,6 +53,7 @@ comboboxContinent.selectAll('option')
 comboboxContinent.on('change', function () {
     selectedContinent = d3.select(this).property('value');
     drawBarcharts();
+    console.log(selectedContinent);
     drawMap(universities);
 });
 
