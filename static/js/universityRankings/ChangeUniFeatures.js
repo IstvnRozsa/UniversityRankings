@@ -33,7 +33,7 @@ comboboxScoreType.selectAll('option')
 // Handle the change event of the comboboxScoreType
 comboboxScoreType.on('change', function () {
     selectedUniFeature = d3.select(this).property('value');
-    drawBarcharts();
+    drawCharts();
 });
 
 
@@ -52,9 +52,8 @@ comboboxContinent.selectAll('option')
 // Handle the change event of the comboboxScoreType
 comboboxContinent.on('change', function () {
     selectedContinent = d3.select(this).property('value');
-    drawBarcharts();
     console.log(selectedContinent);
-    drawMap(universities);
+    drawCharts();
 });
 
 
