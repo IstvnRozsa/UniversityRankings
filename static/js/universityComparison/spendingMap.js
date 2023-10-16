@@ -1,45 +1,51 @@
-function drawMap(data) {
-    let svgToRemove = d3.select("#world-map-spending").select("svg");
-    svgToRemove.remove();
 
-// Set the width and height of the SVG container
-    const width = 860;
-    const height = 500;
+var map = L.map('world-map-spending').setView([37.8, -96], 4);
 
-    var colorScale = d3.scaleThreshold()
-        .domain([1, 3, 5, 7, 9, 10])
-        .range(d3.schemeBlues[7]);
+var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+}).addTo(map);
 
+L.geoJson(statesData).addTo(map);
 
-// Create an SVG container
-    const svg = d3.select("#world-map-spending")
-        .append("svg")
-        .attr("width", width)
-        .attr("height", height);
-
-// Load the map data (e.g., GeoJSON)
-    d3.json("https://raw.githubusercontent.com/iamspruce/intro-d3/main/data/countries-110m.geojson").then(function (mapData) {
-        // Create a projection
-
-        let projection = d3.geoMercator()
-            .center([20, 30])
-            .scale(150)
-            .translate([width / 2, (height - 100) / 2]);
-
-        // Create a path generator
-        const path = d3.geoPath()
-            .projection(projection);
-
-        // Draw the map
-        svg.selectAll("path")
-            .data(mapData.features)
-            .enter()
-            .append("path")
-            .attr("d", path)
-            .attr("fill", secondaryColor2);
-
-
-    });
+function getColor(d) {
+    return d > 1000 ? '#800026' :
+           d > 500  ? '#BD0026' :
+           d > 200  ? '#E31A1C' :
+           d > 100  ? '#FC4E2A' :
+           d > 50   ? '#FD8D3C' :
+           d > 20   ? '#FEB24C' :
+           d > 10   ? '#FED976' :
+                      '#FFEDA0';
 }
 
-drawMap(universities);
+function style(feature) {
+    return {
+        fillColor: getColor(feature.properties.density),
+        weight: 2,
+        opacity: 1,
+        color: 'white',
+        dashArray: '3',
+        fillOpacity: 0.7
+    };
+}
+
+L.geoJson(statesData, {style: style}).addTo(map);
+
+
+function highlightFeature(e) {
+    var layer = e.target;
+
+    layer.setStyle({
+        weight: 5,
+        color: '#666',
+        dashArray: '',
+        fillOpacity: 0.7
+    });
+
+    layer.bringToFront();
+}
+
+function resetHighlight(e) {
+    geojson.resetStyle(e.target);
+}
