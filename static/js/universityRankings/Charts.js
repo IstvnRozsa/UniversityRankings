@@ -247,10 +247,8 @@ function drawMap(data) {
     });
 }
 
+
 function drawCharts() {
-
-
-
     let scoresByLocation = groupByLocation("acode3", "location", "continent", selectedUniFeature);
     drawBarchart(scoresByLocation, "location", selectedUniFeature, "#bar-chart-location", 15, "acode3", 1);
     drawBarchart(universities, "institution", selectedUniFeature, "#bar-chart-universities", 8, "Rank");
