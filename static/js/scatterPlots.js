@@ -82,5 +82,3 @@ function drawCountryScatterPlot(plotId, x_axes, y_axes, year) {
 }
 
 drawCountryScatterPlot("#country-scatter-plot", "Agricultural land (% of land area)", "Agricultural land (% of land area)", 2016);
-drawCountryScatterPlot("#country-scatter-plot2", "Agricultural land (% of land area)", "Agricultural land (% of land area)", 2016);
-drawCountryScatterPlot("#country-scatter-plot3", "Agricultural land (% of land area)", "Agricultural land (% of land area)", 2016);
