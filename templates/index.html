@@ -42,7 +42,7 @@
 
                 </div>
             </div>
-            <div class="col-8">
+            <div class="col-8" id="diagrams-section-1">
 
                 <div id="bar-chart-location"></div>
                 <div id="bar-chart-universities"></div>
@@ -108,13 +108,15 @@
                 <div id="top-unis-chart1"></div>
                 <h2 id="header-country2"></h2>
                 <div id="top-unis-chart2"></div>
-                <h2>University spendings</h2>
+                <h2>Public spending on education as a share of GDP by year</h2>
+                <p>Total general government expenditure on education (all levels of government and all levels of education),given as a share of GDP.</p>
                 <ul>
                     <li id="country1-text"></li>
                     <li id="country2-text"></li>
                 </ul>
                 <div id="uni-spendings-lineplot"></div>
-                <h2>Uni Spend by country</h2>
+                <h2>Public spending on education as a share of GDP in 2016</h2>
+                <p>Total general government expenditure on education (all levels of government and all levels of education),given as a share of GDP.</p>
                 <div id="world-map-spending" style="width: 800px; height: 400px;"></div>
             </div>
         </div>
@@ -159,6 +161,9 @@
         console.log("Continents", continents);
         let locations = {{ locations | safe }};
         console.log("locations", locations);
+
+        let geoJson = {{ geojson_data | safe }};
+        console.log("geojson: ", geoJson);
 
     </script>
 
