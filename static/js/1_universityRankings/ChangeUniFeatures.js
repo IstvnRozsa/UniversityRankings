@@ -9,6 +9,12 @@ function handleSelectUni(uniId) {
 
     let circleID = "circle#" + selectedUni;
     let rectID = "rect#" + selectedUni;
+    try{
+        popups[uniId].openPopup();
+    }catch(error){
+        console.log(error)
+    }
+
 
     svg_map_circles.selectAll("circle").style("fill", mainColor).attr("r", 2);
     svg_map_circles.select(circleID).attr("r", 8).style("fill", highlightColor);
