@@ -49,3 +49,25 @@ html {
 .leaflet-control-attribution {
   filter: invert(100%) hue-rotate(180deg) brightness(95%) contrast(90%);
 }
+#uni-map{
+    border-radius: 15px;
+}
+#world-map-spending{
+    border-radius: 15px;
+}
+
+
+.leaflet-popup-content-wrapper{
+    background-color: rgba(52, 58, 64, 0.9) !important;
+    color: white !important;
+}
+.leaflet-popup-tip{
+    background-color: rgba(52, 58, 64, 0.9) !important;
+}
+
+.diagram-container{
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}

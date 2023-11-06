@@ -1,3 +1,8 @@
+var mapWidth = document.getElementsByClassName("diagram-container")[0].offsetWidth - 50;
+var uniMap = document.getElementById("uni-map");
+uniMap.style.width = mapWidth + "px";
+uniMap.style.height = "500px";
+
 var mydata = universities; //var data = universities.filter(d => d["continent"] === "Africa");
 mydata = mydata.sort(function (a, b) {
     return b["ar score"] - a["ar score"];
@@ -25,7 +30,7 @@ universities.forEach(function (obj) {
                       <li><b>Citations per faculty score:</b> ${obj["cpf score"]}</li>
                       <li><b>International Faculty score:</b> ${obj["ifr score"]}</li>
                       <li><b>International Students score:</b> ${obj["isr score"]}</li>
-                      <li><b>International Research Network score:</b> ${obj["isn score"]}</li>
+                      <li><b>International Research Network score:</b> ${obj["irn score"]}</li>
                       <li><b>Employment Outcome score:</b> ${obj["ger score"]}</li>
                       <li><b>Overall:</b> ${obj["score scaled"]}</li>
                     </ul>

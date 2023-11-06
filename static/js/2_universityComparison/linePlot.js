@@ -11,7 +11,7 @@ function drawLinePlot(id) {
 
 
     let margin = {top: 20, right: 30, bottom: 60, left: 60};
-    let width = 800 - margin.left - margin.right;
+    let width = document.getElementsByClassName("diagram-container")[0].offsetWidth - margin.left - margin.right - 15;
     let height = 400 - margin.top - margin.bottom;
 
     let svgToRemove = d3.select("#uni-spendings-lineplot").select("svg");

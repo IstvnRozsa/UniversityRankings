@@ -21,7 +21,8 @@ function drawBarchart(data, x, y, id, number_of_bars, bar_id, min_is_null = 0) {
 
 
 // Set the dimensions and margins of the chart .node().parentNode.clientWidth
-    let width = 900;
+    let width = document.getElementsByClassName("diagram-container")[0].offsetWidth - 30;
+
     let height = 260;
     let margin = {top: 20, right: 0, bottom: 30, left: 40};
 
@@ -250,8 +251,8 @@ function drawMap(data) {
 
 function drawCharts() {
     let scoresByLocation = groupByLocation("acode3", "location", "continent", selectedUniFeature);
-    drawBarchart(scoresByLocation, "location", selectedUniFeature, "#bar-chart-location", 15, "acode3", 1);
-    drawBarchart(universities, "institution", selectedUniFeature, "#bar-chart-universities", 8, "Rank");
+    drawBarchart(scoresByLocation, "location", selectedUniFeature, "#bar-chart-location", 10, "acode3", 1);
+    drawBarchart(universities, "institution", selectedUniFeature, "#bar-chart-universities", 10, "Rank");
     fillUniTable(universities);
     drawMap(universities);
 

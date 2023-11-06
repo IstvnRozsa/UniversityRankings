@@ -1,14 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-bs-theme="dark">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8"/>
+    <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
     <title>University Rankings 2023</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
-     <link rel="icon" href="../static/imgs/university.png" type="image/x-icon">
+    <link rel="icon" href="../static/imgs/university.png" type="image/x-icon">
 
     {% block head %} {% endblock %}
 </head>
-<body class="custom-body">
-    {% block body %} {% endblock %}
+<body>
+{% block body %} {% endblock %}
 </body>
 </html>

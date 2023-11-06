@@ -1,6 +1,6 @@
 function drawMultiLinePlot(selectedLocations, myColors) {
-    let margin = {top: 20, right: 30, bottom: 60, left: 60};
-    let width = 800 - margin.left - margin.right;
+    let margin = {top: 5, right: 30, bottom: 60, left: 60};
+    let width = document.getElementsByClassName("diagram-container")[0].offsetWidth - margin.left - margin.right - 30;
     let height = 400 - margin.top - margin.bottom;
 
     let svgToRemove = d3.select("#countries-line-plot").select("svg");
@@ -39,7 +39,7 @@ function drawMultiLinePlot(selectedLocations, myColors) {
 
 
 
-    y.domain([0, 8]);
+    y.domain([0, 10]);
     linePlotSvg.selectAll(".myYaxis")
         .transition()
         .duration(500)
@@ -48,6 +48,7 @@ function drawMultiLinePlot(selectedLocations, myColors) {
     for (let i = 0; i < selectedLocations.length; i++) {
         var items = edu_spendings.filter(d => d["country"] === selectedLocations[i]).sort((a, b) => b["year"] - a["year"]);
         items = items.filter(d => d["year"] >= 1990);
+        items = items.filter(d => d["year"] <= 2016);
          // Create an update selection: bind to the new data
         const u = linePlotSvg.selectAll(".myLine"+ i.toString())
             .data([items], function (d) {

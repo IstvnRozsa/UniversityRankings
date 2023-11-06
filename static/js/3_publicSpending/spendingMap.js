@@ -1,3 +1,7 @@
+var mapWidth = document.getElementsByClassName("diagram-container")[0].offsetWidth - 50;
+var spendingMap = document.getElementById("world-map-spending");
+spendingMap.style.width = mapWidth + "px";
+spendingMap.style.height = "500px";
 
 var map = L.map('world-map-spending').setView([0, 0], 2);
 

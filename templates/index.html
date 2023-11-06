@@ -18,12 +18,39 @@
 
 
 {% block body %}
+    <nav class="navbar navbar-expand-lg navbar-light bg-light" id="navbar">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">&#128214; University Rankings</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#uni-rankings">Uni Rankings</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#countries-comparison">Countries comparison</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#public-spending">Public spending on education</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://github.com/IstvnRozsa/UniversityRankings"
+                           target="_blank">Github</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        </div>
+    </nav>
 
     <div class="container">
         <div class="row">
             <div class="col-4 sticky-column">
                 <div class="sticky-top">
-                    <h1>University Rankings</h1>
+                    <h1 id="uni-rankings">&#x1F3DB;&#xFE0F; Uni Rankings</h1>
                     <p>The dashboard provides comprehensive insights into global university rankings, featuring data on
                         institutions and scores. Users can select specific features from a dropdown menu, enabling them
                         to view both institution and location rankings dynamically. A bar chart displays universities,
@@ -42,7 +69,7 @@
                             <li><b>CPF Score: </b>Citations per faculty score</li>
                             <li><b>IFR Score: </b>International Faculty score</li>
                             <li><b>ISR Score: </b>International Students score</li>
-                            <li><b>ISN Score: </b>International Research Network score</li>
+                            <li><b>IRN Score: </b>International Research Network score</li>
                             <li><b>GER Score: </b>Employment Outcome score</li>
                             <li><b>Score Scale: </b>Overall</li>
                         </ul>
@@ -59,40 +86,54 @@
             </div>
             <div class="col-8" id="diagrams-section-1">
 
-                <div id="bar-chart-location"></div>
-                <div id="bar-chart-universities"></div>
-                <ul class="nav nav-tabs" id="myTabs" role="tablist">
-                    <li class="nav-item" role="presentation">
-                        <a class="nav-link active" id="text-tab" data-bs-toggle="tab" href="#text-content" role="tab"
-                           aria-controls="text-content" aria-selected="true">Map</a>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <a class="nav-link" id="table-tab" data-bs-toggle="tab" href="#table-content" role="tab"
-                           aria-controls="table-content" aria-selected="false">Table format</a>
-                    </li>
-                </ul>
+                <div class="diagram-container">
+                    <h2>&#x1F6A9; TOP 15 Countries</h2>
+                    <p>by selected continent and selected score type.</p>
+                    <div id="bar-chart-location"></div>
+                </div>
+                <div class="diagram-container">
+                    <h2>&#x1F3E2; TOP 8 Universities</h2>
+                    <p>by selected continent, selected country and selected score type.</p>
+                    <div id="bar-chart-universities"></div>
+                </div>
+                <div class="diagram-container">
+                    <h2>&#x1F5FA; Universities on the map</h2>
+                    <p>Depending on the university's overall score, the icon size and color change.</p>
+                    <ul class="nav nav-tabs" id="myTabs" role="tablist">
+                        <li class="nav-item" role="presentation">
+                            <a class="nav-link active" id="text-tab" data-bs-toggle="tab" href="#text-content"
+                               role="tab"
+                               aria-controls="text-content" aria-selected="true">Map</a>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <a class="nav-link" id="table-tab" data-bs-toggle="tab" href="#table-content" role="tab"
+                               aria-controls="table-content" aria-selected="false">Table format</a>
+                        </li>
+                    </ul>
 
-                <div class="tab-content" id="myTabsContent">
+                    <div class="tab-content" id="myTabsContent">
 
 
-                    <!-- Tab 1: Map Content -->
-                    <div class="tab-pane fade show active" id="text-content" role="tabpanel" aria-labelledby="text-tab">
-                        <div class="p-3">
-                            <!-- Map content goes here -->
-                            <!--<div id="world-map"></div>-->
-                            <div id="uni-map" style="width: 800px; height: 400px;"></div>
+                        <!-- Tab 1: Map Content -->
+                        <div class="tab-pane fade show active" id="text-content" role="tabpanel"
+                             aria-labelledby="text-tab">
+                            <div class="p-3">
+                                <!-- Map content goes here -->
+                                <!--<div id="world-map"></div>-->
+                                <div id="uni-map"></div>
+                            </div>
                         </div>
-                    </div>
 
-                    <!-- Tab 2: Table Content -->
-                    <div class="tab-pane fade" id="table-content" role="tabpanel"
-                         aria-labelledby="table-tab">
-                        <div class="table-container">
-                            <div class="table-responsive">
-                                <table class="table table-bordered table-striped" id="university-table">
-                                    <thead class="thead-dark"></thead>
-                                    <tbody></tbody>
-                                </table>
+                        <!-- Tab 2: Table Content -->
+                        <div class="tab-pane fade" id="table-content" role="tabpanel"
+                             aria-labelledby="table-tab">
+                            <div class="table-container">
+                                <div class="table-responsive">
+                                    <table class="table table-bordered table-striped" id="university-table">
+                                        <thead class="thead-dark"></thead>
+                                        <tbody></tbody>
+                                    </table>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -106,7 +147,7 @@
         <div class="row">
             <div class="col-4 sticky-column">
                 <div class="sticky-top">
-                    <h1>Countries comparison</h1>
+                    <h1 id="countries-comparison">&#x2696;&#xFE0F; Countries comparison</h1>
                     <p>Explore and compare top universities from different countries effortlessly with our interactive
                         dashboard. Select two countries and a specific score type using intuitive combo boxes, and
                         instantly visualize the rankings in two dynamic bar charts. Stay informed about the best
@@ -121,7 +162,7 @@
                             <li><b>CPF Score: </b>Citations per faculty score</li>
                             <li><b>IFR Score: </b>International Faculty score</li>
                             <li><b>ISR Score: </b>International Students score</li>
-                            <li><b>ISN Score: </b>International Research Network score</li>
+                            <li><b>IRN Score: </b>International Research Network score</li>
                             <li><b>GER Score: </b>Employment Outcome score</li>
                             <li><b>Score Scale: </b>Overall</li>
                         </ul>
@@ -135,46 +176,67 @@
                 </div>
             </div>
             <div class="col-8">
-                <h2 id="header-country1"></h2>
-                <div id="top-unis-chart1"></div>
-                <h2 id="header-country2"></h2>
-                <div id="top-unis-chart2"></div>
-                <h2>Public spending on education as a share of GDP by year</h2>
-                <p>Total general government expenditure on education (all levels of government and all levels of
-                    education),given as a share of GDP.</p>
-                <ul>
-                    <li id="country1-text"></li>
-                    <li id="country2-text"></li>
-                </ul>
-                <div id="uni-spendings-lineplot"></div>
-
+                <div class="diagram-container">
+                    <h2 id="header-country1"></h2>
+                    <div id="top-unis-chart1"></div>
+                </div>
+                <div class="diagram-container">
+                    <h2 id="header-country2"></h2>
+                    <div id="top-unis-chart2"></div>
+                </div>
+                <div class="diagram-container">
+                    <h2>&#x1F4B5; Public spending on education as a share of GDP</h2>
+                    <p>Total general government expenditure on education (all levels of government and all levels of
+                        education),given as a share of GDP.</p>
+                    <ul>
+                        <li id="country1-text"></li>
+                        <li id="country2-text"></li>
+                    </ul>
+                    <div id="uni-spendings-lineplot"></div>
+                </div>
             </div>
         </div>
         <hr class="my-4">
         <div class="row">
             <div class="col-4 sticky-column">
                 <div class="sticky-top">
-                    <h1>Public Spending on Education</h1>
-                    <p>Lorem ipsum</p>
-                    <div class="alert alert-secondary" role="alert">
-                        <h6>Selected countries</h6>
-                        <ul id="labels-div">
-                        </ul>
-                    </div>
+                    <h1 id="public-spending">&#x1F4B5; Public Spending on Education</h1>
+                    <p>Total general government expenditure on education (all levels of government and all levels of
+                        education),given as a share of GDP.</p>
+
                     <select class="selectpicker" multiple aria-label="Multiple select example" id="combo-multi">
                     </select>
 
                 </div>
             </div>
             <div class="col-8">
-                <h2>Public spending on education as a share of GDP in 2016 by year</h2>
-                <div id="countries-line-plot"></div>
-                <h2>Public spending on education as a share of GDP in 2016</h2>
-                <p>Total general government expenditure on education (all levels of government and all levels of
-                    education),given as a share of GDP.</p>
-                <div id="world-map-spending" style="width: 800px; height: 400px;"></div>
+                <div class="diagram-container">
+                    <h2>&#x1F4B5; Public spending on education as a share of GDP</h2>
+                    <p>Public spending on Education from 1990 to 2016.</p>
+                    <div class="row" style="padding-top: 0">
+                        <div class="col-4"></div>
+                        <div class="col-4 alert alert-secondary" role="alert">
+                            <h6>Selected countries</h6>
+                            <ul id="labels-div">
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div id="countries-line-plot"></div>
+                </div>
+                <div class="diagram-container">
+                    <h2>&#x1F4B5; Public spending on education Map</h2>
+                    <p>Selected year: 2016. Total general government expenditure on education (all levels of government
+                        and
+                        all levels of
+                        education),given as a share of GDP.</p>
+                    <div id="world-map-spending" style="width: 900px; height: 500px;"></div>
+                </div>
             </div>
         </div>
+    </div>
+    <div id="footer" style="padding-top: 100px;">
+        <p class="text-center">&copy; Developed with &#10084;&#65039; by Istvan Rozsa</p>
     </div>
 
 
