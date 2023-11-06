@@ -10,7 +10,7 @@ function drawLinePlot(id) {
     console.log("Country2", country2);
 
 
-    let margin = {top: 20, right: 30, bottom: 60, left: 60};
+    let margin = {top: 5, right: 30, bottom: 60, left: 25};
     let width = document.getElementsByClassName("diagram-container")[0].offsetWidth - margin.left - margin.right - 15;
     let height = 400 - margin.top - margin.bottom;
 
@@ -83,7 +83,7 @@ function drawLinePlot(id) {
 
     const numScaleLines = d3.max([y1_max, y2_max]); // Number of scale lines you want
 
-    for (let i = 0; i < numScaleLines; i++) {
+    for (let i = 1; i < numScaleLines; i++) {
         linePlotSvg.append("line")
             .attr("x1", 0)
             .attr("y1", y(i))

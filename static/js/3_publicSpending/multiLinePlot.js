@@ -1,5 +1,5 @@
 function drawMultiLinePlot(selectedLocations, myColors) {
-    let margin = {top: 5, right: 30, bottom: 60, left: 60};
+    let margin = {top: 5, right: 30, bottom: 60, left: 25};
     let width = document.getElementsByClassName("diagram-container")[0].offsetWidth - margin.left - margin.right - 30;
     let height = 400 - margin.top - margin.bottom;
 
@@ -45,7 +45,7 @@ function drawMultiLinePlot(selectedLocations, myColors) {
 
     const numScaleLines = 10; // Number of scale lines you want
 
-    for (let i = 0; i < numScaleLines; i++) {
+    for (let i = 1; i < numScaleLines; i++) {
         linePlotSvg.append("line")
             .attr("x1", 0)
             .attr("y1", y(i))
