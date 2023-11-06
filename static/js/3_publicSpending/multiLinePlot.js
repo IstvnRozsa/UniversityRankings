@@ -31,12 +31,10 @@ function drawMultiLinePlot(selectedLocations, myColors) {
         .attr("class", "myYaxis")
 
 
-
     x.domain([1990, 2016]);
     linePlotSvg.selectAll(".myXaxis").transition()
         .duration(500)
         .call(xAxis);
-
 
 
     y.domain([0, 10]);
@@ -45,12 +43,24 @@ function drawMultiLinePlot(selectedLocations, myColors) {
         .duration(500)
         .call(yAxis);
 
+    const numScaleLines = 10; // Number of scale lines you want
+
+    for (let i = 0; i < numScaleLines; i++) {
+        linePlotSvg.append("line")
+            .attr("x1", 0)
+            .attr("y1", y(i))
+            .attr("x2", width)
+            .attr("y2", y(i))
+            .attr("stroke", "lightgray")
+            .attr("stroke-dasharray", "2,2"); // Optional dashed lines
+    }
+
     for (let i = 0; i < selectedLocations.length; i++) {
         var items = edu_spendings.filter(d => d["country"] === selectedLocations[i]).sort((a, b) => b["year"] - a["year"]);
         items = items.filter(d => d["year"] >= 1990);
         items = items.filter(d => d["year"] <= 2016);
-         // Create an update selection: bind to the new data
-        const u = linePlotSvg.selectAll(".myLine"+ i.toString())
+        // Create an update selection: bind to the new data
+        const u = linePlotSvg.selectAll(".myLine" + i.toString())
             .data([items], function (d) {
                 return d["year"];
             });
@@ -58,7 +68,7 @@ function drawMultiLinePlot(selectedLocations, myColors) {
         // Updata the line
         u
             .join("path")
-            .attr("class", "myLine"+ i.toString())
+            .attr("class", "myLine" + i.toString())
             .transition()
             .duration(500)
             .attr("d", d3.line()
@@ -72,7 +82,7 @@ function drawMultiLinePlot(selectedLocations, myColors) {
             .attr("stroke", myColors[i])
             .attr("stroke-width", 2.5)
 
-        }
+    }
 }
 
 // At the beginning, I run the update function on the first dataset:

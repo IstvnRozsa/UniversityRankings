@@ -80,6 +80,19 @@ function drawLinePlot(id) {
             return d["year"];
         });
 
+
+    const numScaleLines = d3.max([y1_max, y2_max]); // Number of scale lines you want
+
+    for (let i = 0; i < numScaleLines; i++) {
+        linePlotSvg.append("line")
+            .attr("x1", 0)
+            .attr("y1", y(i))
+            .attr("x2", width)
+            .attr("y2", y(i))
+            .attr("stroke", "lightgray")
+            .attr("stroke-dasharray", "2,2"); // Optional dashed lines
+    }
+
     // Updata the line
     u
         .join("path")
