@@ -1,5 +1,5 @@
 html {
-  scroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
 
 .sticky-top {
@@ -7,14 +7,14 @@ html {
     position: sticky;
 }
 
-.row{
+.row {
     padding-top: 40px;
 }
 
 .table-responsive {
-    height: 500px;       /* Just for the demo          */
-    overflow-y: auto;    /* Trigger vertical scroll    */
-    overflow-x: hidden;  /* Hide the horizontal scroll */
+    height: 500px; /* Just for the demo          */
+    overflow-y: auto; /* Trigger vertical scroll    */
+    overflow-x: hidden; /* Hide the horizontal scroll */
 }
 
 
@@ -22,10 +22,11 @@ html {
     padding: 6px 8px;
     font: 14px/16px Arial, Helvetica, sans-serif;
     background: white;
-    background: rgba(255,255,255,0.8);
-    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
 }
+
 .info h4 {
     margin: 0 0 5px;
     color: #777;
@@ -35,6 +36,7 @@ html {
     line-height: 18px;
     color: #555;
 }
+
 .legend i {
     width: 18px;
     height: 18px;
@@ -47,30 +49,37 @@ html {
 .leaflet-control-zoom-in,
 .leaflet-control-zoom-out,
 .leaflet-control-attribution {
-  filter: invert(100%) hue-rotate(180deg) brightness(95%) contrast(90%);
+    filter: invert(100%) hue-rotate(180deg) brightness(95%) contrast(90%);
 }
-#uni-map{
+
+#uni-map {
     border-radius: 15px;
 }
-#world-map-spending{
+
+#world-map-spending {
     border-radius: 15px;
 }
 
 
-.leaflet-popup-content-wrapper{
+.leaflet-popup-content-wrapper {
     background-color: rgba(52, 58, 64, 0.9) !important;
     color: white !important;
 }
-.leaflet-popup-tip{
+
+.leaflet-popup-tip {
     background-color: rgba(52, 58, 64, 0.9) !important;
 }
 
-.diagram-container{
+.diagram-container {
     background-color: #f8f9fa;
     padding: 10px;
     border-radius: 15px;
     margin-bottom: 10px;
+
 }
-text{
-    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+
+
+
+text {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }

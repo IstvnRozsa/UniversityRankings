@@ -181,7 +181,6 @@ function drawMap(data) {
     data = sortValues(selectedUniFeature, data);
 
 
-
     let svgToRemove = d3.select("#world-map").select("svg");
     svgToRemove.remove();
 
@@ -227,9 +226,9 @@ function drawMap(data) {
                 return projection([d.longitude, d.latitude])[1];
             })
             .attr("r", 2)
-            .style("fill",(d, i)=>{
-                return mainColor;
-            }
+            .style("fill", (d, i) => {
+                    return mainColor;
+                }
             )
             .attr("id", function (d) {
                 return "ID" + d.Rank;
